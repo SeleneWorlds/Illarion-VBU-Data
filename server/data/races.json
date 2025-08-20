@@ -1,0 +1,263 @@
+{
+  "entries": {
+    "illarion:human": {
+      "metadata": {
+        "name": "human",
+        "raceId": 0
+      }
+    },
+    "illarion:dwarf": {
+      "entityMale": "illarion:dwarf_male",
+      "metadata": {
+        "name": "dwarf",
+        "raceId": 1
+      }
+    },
+    "illarion:halfling": {
+      "metadata": {
+        "name": "halfling",
+        "raceId": 2
+      }
+    },
+    "illarion:elf": {
+      "metadata": {
+        "name": "elf",
+        "raceId": 3
+      }
+    },
+    "illarion:orc": {
+      "metadata": {
+        "name": "orc",
+        "raceId": 4
+      }
+    },
+    "illarion:lizardman": {
+      "metadata": {
+        "name": "lizardman",
+        "raceId": 5
+      }
+    },
+    "illarion:columnOfResurrection": {
+      "metadata": {
+        "name": "columnOfResurrection",
+        "raceId": 7
+      }
+    },
+    "illarion:forestTroll": {
+      "strokeArmor": 7,
+      "punctureArmor": 14,
+      "thrustArmor": 14,
+      "metadata": {
+        "name": "forestTroll",
+        "raceId": 9
+      }
+    },
+    "illarion:mummy": {
+      "strokeArmor": 2,
+      "punctureArmor": 10,
+      "thrustArmor": 5,
+      "metadata": {
+        "name": "mummy",
+        "raceId": 10
+      }
+    },
+    "illarion:skeleton": {
+      "strokeArmor": 17,
+      "punctureArmor": 35,
+      "thrustArmor": 5,
+      "metadata": {
+        "name": "skeleton",
+        "raceId": 11
+      }
+    },
+    "illarion:floatingEye": {
+      "strokeArmor": 13,
+      "punctureArmor": 13,
+      "thrustArmor": 5,
+      "metadata": {
+        "name": "floatingEye",
+        "raceId": 12
+      }
+    },
+    "illarion:sheep": {
+      "metadata": {
+        "name": "sheep",
+        "raceId": 18
+      }
+    },
+    "illarion:spider": {
+      "strokeArmor": 15,
+      "punctureArmor": 5,
+      "thrustArmor": 30,
+      "metadata": {
+        "name": "spider",
+        "raceId": 19
+      }
+    },
+    "illarion:pig": {
+      "metadata": {
+        "name": "pig",
+        "raceId": 24
+      }
+    },
+    "illarion:wasp": {
+      "strokeArmor": 17,
+      "punctureArmor": 15,
+      "thrustArmor": 6,
+      "metadata": {
+        "name": "wasp",
+        "raceId": 27
+      }
+    },
+    "illarion:golem": {
+      "strokeArmor": 40,
+      "punctureArmor": 40,
+      "thrustArmor": 23,
+      "metadata": {
+        "name": "golem",
+        "raceId": 30
+      }
+    },
+    "illarion:cow": {
+      "strokeArmor": 7,
+      "punctureArmor": 3,
+      "thrustArmor": 5,
+      "metadata": {
+        "name": "cow",
+        "raceId": 37
+      }
+    },
+    "illarion:wolf": {
+      "strokeArmor": 7,
+      "punctureArmor": 3,
+      "thrustArmor": 5,
+      "metadata": {
+        "name": "wolf",
+        "raceId": 39
+      }
+    },
+    "illarion:bear": {
+      "metadata": {
+        "name": "bear",
+        "raceId": 51
+      }
+    },
+    "illarion:raptor": {
+      "metadata": {
+        "name": "raptor",
+        "raceId": 52
+      }
+    },
+    "illarion:zombie": {
+      "metadata": {
+        "name": "zombie",
+        "raceId": 53
+      }
+    },
+    "illarion:hellhound": {
+      "metadata": {
+        "name": "hellhound",
+        "raceId": 54
+      }
+    },
+    "illarion:imp": {
+      "metadata": {
+        "name": "imp",
+        "raceId": 55
+      }
+    },
+    "illarion:ironGolem": {
+      "metadata": {
+        "name": "ironGolem",
+        "raceId": 56
+      }
+    },
+    "illarion:ratman": {
+      "metadata": {
+        "name": "ratman",
+        "raceId": 57
+      }
+    },
+    "illarion:dog": {
+      "metadata": {
+        "name": "dog",
+        "raceId": 58
+      }
+    },
+    "illarion:beetle": {
+      "metadata": {
+        "name": "beetle",
+        "raceId": 59
+      }
+    },
+    "illarion:fox": {
+      "metadata": {
+        "name": "fox",
+        "raceId": 60
+      }
+    },
+    "illarion:slime": {
+      "metadata": {
+        "name": "slime",
+        "raceId": 61
+      }
+    },
+    "illarion:chicken": {
+      "metadata": {
+        "name": "chicken",
+        "raceId": 62
+      }
+    },
+    "illarion:boneDragon": {
+      "metadata": {
+        "name": "boneDragon",
+        "raceId": 63
+      }
+    },
+    "illarion:rat": {
+      "strokeArmor": 15,
+      "punctureArmor": 15,
+      "thrustArmor": 15,
+      "metadata": {
+        "name": "rat",
+        "raceId": 111
+      }
+    },
+    "illarion:fleshDragon": {
+      "metadata": {
+        "name": "fleshDragon",
+        "raceId": 112
+      }
+    },
+    "illarion:rabbit": {
+      "metadata": {
+        "name": "rabbit",
+        "raceId": 113
+      }
+    },
+    "illarion:akaltut": {
+      "metadata": {
+        "name": "akaltut",
+        "raceId": 114
+      }
+    },
+    "illarion:fairy": {
+      "metadata": {
+        "name": "fairy",
+        "raceId": 115
+      }
+    },
+    "illarion:deer": {
+      "metadata": {
+        "name": "deer",
+        "raceId": 116
+      }
+    },
+    "illarion:etting": {
+      "metadata": {
+        "name": "etting",
+        "raceId": 117
+      }
+    }
+  }
+}

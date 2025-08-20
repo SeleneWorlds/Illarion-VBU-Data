@@ -1,0 +1,334 @@
+{
+  "entries": {
+    "illarion:tailoring": {
+      "metadata": {
+        "name": "tailoring",
+        "skillId": 14
+      }
+    },
+    "illarion:blacksmithing": {
+      "metadata": {
+        "name": "blacksmithing",
+        "skillId": 15
+      }
+    },
+    "illarion:gemcutting": {
+      "metadata": {
+        "name": "gemcutting",
+        "skillId": 18
+      }
+    },
+    "illarion:carpentry": {
+      "metadata": {
+        "name": "carpentry",
+        "skillId": 13
+      }
+    },
+    "illarion:cookingAndBaking": {
+      "metadata": {
+        "name": "cookingAndBaking",
+        "skillId": 12
+      }
+    },
+    "illarion:finesmithing": {
+      "metadata": {
+        "name": "finesmithing",
+        "skillId": 10
+      }
+    },
+    "illarion:glassBlowing": {
+      "metadata": {
+        "name": "glassBlowing",
+        "skillId": 8
+      }
+    },
+    "illarion:pottery": {
+      "metadata": {
+        "name": "pottery",
+        "skillId": 36
+      }
+    },
+    "illarion:armourer": {
+      "metadata": {
+        "name": "armourer",
+        "skillId": 50
+      }
+    },
+    "illarion:brewing": {
+      "metadata": {
+        "name": "brewing",
+        "skillId": 51
+      }
+    },
+    "illarion:harp": {
+      "metadata": {
+        "name": "harp",
+        "skillId": 34
+      }
+    },
+    "illarion:horn": {
+      "metadata": {
+        "name": "horn",
+        "skillId": 32
+      }
+    },
+    "illarion:flute": {
+      "metadata": {
+        "name": "flute",
+        "skillId": 31
+      }
+    },
+    "illarion:lute": {
+      "metadata": {
+        "name": "lute",
+        "skillId": 30
+      }
+    },
+    "illarion:herblore": {
+      "metadata": {
+        "name": "herblore",
+        "skillId": 16
+      }
+    },
+    "illarion:mining": {
+      "metadata": {
+        "name": "mining",
+        "skillId": 9
+      }
+    },
+    "illarion:fishing": {
+      "metadata": {
+        "name": "fishing",
+        "skillId": 19
+      }
+    },
+    "illarion:farming": {
+      "metadata": {
+        "name": "farming",
+        "skillId": 17
+      }
+    },
+    "illarion:woodcutting": {
+      "metadata": {
+        "name": "woodcutting",
+        "skillId": 11
+      }
+    },
+    "illarion:tanningAndWeaving": {
+      "metadata": {
+        "name": "tanningAndWeaving",
+        "skillId": 49
+      }
+    },
+    "illarion:husbandry": {
+      "metadata": {
+        "name": "husbandry",
+        "skillId": 48
+      }
+    },
+    "illarion:digging": {
+      "metadata": {
+        "name": "digging",
+        "skillId": 47
+      }
+    },
+    "illarion:parry": {
+      "metadata": {
+        "name": "parry",
+        "skillId": 24
+      }
+    },
+    "illarion:heavyArmour": {
+      "metadata": {
+        "name": "heavyArmour",
+        "skillId": 45
+      }
+    },
+    "illarion:mediumArmour": {
+      "metadata": {
+        "name": "mediumArmour",
+        "skillId": 44
+      }
+    },
+    "illarion:lightArmour": {
+      "metadata": {
+        "name": "lightArmour",
+        "skillId": 43
+      }
+    },
+    "illarion:distanceWeapons": {
+      "metadata": {
+        "name": "distanceWeapons",
+        "skillId": 29
+      }
+    },
+    "illarion:slashingWeapons": {
+      "metadata": {
+        "name": "slashingWeapons",
+        "skillId": 27
+      }
+    },
+    "illarion:concussionWeapons": {
+      "metadata": {
+        "name": "concussionWeapons",
+        "skillId": 26
+      }
+    },
+    "illarion:punctureWeapons": {
+      "metadata": {
+        "name": "punctureWeapons",
+        "skillId": 28
+      }
+    },
+    "illarion:wrestling": {
+      "metadata": {
+        "name": "wrestling",
+        "skillId": 21
+      }
+    },
+    "illarion:blessing": {
+      "metadata": {
+        "name": "blessing",
+        "skillId": 54
+      }
+    },
+    "illarion:praying": {
+      "metadata": {
+        "name": "praying",
+        "skillId": 55
+      }
+    },
+    "illarion:vowing": {
+      "metadata": {
+        "name": "vowing",
+        "skillId": 56
+      }
+    },
+    "illarion:confessing": {
+      "metadata": {
+        "name": "confessing",
+        "skillId": 57
+      }
+    },
+    "illarion:ceremony": {
+      "metadata": {
+        "name": "ceremony",
+        "skillId": 58
+      }
+    },
+    "illarion:consecrateWeapons": {
+      "metadata": {
+        "name": "consecrateWeapons",
+        "skillId": 59
+      }
+    },
+    "illarion:consecrateArmours": {
+      "metadata": {
+        "name": "consecrateArmours",
+        "skillId": 60
+      }
+    },
+    "illarion:magicResistance": {
+      "metadata": {
+        "name": "magicResistance",
+        "skillId": 37
+      }
+    },
+    "illarion:alchemy": {
+      "metadata": {
+        "name": "alchemy",
+        "skillId": 20
+      }
+    },
+    "illarion:potionLore": {
+      "metadata": {
+        "name": "potionLore",
+        "skillId": 61
+      }
+    },
+    "illarion:animalTaming": {
+      "metadata": {
+        "name": "animalTaming",
+        "skillId": 62
+      }
+    },
+    "illarion:summoning": {
+      "metadata": {
+        "name": "summoning",
+        "skillId": 63
+      }
+    },
+    "illarion:natureLore": {
+      "metadata": {
+        "name": "natureLore",
+        "skillId": 64
+      }
+    },
+    "illarion:cauldronLore": {
+      "metadata": {
+        "name": "cauldronLore",
+        "skillId": 65
+      }
+    },
+    "illarion:enchanting": {
+      "metadata": {
+        "name": "enchanting",
+        "skillId": 46
+      }
+    },
+    "illarion:fireMagic": {
+      "metadata": {
+        "name": "fireMagic",
+        "skillId": 42
+      }
+    },
+    "illarion:spiritMagic": {
+      "metadata": {
+        "name": "spiritMagic",
+        "skillId": 41
+      }
+    },
+    "illarion:windMagic": {
+      "metadata": {
+        "name": "windMagic",
+        "skillId": 40
+      }
+    },
+    "illarion:earthMagic": {
+      "metadata": {
+        "name": "earthMagic",
+        "skillId": 39
+      }
+    },
+    "illarion:wandMagic": {
+      "metadata": {
+        "name": "wandMagic",
+        "skillId": 52
+      }
+    },
+    "illarion:waterMagic": {
+      "metadata": {
+        "name": "waterMagic",
+        "skillId": 38
+      }
+    },
+    "illarion:spatialMagic": {
+      "metadata": {
+        "name": "spatialMagic",
+        "skillId": 66
+      }
+    },
+    "illarion:panpipe": {
+      "metadata": {
+        "name": "panpipe",
+        "skillId": 35
+      }
+    },
+    "illarion:clavichord": {
+      "metadata": {
+        "name": "clavichord",
+        "skillId": 67
+      }
+    }
+  }
+}

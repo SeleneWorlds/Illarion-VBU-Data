@@ -1,0 +1,7 @@
+{
+  "name": "illarion-vbu-data",
+  "description": "Illarion VBU Data",
+  "entrypoints": [
+    "common/lua/grid.lua"
+  ]
+}
