@@ -1,6 +1,6 @@
 {
   "name": "illarion-vbu-data",
-  "description": "Illarion VBU Data",
+  "description": "Data definitions for Illarion as a Selene bundle.",
   "entrypoints": [
     "common/lua/grid.lua"
   ]
