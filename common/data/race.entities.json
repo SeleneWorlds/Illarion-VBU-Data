@@ -180,14 +180,14 @@
         "typeId": 1
       }
     },
-    "illarion:race_7": {
+    "illarion:race_7_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_7"
+          "visual": "illarion:race_7_0"
         }
       },
       "metadata": {
@@ -195,14 +195,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_9": {
+    "illarion:race_9_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_9"
+          "visual": "illarion:race_9_0"
         }
       },
       "metadata": {
@@ -210,14 +210,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_10": {
+    "illarion:race_10_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_10"
+          "visual": "illarion:race_10_0"
         }
       },
       "metadata": {
@@ -255,14 +255,14 @@
         "typeId": 1
       }
     },
-    "illarion:race_12": {
+    "illarion:race_12_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_12"
+          "visual": "illarion:race_12_0"
         }
       },
       "metadata": {
@@ -270,14 +270,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_18": {
+    "illarion:race_18_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_18"
+          "visual": "illarion:race_18_0"
         }
       },
       "metadata": {
@@ -285,14 +285,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_19": {
+    "illarion:race_19_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_19"
+          "visual": "illarion:race_19_0"
         }
       },
       "metadata": {
@@ -300,14 +300,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_24": {
+    "illarion:race_24_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_24"
+          "visual": "illarion:race_24_0"
         }
       },
       "metadata": {
@@ -315,14 +315,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_27": {
+    "illarion:race_27_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_27"
+          "visual": "illarion:race_27_0"
         }
       },
       "metadata": {
@@ -330,14 +330,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_30": {
+    "illarion:race_30_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_30"
+          "visual": "illarion:race_30_0"
         }
       },
       "metadata": {
@@ -345,14 +345,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_37": {
+    "illarion:race_37_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_37"
+          "visual": "illarion:race_37_0"
         }
       },
       "metadata": {
@@ -360,14 +360,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_39": {
+    "illarion:race_39_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_39"
+          "visual": "illarion:race_39_0"
         }
       },
       "metadata": {
@@ -375,14 +375,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_51": {
+    "illarion:race_51_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_51"
+          "visual": "illarion:race_51_0"
         }
       },
       "metadata": {
@@ -390,14 +390,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_52": {
+    "illarion:race_52_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_52"
+          "visual": "illarion:race_52_0"
         }
       },
       "metadata": {
@@ -405,14 +405,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_53": {
+    "illarion:race_53_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_53"
+          "visual": "illarion:race_53_0"
         }
       },
       "metadata": {
@@ -420,14 +420,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_54": {
+    "illarion:race_54_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_54"
+          "visual": "illarion:race_54_0"
         }
       },
       "metadata": {
@@ -435,14 +435,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_55": {
+    "illarion:race_55_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_55"
+          "visual": "illarion:race_55_0"
         }
       },
       "metadata": {
@@ -450,14 +450,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_56": {
+    "illarion:race_56_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_56"
+          "visual": "illarion:race_56_0"
         }
       },
       "metadata": {
@@ -495,14 +495,14 @@
         "typeId": 1
       }
     },
-    "illarion:race_58": {
+    "illarion:race_58_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_58"
+          "visual": "illarion:race_58_0"
         }
       },
       "metadata": {
@@ -510,14 +510,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_59": {
+    "illarion:race_59_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_59"
+          "visual": "illarion:race_59_0"
         }
       },
       "metadata": {
@@ -525,14 +525,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_60": {
+    "illarion:race_60_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_60"
+          "visual": "illarion:race_60_0"
         }
       },
       "metadata": {
@@ -540,14 +540,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_61": {
+    "illarion:race_61_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_61"
+          "visual": "illarion:race_61_0"
         }
       },
       "metadata": {
@@ -555,14 +555,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_62": {
+    "illarion:race_62_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_62"
+          "visual": "illarion:race_62_0"
         }
       },
       "metadata": {
@@ -570,14 +570,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_63": {
+    "illarion:race_63_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_63"
+          "visual": "illarion:race_63_0"
         }
       },
       "metadata": {
@@ -585,14 +585,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_111": {
+    "illarion:race_111_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_111"
+          "visual": "illarion:race_111_0"
         }
       },
       "metadata": {
@@ -600,14 +600,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_112": {
+    "illarion:race_112_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_112"
+          "visual": "illarion:race_112_0"
         }
       },
       "metadata": {
@@ -615,14 +615,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_113": {
+    "illarion:race_113_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_113"
+          "visual": "illarion:race_113_0"
         }
       },
       "metadata": {
@@ -630,14 +630,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_114": {
+    "illarion:race_114_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_114"
+          "visual": "illarion:race_114_0"
         }
       },
       "metadata": {
@@ -675,14 +675,14 @@
         "typeId": 1
       }
     },
-    "illarion:race_116": {
+    "illarion:race_116_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_116"
+          "visual": "illarion:race_116_0"
         }
       },
       "metadata": {
@@ -690,14 +690,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_117": {
+    "illarion:race_117_0": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_117"
+          "visual": "illarion:race_117_0"
         }
       },
       "metadata": {
