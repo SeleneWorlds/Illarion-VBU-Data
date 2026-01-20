@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "illarion:character"
+  ],
+  "components": {
+    "illarion:visual": {
+      "type": "visual",
+      "visual": "illarion:races/race_115_1"
+    }
+  },
+  "metadata": {
+    "raceId": 115,
+    "typeId": 1
+  }
+}
