@@ -7,7 +7,7 @@
         "0X0",
         "000"
       ],
-      "tile": "illarion:transition_17_0"
+      "tile": "illarion:transitions/transition_17_0"
     },
     {
       "neighbours": [
@@ -15,7 +15,7 @@
         "0X0",
         "000"
       ],
-      "tile": "illarion:transition_17_1"
+      "tile": "illarion:transitions/transition_17_1"
     },
     {
       "neighbours": [
@@ -23,7 +23,7 @@
         "1X0",
         "000"
       ],
-      "tile": "illarion:transition_17_2"
+      "tile": "illarion:transitions/transition_17_2"
     },
     {
       "neighbours": [
@@ -31,7 +31,7 @@
         "1X0",
         "100"
       ],
-      "tile": "illarion:transition_17_3"
+      "tile": "illarion:transitions/transition_17_3"
     },
     {
       "neighbours": [
@@ -39,7 +39,7 @@
         "0X0",
         "110"
       ],
-      "tile": "illarion:transition_17_4"
+      "tile": "illarion:transitions/transition_17_4"
     },
     {
       "neighbours": [
@@ -47,7 +47,7 @@
         "0X0",
         "011"
       ],
-      "tile": "illarion:transition_17_5"
+      "tile": "illarion:transitions/transition_17_5"
     },
     {
       "neighbours": [
@@ -55,7 +55,7 @@
         "0X1",
         "000"
       ],
-      "tile": "illarion:transition_17_6"
+      "tile": "illarion:transitions/transition_17_6"
     },
     {
       "neighbours": [
@@ -63,7 +63,7 @@
         "0X1",
         "001"
       ],
-      "tile": "illarion:transition_17_7"
+      "tile": "illarion:transitions/transition_17_7"
     },
     {
       "neighbours": [
@@ -71,7 +71,7 @@
         "0X0",
         "000"
       ],
-      "tile": "illarion:transition_17_8"
+      "tile": "illarion:transitions/transition_17_8"
     },
     {
       "neighbours": [
@@ -79,7 +79,7 @@
         "1X0",
         "100"
       ],
-      "tile": "illarion:transition_17_9"
+      "tile": "illarion:transitions/transition_17_9"
     },
     {
       "neighbours": [
@@ -87,7 +87,7 @@
         "0X0",
         "111"
       ],
-      "tile": "illarion:transition_17_10"
+      "tile": "illarion:transitions/transition_17_10"
     },
     {
       "neighbours": [
@@ -95,7 +95,7 @@
         "0X1",
         "001"
       ],
-      "tile": "illarion:transition_17_11"
+      "tile": "illarion:transitions/transition_17_11"
     },
     {
       "neighbours": [
@@ -103,7 +103,7 @@
         "1X0",
         "000"
       ],
-      "tile": "illarion:transition_17_12"
+      "tile": "illarion:transitions/transition_17_12"
     },
     {
       "neighbours": [
@@ -111,7 +111,7 @@
         "0X1",
         "000"
       ],
-      "tile": "illarion:transition_17_13"
+      "tile": "illarion:transitions/transition_17_13"
     },
     {
       "neighbours": [
@@ -119,7 +119,7 @@
         "1X0",
         "110"
       ],
-      "tile": "illarion:transition_17_14"
+      "tile": "illarion:transitions/transition_17_14"
     },
     {
       "neighbours": [
@@ -127,7 +127,7 @@
         "0X1",
         "011"
       ],
-      "tile": "illarion:transition_17_15"
+      "tile": "illarion:transitions/transition_17_15"
     },
     {
       "neighbours": [
@@ -135,7 +135,7 @@
         "1X0",
         "000"
       ],
-      "tile": "illarion:transition_17_16"
+      "tile": "illarion:transitions/transition_17_16"
     },
     {
       "neighbours": [
@@ -143,7 +143,7 @@
         "0X1",
         "000"
       ],
-      "tile": "illarion:transition_17_17"
+      "tile": "illarion:transitions/transition_17_17"
     },
     {
       "neighbours": [
@@ -151,7 +151,7 @@
         "1X0",
         "100"
       ],
-      "tile": "illarion:transition_17_18"
+      "tile": "illarion:transitions/transition_17_18"
     },
     {
       "neighbours": [
@@ -159,7 +159,7 @@
         "1X0",
         "110"
       ],
-      "tile": "illarion:transition_17_19"
+      "tile": "illarion:transitions/transition_17_19"
     },
     {
       "neighbours": [
@@ -167,7 +167,7 @@
         "0X1",
         "111"
       ],
-      "tile": "illarion:transition_17_20"
+      "tile": "illarion:transitions/transition_17_20"
     },
     {
       "neighbours": [
@@ -175,7 +175,7 @@
         "1X0",
         "111"
       ],
-      "tile": "illarion:transition_17_21"
+      "tile": "illarion:transitions/transition_17_21"
     },
     {
       "neighbours": [
@@ -183,7 +183,7 @@
         "0X1",
         "001"
       ],
-      "tile": "illarion:transition_17_22"
+      "tile": "illarion:transitions/transition_17_22"
     },
     {
       "neighbours": [
@@ -191,7 +191,7 @@
         "0X1",
         "011"
       ],
-      "tile": "illarion:transition_17_23"
+      "tile": "illarion:transitions/transition_17_23"
     },
     {
       "neighbours": [
@@ -199,7 +199,7 @@
         "1X0",
         "100"
       ],
-      "tile": "illarion:transition_17_24"
+      "tile": "illarion:transitions/transition_17_24"
     },
     {
       "neighbours": [
@@ -207,7 +207,7 @@
         "0X1",
         "001"
       ],
-      "tile": "illarion:transition_17_25"
+      "tile": "illarion:transitions/transition_17_25"
     },
     {
       "neighbours": [
@@ -215,7 +215,7 @@
         "1X0",
         "111"
       ],
-      "tile": "illarion:transition_17_26"
+      "tile": "illarion:transitions/transition_17_26"
     },
     {
       "neighbours": [
@@ -223,7 +223,7 @@
         "0X1",
         "111"
       ],
-      "tile": "illarion:transition_17_27"
+      "tile": "illarion:transitions/transition_17_27"
     }
   ]
 }
