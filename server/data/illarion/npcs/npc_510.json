@@ -1,8 +1,10 @@
 {
   "type": 19,
-  "x": 852,
-  "y": 497,
-  "z": -6,
+  "coordinate": {
+    "x": 852,
+    "y": 497,
+    "z": -6
+  },
   "facing": 2,
   "isHealer": false,
   "name": "Gorgophone",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 0,
   "beard": 0,
-  "hairRed": 255,
-  "hairGreen": 255,
-  "hairBlue": 255,
-  "skinRed": 100,
-  "skinGreen": 255,
-  "skinBlue": 100,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 255,
+    "green": 255,
+    "blue": 255,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 100,
+    "green": 255,
+    "blue": 100,
+    "alpha": 255
+  },
   "race": "illarion:race_19",
   "entity": "illarion:races/race_19_0",
   "metadata": {

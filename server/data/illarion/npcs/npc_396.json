@@ -1,8 +1,10 @@
 {
   "type": 1,
-  "x": 710,
-  "y": 313,
-  "z": 0,
+  "coordinate": {
+    "x": 710,
+    "y": 313,
+    "z": 0
+  },
   "facing": 6,
   "isHealer": false,
   "name": "Borgate Northoff",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 2,
   "beard": 3,
-  "hairRed": 126,
-  "hairGreen": 75,
-  "hairBlue": 30,
-  "skinRed": 217,
-  "skinGreen": 154,
-  "skinBlue": 123,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 126,
+    "green": 75,
+    "blue": 30,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 217,
+    "green": 154,
+    "blue": 123,
+    "alpha": 255
+  },
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {

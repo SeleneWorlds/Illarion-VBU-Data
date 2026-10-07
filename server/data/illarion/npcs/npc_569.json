@@ -1,8 +1,10 @@
 {
   "type": 3,
-  "x": 891,
-  "y": 396,
-  "z": 0,
+  "coordinate": {
+    "x": 891,
+    "y": 396,
+    "z": 0
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Bainien Grythil",
@@ -10,14 +12,18 @@
   "sex": 1,
   "hair": 7,
   "beard": 0,
-  "hairRed": 180,
-  "hairGreen": 180,
-  "hairBlue": 180,
-  "skinRed": 238,
-  "skinGreen": 216,
-  "skinBlue": 174,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 180,
+    "green": 180,
+    "blue": 180,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 238,
+    "green": 216,
+    "blue": 174,
+    "alpha": 255
+  },
   "race": "illarion:race_3",
   "entity": "illarion:races/race_3_1",
   "metadata": {

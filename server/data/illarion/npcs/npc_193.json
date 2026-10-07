@@ -1,8 +1,10 @@
 {
   "type": 1,
-  "x": 379,
-  "y": 304,
-  "z": -6,
+  "coordinate": {
+    "x": 379,
+    "y": 304,
+    "z": -6
+  },
   "facing": 6,
   "isHealer": false,
   "name": "Cormac",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 1,
   "beard": 1,
-  "hairRed": 28,
-  "hairGreen": 28,
-  "hairBlue": 28,
-  "skinRed": 208,
-  "skinGreen": 159,
-  "skinBlue": 117,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 28,
+    "green": 28,
+    "blue": 28,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 208,
+    "green": 159,
+    "blue": 117,
+    "alpha": 255
+  },
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {

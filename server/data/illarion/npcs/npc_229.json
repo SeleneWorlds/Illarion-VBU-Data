@@ -1,8 +1,10 @@
 {
   "type": 4,
-  "x": 373,
-  "y": 275,
-  "z": 0,
+  "coordinate": {
+    "x": 373,
+    "y": 275,
+    "z": 0
+  },
   "facing": 6,
   "isHealer": false,
   "name": "Krudash",
@@ -10,14 +12,18 @@
   "sex": 1,
   "hair": 0,
   "beard": 0,
-  "hairRed": 6,
-  "hairGreen": 18,
-  "hairBlue": 8,
-  "skinRed": 137,
-  "skinGreen": 123,
-  "skinBlue": 60,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 6,
+    "green": 18,
+    "blue": 8,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 137,
+    "green": 123,
+    "blue": 60,
+    "alpha": 255
+  },
   "race": "illarion:race_4",
   "entity": "illarion:races/race_4_1",
   "metadata": {

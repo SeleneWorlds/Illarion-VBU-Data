@@ -1,8 +1,10 @@
 {
   "type": 4,
-  "x": 407,
-  "y": 232,
-  "z": 0,
+  "coordinate": {
+    "x": 407,
+    "y": 232,
+    "z": 0
+  },
   "facing": 6,
   "isHealer": false,
   "name": "Bula Glasha",
@@ -10,14 +12,18 @@
   "sex": 1,
   "hair": 4,
   "beard": 0,
-  "hairRed": 215,
-  "hairGreen": 176,
-  "hairBlue": 45,
-  "skinRed": 68,
-  "skinGreen": 117,
-  "skinBlue": 32,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 215,
+    "green": 176,
+    "blue": 45,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 68,
+    "green": 117,
+    "blue": 32,
+    "alpha": 255
+  },
   "race": "illarion:race_4",
   "entity": "illarion:races/race_4_1",
   "metadata": {

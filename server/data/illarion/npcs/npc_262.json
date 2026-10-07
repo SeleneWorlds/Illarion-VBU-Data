@@ -1,8 +1,10 @@
 {
   "type": 7,
-  "x": 690,
-  "y": 324,
-  "z": 0,
+  "coordinate": {
+    "x": 690,
+    "y": 324,
+    "z": 0
+  },
   "facing": 0,
   "isHealer": false,
   "name": "Wilderland Respawn",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 0,
   "beard": 0,
-  "hairRed": 255,
-  "hairGreen": 255,
-  "hairBlue": 255,
-  "skinRed": 255,
-  "skinGreen": 255,
-  "skinBlue": 255,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 255,
+    "green": 255,
+    "blue": 255,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 255,
+    "green": 255,
+    "blue": 255,
+    "alpha": 255
+  },
   "race": "illarion:race_7",
   "entity": "illarion:races/race_7_0",
   "metadata": {

@@ -1,8 +1,10 @@
 {
   "type": 3,
-  "x": 944,
-  "y": 784,
-  "z": 1,
+  "coordinate": {
+    "x": 944,
+    "y": 784,
+    "z": 1
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Neiran el Nyarale",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 2,
   "beard": 0,
-  "hairRed": 128,
-  "hairGreen": 255,
-  "hairBlue": 255,
-  "skinRed": 245,
-  "skinGreen": 230,
-  "skinBlue": 197,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 128,
+    "green": 255,
+    "blue": 255,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 245,
+    "green": 230,
+    "blue": 197,
+    "alpha": 255
+  },
   "race": "illarion:race_3",
   "entity": "illarion:races/race_3_0",
   "metadata": {

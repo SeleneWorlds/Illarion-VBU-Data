@@ -1,8 +1,10 @@
 {
   "type": 0,
-  "x": 947,
-  "y": 784,
-  "z": 1,
+  "coordinate": {
+    "x": 947,
+    "y": 784,
+    "z": 1
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Torina Scibrim",
@@ -10,14 +12,18 @@
   "sex": 1,
   "hair": 1,
   "beard": 0,
-  "hairRed": 255,
-  "hairGreen": 250,
-  "hairBlue": 205,
-  "skinRed": 245,
-  "skinGreen": 222,
-  "skinBlue": 179,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 255,
+    "green": 250,
+    "blue": 205,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 245,
+    "green": 222,
+    "blue": 179,
+    "alpha": 255
+  },
   "race": "illarion:race_0",
   "entity": "illarion:races/race_0_1",
   "metadata": {

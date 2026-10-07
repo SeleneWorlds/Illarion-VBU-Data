@@ -1,8 +1,10 @@
 {
   "type": 1,
-  "x": 311,
-  "y": 253,
-  "z": 1,
+  "coordinate": {
+    "x": 311,
+    "y": 253,
+    "z": 1
+  },
   "facing": 6,
   "isHealer": false,
   "name": "Dreal Coalbreaker",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 2,
   "beard": 4,
-  "hairRed": 79,
-  "hairGreen": 79,
-  "hairBlue": 79,
-  "skinRed": 255,
-  "skinGreen": 228,
-  "skinBlue": 1,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 79,
+    "green": 79,
+    "blue": 79,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 255,
+    "green": 228,
+    "blue": 1,
+    "alpha": 255
+  },
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {

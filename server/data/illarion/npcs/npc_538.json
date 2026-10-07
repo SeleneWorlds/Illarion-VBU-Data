@@ -1,8 +1,10 @@
 {
   "type": 57,
-  "x": 17,
-  "y": 682,
-  "z": 1,
+  "coordinate": {
+    "x": 17,
+    "y": 682,
+    "z": 1
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Egon",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 0,
   "beard": 0,
-  "hairRed": 46,
-  "hairGreen": 139,
-  "hairBlue": 87,
-  "skinRed": 46,
-  "skinGreen": 139,
-  "skinBlue": 87,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 46,
+    "green": 139,
+    "blue": 87,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 46,
+    "green": 139,
+    "blue": 87,
+    "alpha": 255
+  },
   "race": "illarion:race_57",
   "entity": "illarion:races/race_57_0",
   "metadata": {

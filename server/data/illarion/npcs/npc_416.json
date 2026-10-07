@@ -1,8 +1,10 @@
 {
   "type": 1,
-  "x": 373,
-  "y": 263,
-  "z": 0,
+  "coordinate": {
+    "x": 373,
+    "y": 263,
+    "z": 0
+  },
   "facing": 6,
   "isHealer": false,
   "name": "Antonius Copperhand",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 2,
   "beard": 1,
-  "hairRed": 140,
-  "hairGreen": 50,
-  "hairBlue": 15,
-  "skinRed": 189,
-  "skinGreen": 162,
-  "skinBlue": 151,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 140,
+    "green": 50,
+    "blue": 15,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 189,
+    "green": 162,
+    "blue": 151,
+    "alpha": 255
+  },
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {

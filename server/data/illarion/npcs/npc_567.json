@@ -1,8 +1,10 @@
 {
   "type": 2,
-  "x": 690,
-  "y": 330,
-  "z": 0,
+  "coordinate": {
+    "x": 690,
+    "y": 330,
+    "z": 0
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Sepp Leaf",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 1,
   "beard": 0,
-  "hairRed": 204,
-  "hairGreen": 144,
-  "hairBlue": 2,
-  "skinRed": 150,
-  "skinGreen": 79,
-  "skinBlue": 0,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 204,
+    "green": 144,
+    "blue": 2,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 150,
+    "green": 79,
+    "blue": 0,
+    "alpha": 255
+  },
   "race": "illarion:race_2",
   "entity": "illarion:races/race_2_0",
   "metadata": {

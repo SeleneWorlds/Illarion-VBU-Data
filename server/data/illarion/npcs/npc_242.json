@@ -1,8 +1,10 @@
 {
   "type": 0,
-  "x": 959,
-  "y": 788,
-  "z": 0,
+  "coordinate": {
+    "x": 959,
+    "y": 788,
+    "z": 0
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Sir Fludnar Yednos",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 2,
   "beard": 0,
-  "hairRed": 33,
-  "hairGreen": 28,
-  "hairBlue": 25,
-  "skinRed": 180,
-  "skinGreen": 102,
-  "skinBlue": 102,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 33,
+    "green": 28,
+    "blue": 25,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 180,
+    "green": 102,
+    "blue": 102,
+    "alpha": 255
+  },
   "race": "illarion:race_0",
   "entity": "illarion:races/race_0_0",
   "metadata": {

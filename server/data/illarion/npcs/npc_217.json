@@ -1,8 +1,10 @@
 {
   "type": 0,
-  "x": 951,
-  "y": 829,
-  "z": 0,
+  "coordinate": {
+    "x": 951,
+    "y": 829,
+    "z": 0
+  },
   "facing": 6,
   "isHealer": false,
   "name": "William Daloire",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 1,
   "beard": 5,
-  "hairRed": 158,
-  "hairGreen": 66,
-  "hairBlue": 6,
-  "skinRed": 193,
-  "skinGreen": 141,
-  "skinBlue": 99,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 158,
+    "green": 66,
+    "blue": 6,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 193,
+    "green": 141,
+    "blue": 99,
+    "alpha": 255
+  },
   "race": "illarion:race_0",
   "entity": "illarion:races/race_0_0",
   "metadata": {

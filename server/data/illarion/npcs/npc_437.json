@@ -1,8 +1,10 @@
 {
   "type": 5,
-  "x": 117,
-  "y": 599,
-  "z": 0,
+  "coordinate": {
+    "x": 117,
+    "y": 599,
+    "z": 0
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Frizza",
@@ -10,14 +12,18 @@
   "sex": 1,
   "hair": 3,
   "beard": 0,
-  "hairRed": 34,
-  "hairGreen": 139,
-  "hairBlue": 34,
-  "skinRed": 154,
-  "skinGreen": 205,
-  "skinBlue": 50,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 34,
+    "green": 139,
+    "blue": 34,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 154,
+    "green": 205,
+    "blue": 50,
+    "alpha": 255
+  },
   "race": "illarion:race_5",
   "entity": "illarion:races/race_5_1",
   "metadata": {

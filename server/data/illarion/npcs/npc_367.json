@@ -1,8 +1,10 @@
 {
   "type": 1,
-  "x": 710,
-  "y": 297,
-  "z": 0,
+  "coordinate": {
+    "x": 710,
+    "y": 297,
+    "z": 0
+  },
   "facing": 6,
   "isHealer": false,
   "name": "Nimbur Goldbrew",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 3,
   "beard": 1,
-  "hairRed": 105,
-  "hairGreen": 105,
-  "hairBlue": 105,
-  "skinRed": 205,
-  "skinGreen": 130,
-  "skinBlue": 70,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 105,
+    "green": 105,
+    "blue": 105,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 205,
+    "green": 130,
+    "blue": 70,
+    "alpha": 255
+  },
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {

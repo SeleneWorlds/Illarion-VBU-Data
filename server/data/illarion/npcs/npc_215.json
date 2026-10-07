@@ -1,8 +1,10 @@
 {
   "type": 1,
-  "x": 943,
-  "y": 837,
-  "z": 0,
+  "coordinate": {
+    "x": 943,
+    "y": 837,
+    "z": 0
+  },
   "facing": 2,
   "isHealer": false,
   "name": "Fronita Emery",
@@ -10,14 +12,18 @@
   "sex": 1,
   "hair": 9,
   "beard": 0,
-  "hairRed": 204,
-  "hairGreen": 144,
-  "hairBlue": 2,
-  "skinRed": 213,
-  "skinGreen": 165,
-  "skinBlue": 123,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 204,
+    "green": 144,
+    "blue": 2,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 213,
+    "green": 165,
+    "blue": 123,
+    "alpha": 255
+  },
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_1",
   "metadata": {

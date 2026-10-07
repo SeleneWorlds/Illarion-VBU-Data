@@ -1,8 +1,10 @@
 {
   "type": 5,
-  "x": 567,
-  "y": 230,
-  "z": 0,
+  "coordinate": {
+    "x": 567,
+    "y": 230,
+    "z": 0
+  },
   "facing": 5,
   "isHealer": false,
   "name": "Ssalva",
@@ -10,14 +12,18 @@
   "sex": 1,
   "hair": 6,
   "beard": 0,
-  "hairRed": 120,
-  "hairGreen": 50,
-  "hairBlue": 250,
-  "skinRed": 150,
-  "skinGreen": 150,
-  "skinBlue": 250,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 120,
+    "green": 50,
+    "blue": 250,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 150,
+    "green": 150,
+    "blue": 250,
+    "alpha": 255
+  },
   "race": "illarion:race_5",
   "entity": "illarion:races/race_5_1",
   "metadata": {

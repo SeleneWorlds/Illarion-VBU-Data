@@ -1,8 +1,10 @@
 {
   "type": 1,
-  "x": 384,
-  "y": 328,
-  "z": 0,
+  "coordinate": {
+    "x": 384,
+    "y": 328,
+    "z": 0
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Gava Northstar",
@@ -10,14 +12,18 @@
   "sex": 1,
   "hair": 1,
   "beard": 0,
-  "hairRed": 0,
-  "hairGreen": 0,
-  "hairBlue": 0,
-  "skinRed": 245,
-  "skinGreen": 180,
-  "skinBlue": 137,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 245,
+    "green": 180,
+    "blue": 137,
+    "alpha": 255
+  },
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_1",
   "metadata": {

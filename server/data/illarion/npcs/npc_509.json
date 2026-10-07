@@ -1,8 +1,10 @@
 {
   "type": 0,
-  "x": 115,
-  "y": 549,
-  "z": 0,
+  "coordinate": {
+    "x": 115,
+    "y": 549,
+    "z": 0
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Palis Nestros",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 3,
   "beard": 0,
-  "hairRed": 140,
-  "hairGreen": 70,
-  "hairBlue": 20,
-  "skinRed": 244,
-  "skinGreen": 164,
-  "skinBlue": 96,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 140,
+    "green": 70,
+    "blue": 20,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 244,
+    "green": 164,
+    "blue": 96,
+    "alpha": 255
+  },
   "race": "illarion:race_0",
   "entity": "illarion:races/race_0_0",
   "metadata": {

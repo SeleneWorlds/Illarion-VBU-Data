@@ -1,8 +1,10 @@
 {
   "type": 4,
-  "x": 362,
-  "y": 279,
-  "z": 0,
+  "coordinate": {
+    "x": 362,
+    "y": 279,
+    "z": 0
+  },
   "facing": 0,
   "isHealer": false,
   "name": "Sogg Beermug",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 2,
   "beard": 0,
-  "hairRed": 119,
-  "hairGreen": 56,
-  "hairBlue": 3,
-  "skinRed": 137,
-  "skinGreen": 123,
-  "skinBlue": 60,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 119,
+    "green": 56,
+    "blue": 3,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 137,
+    "green": 123,
+    "blue": 60,
+    "alpha": 255
+  },
   "race": "illarion:race_4",
   "entity": "illarion:races/race_4_0",
   "metadata": {

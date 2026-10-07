@@ -1,8 +1,10 @@
 {
   "type": 3,
-  "x": 963,
-  "y": 784,
-  "z": 1,
+  "coordinate": {
+    "x": 963,
+    "y": 784,
+    "z": 1
+  },
   "facing": 6,
   "isHealer": false,
   "name": "Ada Golweneth",
@@ -10,14 +12,18 @@
   "sex": 1,
   "hair": 4,
   "beard": 0,
-  "hairRed": 139,
-  "hairGreen": 71,
-  "hairBlue": 38,
-  "skinRed": 210,
-  "skinGreen": 180,
-  "skinBlue": 140,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 139,
+    "green": 71,
+    "blue": 38,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 210,
+    "green": 180,
+    "blue": 140,
+    "alpha": 255
+  },
   "race": "illarion:race_3",
   "entity": "illarion:races/race_3_1",
   "metadata": {

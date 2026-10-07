@@ -1,8 +1,10 @@
 {
   "type": 4,
-  "x": 404,
-  "y": 248,
-  "z": 0,
+  "coordinate": {
+    "x": 404,
+    "y": 248,
+    "z": 0
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Boumaug Firesmash",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 3,
   "beard": 1,
-  "hairRed": 79,
-  "hairGreen": 79,
-  "hairBlue": 79,
-  "skinRed": 79,
-  "skinGreen": 79,
-  "skinBlue": 0,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 79,
+    "green": 79,
+    "blue": 79,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 79,
+    "green": 79,
+    "blue": 0,
+    "alpha": 255
+  },
   "race": "illarion:race_4",
   "entity": "illarion:races/race_4_0",
   "metadata": {

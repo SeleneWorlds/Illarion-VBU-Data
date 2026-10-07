@@ -1,8 +1,10 @@
 {
   "type": 2,
-  "x": 141,
-  "y": 582,
-  "z": 0,
+  "coordinate": {
+    "x": 141,
+    "y": 582,
+    "z": 0
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Nadime",
@@ -10,14 +12,18 @@
   "sex": 1,
   "hair": 1,
   "beard": 0,
-  "hairRed": 200,
-  "hairGreen": 200,
-  "hairBlue": 200,
-  "skinRed": 186,
-  "skinGreen": 133,
-  "skinBlue": 91,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 200,
+    "green": 200,
+    "blue": 200,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 186,
+    "green": 133,
+    "blue": 91,
+    "alpha": 255
+  },
   "race": "illarion:race_2",
   "entity": "illarion:races/race_2_1",
   "metadata": {

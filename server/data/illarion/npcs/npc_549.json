@@ -1,8 +1,10 @@
 {
   "type": 3,
-  "x": 523,
-  "y": 205,
-  "z": 0,
+  "coordinate": {
+    "x": 523,
+    "y": 205,
+    "z": 0
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Pasinn",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 2,
   "beard": 0,
-  "hairRed": 130,
-  "hairGreen": 130,
-  "hairBlue": 130,
-  "skinRed": 230,
-  "skinGreen": 210,
-  "skinBlue": 210,
-  "hairAlpha": 210,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 130,
+    "green": 130,
+    "blue": 130,
+    "alpha": 210
+  },
+  "skinColor": {
+    "red": 230,
+    "green": 210,
+    "blue": 210,
+    "alpha": 255
+  },
   "race": "illarion:race_3",
   "entity": "illarion:races/race_3_0",
   "metadata": {

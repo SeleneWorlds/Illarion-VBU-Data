@@ -1,8 +1,10 @@
 {
   "type": 4,
-  "x": 362,
-  "y": 183,
-  "z": -6,
+  "coordinate": {
+    "x": 362,
+    "y": 183,
+    "z": -6
+  },
   "facing": 5,
   "isHealer": false,
   "name": "Grimlug",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 3,
   "beard": 0,
-  "hairRed": 23,
-  "hairGreen": 6,
-  "hairBlue": 3,
-  "skinRed": 137,
-  "skinGreen": 123,
-  "skinBlue": 60,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 23,
+    "green": 6,
+    "blue": 3,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 137,
+    "green": 123,
+    "blue": 60,
+    "alpha": 255
+  },
   "race": "illarion:race_4",
   "entity": "illarion:races/race_4_0",
   "metadata": {

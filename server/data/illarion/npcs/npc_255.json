@@ -1,8 +1,10 @@
 {
   "type": 1,
-  "x": 388,
-  "y": 238,
-  "z": 0,
+  "coordinate": {
+    "x": 388,
+    "y": 238,
+    "z": 0
+  },
   "facing": 4,
   "isHealer": false,
   "name": "Groktan Flintsplit",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 4,
   "beard": 1,
-  "hairRed": 139,
-  "hairGreen": 69,
-  "hairBlue": 19,
-  "skinRed": 247,
-  "skinGreen": 183,
-  "skinBlue": 128,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 139,
+    "green": 69,
+    "blue": 19,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 247,
+    "green": 183,
+    "blue": 128,
+    "alpha": 255
+  },
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {

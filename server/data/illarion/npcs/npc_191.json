@@ -1,8 +1,10 @@
 {
   "type": 1,
-  "x": 628,
-  "y": 288,
-  "z": 0,
+  "coordinate": {
+    "x": 628,
+    "y": 288,
+    "z": 0
+  },
   "facing": 6,
   "isHealer": false,
   "name": "Ehrom Goldhammer",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 3,
   "beard": 4,
-  "hairRed": 242,
-  "hairGreen": 182,
-  "hairBlue": 0,
-  "skinRed": 207,
-  "skinGreen": 158,
-  "skinBlue": 116,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 242,
+    "green": 182,
+    "blue": 0,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 207,
+    "green": 158,
+    "blue": 116,
+    "alpha": 255
+  },
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {

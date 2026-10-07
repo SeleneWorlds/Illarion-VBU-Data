@@ -1,8 +1,10 @@
 {
   "type": 1,
-  "x": 387,
-  "y": 274,
-  "z": 0,
+  "coordinate": {
+    "x": 387,
+    "y": 274,
+    "z": 0
+  },
   "facing": 6,
   "isHealer": false,
   "name": "Thorgrem Silverbeard",
@@ -10,14 +12,18 @@
   "sex": 0,
   "hair": 1,
   "beard": 4,
-  "hairRed": 216,
-  "hairGreen": 216,
-  "hairBlue": 216,
-  "skinRed": 155,
-  "skinGreen": 105,
-  "skinBlue": 68,
-  "hairAlpha": 255,
-  "skinAlpha": 255,
+  "hairColor": {
+    "red": 216,
+    "green": 216,
+    "blue": 216,
+    "alpha": 255
+  },
+  "skinColor": {
+    "red": 155,
+    "green": 105,
+    "blue": 68,
+    "alpha": 255
+  },
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {
