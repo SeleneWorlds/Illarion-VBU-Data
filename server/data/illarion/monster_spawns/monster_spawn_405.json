@@ -1,10 +1,14 @@
 {
-  "x": 976,
-  "y": 375,
-  "z": 0,
+  "coordinate": {
+    "x": 976,
+    "y": 375,
+    "z": 0
+  },
   "range": 12,
-  "minSpawnTime": 60,
-  "maxSpawnTime": 180,
+  "spawnTime": {
+    "min": 60,
+    "max": 180
+  },
   "spawnAll": false,
   "spawnRange": 12,
   "monsters": {
