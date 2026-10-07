@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 5,
-  "isHealer": false,
   "name": "Gretel Goldhair",
   "script": "npc.gretel_goldhair",
   "sex": 1,

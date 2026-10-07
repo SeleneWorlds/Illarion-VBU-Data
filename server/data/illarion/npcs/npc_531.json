@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 2,
-  "isHealer": false,
   "name": "Defensor Robur",
   "script": "npc.defensor_robur",
   "sex": 0,

@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Bre Southstar",
   "script": "npc.bre_southstar",
   "sex": 1,

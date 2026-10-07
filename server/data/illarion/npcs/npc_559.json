@@ -6,7 +6,6 @@
     "z": -3
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Russet",
   "script": "npc.russet",
   "sex": 0,

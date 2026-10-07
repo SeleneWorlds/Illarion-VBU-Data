@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Ioannes Faber",
   "script": "npc.ioannes_faber",
   "sex": 0,

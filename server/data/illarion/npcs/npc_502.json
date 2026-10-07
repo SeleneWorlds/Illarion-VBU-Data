@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Grijas Kokotte",
   "script": "npc.grijas_kokotte",
   "sex": 0,

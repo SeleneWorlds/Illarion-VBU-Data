@@ -6,7 +6,6 @@
     "z": -6
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Cormac",
   "script": "npc.cormac",
   "sex": 0,

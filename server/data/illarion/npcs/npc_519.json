@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Defensor Confirmo",
   "script": "npc.defensor_confirmo",
   "sex": 0,

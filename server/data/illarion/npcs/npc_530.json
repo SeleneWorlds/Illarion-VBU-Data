@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Defensor Prohibeo",
   "script": "npc.defensor_prohibeo",
   "sex": 0,

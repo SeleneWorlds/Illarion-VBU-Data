@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Linda Rabon",
   "script": "npc.linda_rabon",
   "sex": 1,

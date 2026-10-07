@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Miggs",
   "script": "npc.miggs",
   "sex": 0,

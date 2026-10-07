@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 2,
-  "isHealer": false,
   "name": "Lilith Needlehand",
   "script": "npc.lilith_needlehand",
   "sex": 1,

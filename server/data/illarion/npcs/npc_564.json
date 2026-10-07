@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 0,
-  "isHealer": false,
   "name": "Francine Leonard",
   "script": "npc.francine_leonard",
   "sex": 1,

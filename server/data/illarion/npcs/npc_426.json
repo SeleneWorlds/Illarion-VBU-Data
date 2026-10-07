@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Rose Deepdelver",
   "script": "npc.rose_deepdelver",
   "sex": 1,

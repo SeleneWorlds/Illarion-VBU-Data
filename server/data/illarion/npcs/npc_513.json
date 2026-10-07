@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Jeremiah Horanfeld",
   "script": "npc.jeremiah_horanfeld",
   "sex": 0,

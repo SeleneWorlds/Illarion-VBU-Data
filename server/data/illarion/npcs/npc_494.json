@@ -6,7 +6,6 @@
     "z": -6
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Xiao Dongzou",
   "script": "npc.xiao_dongzou",
   "sex": 0,

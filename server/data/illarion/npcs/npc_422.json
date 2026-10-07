@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Reret Odohir",
   "script": "npc.reret_odohir",
   "sex": 1,

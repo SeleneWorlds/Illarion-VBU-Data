@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Myrthe Mildthorn",
   "script": "npc.myrthe_mildthorn",
   "sex": 1,

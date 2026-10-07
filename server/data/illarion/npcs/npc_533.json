@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Defensor Torrens",
   "script": "npc.defensor_torrens",
   "sex": 0,

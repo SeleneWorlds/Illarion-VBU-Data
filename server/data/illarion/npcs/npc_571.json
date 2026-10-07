@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Clarissa Cullen",
   "script": "npc.clarissa_cullen",
   "sex": 1,

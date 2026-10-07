@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 2,
-  "isHealer": false,
   "name": "Alysa Lorthelia",
   "script": "npc.alysa_lorthelia",
   "sex": 1,

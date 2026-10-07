@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 2,
-  "isHealer": false,
   "name": "Fredericus",
   "script": "npc.fredericus",
   "sex": 0,

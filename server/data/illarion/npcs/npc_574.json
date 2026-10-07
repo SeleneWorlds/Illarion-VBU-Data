@@ -6,7 +6,6 @@
     "z": -6
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Andrei Kazakov",
   "script": "npc.andrei_kazakov",
   "sex": 0,

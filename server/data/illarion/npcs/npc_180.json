@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Raban",
   "script": "npc.raban",
   "sex": 0,

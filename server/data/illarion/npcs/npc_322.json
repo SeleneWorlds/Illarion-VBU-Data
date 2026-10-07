@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Anthar Vilicon",
   "script": "npc.anthar_vilicon",
   "sex": 0,

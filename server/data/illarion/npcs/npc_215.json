@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 2,
-  "isHealer": false,
   "name": "Fronita Emery",
   "script": "npc.fronita_emery",
   "sex": 1,

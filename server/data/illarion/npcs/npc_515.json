@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 2,
-  "isHealer": false,
   "name": "Fokous Onyxbrow",
   "script": "npc.fokous_onyxbrow",
   "sex": 0,

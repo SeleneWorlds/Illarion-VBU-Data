@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Valerio Guilianni",
   "script": "npc.valerio_guilianni",
   "sex": 0,

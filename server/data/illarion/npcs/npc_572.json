@@ -6,7 +6,6 @@
     "z": -5
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Imos Dutin",
   "script": "npc.imos_dutin",
   "sex": 0,

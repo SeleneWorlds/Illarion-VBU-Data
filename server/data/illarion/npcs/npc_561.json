@@ -6,7 +6,6 @@
     "z": 1
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Metylda Lockleigh",
   "script": "npc.metylda_lockleigh",
   "sex": 1,

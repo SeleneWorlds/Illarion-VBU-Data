@@ -6,7 +6,6 @@
     "z": -40
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Percy Dryless",
   "script": "npc.percy_dryless",
   "sex": 0,

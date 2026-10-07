@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Defensor Transmutatio",
   "script": "npc.defensor_transmutatio",
   "sex": 0,

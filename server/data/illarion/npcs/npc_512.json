@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Maelyrra Umrielyth",
   "script": "npc.maelyrra_umrielyth",
   "sex": 1,

@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Defensor Fervor",
   "script": "npc.defensor_fervor",
   "sex": 0,

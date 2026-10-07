@@ -6,7 +6,6 @@
     "z": 1
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Numila Irunnleh",
   "script": "npc.numila_irunnleh",
   "sex": 1,

@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 0,
-  "isHealer": false,
   "name": "Wilderland Respawn",
   "script": "npc.yellowcross",
   "sex": 0,

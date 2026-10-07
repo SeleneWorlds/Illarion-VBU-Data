@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Baldo Proudtoe",
   "script": "npc.baldo_proudtoe",
   "sex": 0,

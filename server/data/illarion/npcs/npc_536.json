@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 5,
-  "isHealer": false,
   "name": "Defensor Venenatus",
   "script": "npc.defensor_venenatus",
   "sex": 0,

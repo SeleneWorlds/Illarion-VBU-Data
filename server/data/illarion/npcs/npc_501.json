@@ -6,7 +6,6 @@
     "z": -6
   },
   "facing": 2,
-  "isHealer": false,
   "name": "Lotte Silberstreif",
   "script": "npc.lotte_silberstreif",
   "sex": 1,

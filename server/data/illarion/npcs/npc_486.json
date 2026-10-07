@@ -6,7 +6,6 @@
     "z": -3
   },
   "facing": 5,
-  "isHealer": false,
   "name": "Manuel Salan",
   "script": "npc.manuel_salan",
   "sex": 0,

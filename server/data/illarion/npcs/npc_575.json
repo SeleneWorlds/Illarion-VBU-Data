@@ -6,7 +6,6 @@
     "z": -6
   },
   "facing": 0,
-  "isHealer": false,
   "name": "Senka",
   "script": "npc.senka",
   "sex": 1,

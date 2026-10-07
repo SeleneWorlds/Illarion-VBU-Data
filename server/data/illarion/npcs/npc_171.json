@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Frobenius",
   "script": "npc.frobenius",
   "sex": 0,

@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 5,
-  "isHealer": false,
   "name": "Ssalva",
   "script": "npc.ssalva",
   "sex": 1,

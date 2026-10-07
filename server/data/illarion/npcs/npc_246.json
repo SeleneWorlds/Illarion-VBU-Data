@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Half-hung Bryan",
   "script": "npc.half-hung_bryan",
   "sex": 0,

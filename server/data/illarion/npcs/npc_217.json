@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "William Daloire",
   "script": "npc.william_daloire",
   "sex": 0,

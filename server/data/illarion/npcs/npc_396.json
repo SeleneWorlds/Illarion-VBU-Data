@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Borgate Northoff",
   "script": "npc.borgate_northoff",
   "sex": 0,

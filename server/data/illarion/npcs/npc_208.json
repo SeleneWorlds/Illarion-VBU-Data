@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Arenius Batavius",
   "script": "npc.arenius_batavius",
   "sex": 0,

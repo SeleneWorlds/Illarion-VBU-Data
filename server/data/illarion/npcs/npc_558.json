@@ -6,7 +6,6 @@
     "z": -3
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Curly",
   "script": "npc.curly",
   "sex": 0,

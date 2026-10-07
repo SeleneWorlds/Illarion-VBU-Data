@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 5,
-  "isHealer": false,
   "name": "Terry Ogg",
   "script": "npc.terry_ogg",
   "sex": 0,

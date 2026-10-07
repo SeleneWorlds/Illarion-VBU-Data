@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Aelfinn",
   "script": "npc.aelfinn",
   "sex": 0,

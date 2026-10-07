@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 0,
-  "isHealer": false,
   "name": "Ssiguss",
   "script": "npc.ssiguss",
   "sex": 0,

@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Alwin Sommerkorn",
   "script": "npc.alwin_sommerkorn",
   "sex": 0,

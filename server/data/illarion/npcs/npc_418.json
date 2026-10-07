@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Mirarie Bragolin",
   "script": "npc.mirarie_bragolin",
   "sex": 1,

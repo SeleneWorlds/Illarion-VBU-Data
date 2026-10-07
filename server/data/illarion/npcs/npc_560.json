@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Blight Ronin",
   "script": "npc.blight_ronin",
   "sex": 0,

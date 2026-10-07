@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Brigette Russ",
   "script": "npc.brigette_russ",
   "sex": 1,

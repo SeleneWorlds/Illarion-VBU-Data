@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Defensor Iracundia",
   "script": "npc.defensor_iracundia",
   "sex": 0,

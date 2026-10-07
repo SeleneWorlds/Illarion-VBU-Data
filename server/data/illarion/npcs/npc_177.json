@@ -6,7 +6,6 @@
     "z": -3
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Daerbur Wimbert",
   "script": "npc.daerbur_wimbert",
   "sex": 0,

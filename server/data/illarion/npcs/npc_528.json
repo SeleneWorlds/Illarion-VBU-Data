@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Defensor Mando",
   "script": "npc.defensor_mando",
   "sex": 0,

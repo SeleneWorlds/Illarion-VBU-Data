@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Marcus Steinholden",
   "script": "npc.marcus_steinholden",
   "sex": 0,

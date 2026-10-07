@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Sepp Leaf",
   "script": "npc.sepp_leaf",
   "sex": 0,

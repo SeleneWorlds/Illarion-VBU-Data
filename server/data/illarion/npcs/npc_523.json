@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Defensor Extremus",
   "script": "npc.defensor_extremus",
   "sex": 0,

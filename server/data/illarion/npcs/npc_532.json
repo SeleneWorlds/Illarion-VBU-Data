@@ -6,7 +6,6 @@
     "z": -9
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Defensor Sancio",
   "script": "npc.defensor_sancio",
   "sex": 0,

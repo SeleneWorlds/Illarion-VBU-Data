@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Fijanna Squall",
   "script": "npc.fijanna_squall",
   "sex": 1,

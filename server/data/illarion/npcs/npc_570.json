@@ -6,7 +6,6 @@
     "z": 1
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Dreal Coalbreaker",
   "script": "npc.dreal_coalbreaker",
   "sex": 0,

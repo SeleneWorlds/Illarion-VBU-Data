@@ -6,7 +6,6 @@
     "z": -6
   },
   "facing": 5,
-  "isHealer": false,
   "name": "Grimlug",
   "script": "npc.grimlug",
   "sex": 0,

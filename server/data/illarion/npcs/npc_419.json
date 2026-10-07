@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Madeline Clarbelis",
   "script": "npc.madeline_clarbelis",
   "sex": 1,

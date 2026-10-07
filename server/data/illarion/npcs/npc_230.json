@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 0,
-  "isHealer": false,
   "name": "Sogg Beermug",
   "script": "npc.sogg_beermug",
   "sex": 0,

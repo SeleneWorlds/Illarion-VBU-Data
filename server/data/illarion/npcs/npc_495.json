@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 2,
-  "isHealer": false,
   "name": "Decius Cerasus Industrius",
   "script": "npc.decius_cerasus_industrius",
   "sex": 0,

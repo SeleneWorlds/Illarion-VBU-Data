@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Boumaug Firesmash",
   "script": "npc.boumaug_firesmash",
   "sex": 0,

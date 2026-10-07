@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Daniel Brock",
   "script": "npc.daniel_brock",
   "sex": 0,

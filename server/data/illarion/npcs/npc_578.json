@@ -6,7 +6,6 @@
     "z": 1
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Ada Golweneth",
   "script": "npc.ada_golweneth",
   "sex": 1,

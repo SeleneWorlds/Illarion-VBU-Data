@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Groktan Flintsplit",
   "script": "npc.groktan_flintsplit",
   "sex": 0,

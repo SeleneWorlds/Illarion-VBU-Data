@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Antonius Copperhand",
   "script": "npc.antonius_copperhand",
   "sex": 0,

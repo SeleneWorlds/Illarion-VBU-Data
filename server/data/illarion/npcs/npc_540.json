@@ -6,7 +6,6 @@
     "z": 1
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Granor Bergenhieb",
   "script": "npc.granor_bergenhieb",
   "sex": 0,

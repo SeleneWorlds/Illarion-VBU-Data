@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 0,
-  "isHealer": false,
   "name": "Nik Nilo",
   "script": "npc.nik_nilo",
   "sex": 0,

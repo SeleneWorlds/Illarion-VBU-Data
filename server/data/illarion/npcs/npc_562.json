@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Eleanor Fairbanks",
   "script": "npc.eleanor_fairbanks",
   "sex": 1,

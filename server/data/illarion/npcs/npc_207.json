@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Graznok",
   "script": "npc.graznok",
   "sex": 0,

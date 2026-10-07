@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Eugene Burton",
   "script": "npc.eugene_burton",
   "sex": 0,
