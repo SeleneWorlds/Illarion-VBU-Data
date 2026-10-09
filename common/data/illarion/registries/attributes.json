@@ -1,4 +1,8 @@
 {
   "name": "attributes",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "id": "string",
+    "name": "string"
+  }
 }
