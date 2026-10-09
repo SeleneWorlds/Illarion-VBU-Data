@@ -6,7 +6,7 @@
     "y": 303,
     "z": -5
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Lotta Medborgar",
   "script": "npc.lotta_medborgar",
   "sex": 1,

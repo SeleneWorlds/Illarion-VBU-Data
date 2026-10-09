@@ -6,7 +6,7 @@
     "y": 825,
     "z": -9
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Defensor Fervor",
   "script": "npc.defensor_fervor",
   "sex": 0,

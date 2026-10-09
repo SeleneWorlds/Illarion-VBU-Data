@@ -6,7 +6,7 @@
     "y": 205,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Pasinn",
   "script": "npc.pasinn",
   "sex": 0,

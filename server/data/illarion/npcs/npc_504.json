@@ -6,7 +6,7 @@
     "y": 260,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Eklob",
   "script": "npc.eklob",
   "sex": 0,

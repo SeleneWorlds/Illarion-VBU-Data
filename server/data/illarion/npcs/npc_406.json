@@ -6,7 +6,7 @@
     "y": 597,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Joseph Quatrilla",
   "script": "npc.joseph_quatrilla",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 284,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Saren Eisenfaust",
   "script": "npc.saren_eisenfaust",
   "sex": 0,

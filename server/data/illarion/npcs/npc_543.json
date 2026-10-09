@@ -6,7 +6,7 @@
     "y": 859,
     "z": -9
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Marcus Steinholden",
   "script": "npc.marcus_steinholden",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 803,
     "z": -9
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Defensor Torrens",
   "script": "npc.defensor_torrens",
   "sex": 0,

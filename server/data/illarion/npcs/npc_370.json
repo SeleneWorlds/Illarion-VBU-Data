@@ -6,7 +6,7 @@
     "y": 829,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Argentus Almsbag",
   "script": "npc.argentus_almsbag",
   "sex": 0,

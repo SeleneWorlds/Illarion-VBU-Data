@@ -6,7 +6,7 @@
     "y": 809,
     "z": 1
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Metylda Lockleigh",
   "script": "npc.metylda_lockleigh",
   "sex": 1,

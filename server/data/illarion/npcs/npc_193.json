@@ -6,7 +6,7 @@
     "y": 304,
     "z": -6
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Cormac",
   "script": "npc.cormac",
   "sex": 0,

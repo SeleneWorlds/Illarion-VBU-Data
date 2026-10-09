@@ -6,7 +6,7 @@
     "y": 850,
     "z": -9
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Defensor Robur",
   "script": "npc.defensor_robur",
   "sex": 0,

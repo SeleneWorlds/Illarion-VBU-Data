@@ -6,7 +6,7 @@
     "y": 599,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Pheritaleth",
   "script": "npc.pheritaleth",
   "sex": 1,

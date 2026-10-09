@@ -6,7 +6,7 @@
     "y": 111,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Madoquar",
   "script": "npc.madoquar",
   "sex": 1,

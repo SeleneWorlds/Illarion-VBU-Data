@@ -6,7 +6,7 @@
     "y": 279,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Sogg Beermug",
   "script": "npc.sogg_beermug",
   "sex": 0,

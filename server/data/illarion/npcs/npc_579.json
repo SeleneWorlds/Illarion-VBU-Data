@@ -6,7 +6,7 @@
     "y": 10,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Pet Master",
   "script": "npc.petMaster",
   "sex": 0,

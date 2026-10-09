@@ -6,7 +6,7 @@
     "y": 325,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Sam",
   "script": "npc.sam",
   "sex": 0,

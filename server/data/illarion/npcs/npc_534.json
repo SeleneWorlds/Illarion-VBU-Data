@@ -6,7 +6,7 @@
     "y": 800,
     "z": -9
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Defensor Transfodio",
   "script": "npc.defensor_transfodio",
   "sex": 0,

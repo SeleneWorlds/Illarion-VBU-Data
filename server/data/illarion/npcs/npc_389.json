@@ -6,7 +6,7 @@
     "y": 301,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Fijanna Squall",
   "script": "npc.fijanna_squall",
   "sex": 1,

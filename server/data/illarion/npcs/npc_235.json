@@ -6,7 +6,7 @@
     "y": 649,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Corporal Piero",
   "script": "npc.corporal_piero",
   "sex": 0,

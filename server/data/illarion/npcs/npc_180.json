@@ -6,7 +6,7 @@
     "y": 104,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Raban",
   "script": "npc.raban",
   "sex": 0,

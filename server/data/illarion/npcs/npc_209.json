@@ -6,7 +6,7 @@
     "y": 835,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Timotheus",
   "script": "npc.timotheus",
   "sex": 0,

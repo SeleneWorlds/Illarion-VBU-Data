@@ -6,7 +6,7 @@
     "y": 324,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Wilderland Respawn",
   "script": "npc.yellowcross",
   "sex": 0,

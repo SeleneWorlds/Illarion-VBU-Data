@@ -6,7 +6,7 @@
     "y": 620,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Beror Oakaxe",
   "script": "npc.beror_oakaxe",
   "sex": 0,

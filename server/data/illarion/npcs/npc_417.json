@@ -6,7 +6,7 @@
     "y": 229,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Laura Pepperbags",
   "script": "npc.laura_pepperbags",
   "sex": 1,

@@ -6,7 +6,7 @@
     "y": 795,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Nobarg",
   "script": "npc.nobarg",
   "sex": 0,

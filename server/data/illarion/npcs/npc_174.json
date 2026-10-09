@@ -6,7 +6,7 @@
     "y": 603,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Jonathan Cyrus",
   "script": "npc.jonathan_cyrus",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 829,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Lothar Piero",
   "script": "npc.lothar_piero",
   "sex": 0,

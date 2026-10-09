@@ -6,7 +6,7 @@
     "y": 760,
     "z": -9
   },
-  "facing": 5,
+  "facing": "southwest",
   "name": "Defensor Venenatus",
   "script": "npc.defensor_venenatus",
   "sex": 0,

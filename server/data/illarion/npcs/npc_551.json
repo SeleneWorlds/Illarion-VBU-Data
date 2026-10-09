@@ -6,7 +6,7 @@
     "y": 233,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Ssiguss",
   "script": "npc.ssiguss",
   "sex": 0,

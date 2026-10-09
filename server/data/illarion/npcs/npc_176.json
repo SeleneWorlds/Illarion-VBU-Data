@@ -6,7 +6,7 @@
     "y": 359,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Bruno Blackhole",
   "script": "npc.bruno_blackhole",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 232,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Bula Glasha",
   "script": "npc.bula_glasha",
   "sex": 1,

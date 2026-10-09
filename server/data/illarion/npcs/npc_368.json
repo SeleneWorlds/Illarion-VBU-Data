@@ -6,7 +6,7 @@
     "y": 292,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Viola Baywillow",
   "script": "npc.viola_baywillow",
   "sex": 1,

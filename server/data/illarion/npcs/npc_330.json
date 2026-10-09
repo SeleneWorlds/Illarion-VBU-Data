@@ -6,7 +6,7 @@
     "y": 264,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Advari Stonebog",
   "script": "npc.advari_stonebog",
   "sex": 0,

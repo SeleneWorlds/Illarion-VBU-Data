@@ -6,7 +6,7 @@
     "y": 576,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Lilli Gallfing",
   "script": "npc.lilli_gallfing",
   "sex": 1,

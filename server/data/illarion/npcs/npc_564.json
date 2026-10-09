@@ -6,7 +6,7 @@
     "y": 842,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Francine Leonard",
   "script": "npc.francine_leonard",
   "sex": 1,

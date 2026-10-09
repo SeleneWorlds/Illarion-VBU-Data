@@ -6,7 +6,7 @@
     "y": 183,
     "z": -6
   },
-  "facing": 5,
+  "facing": "southwest",
   "name": "Grimlug",
   "script": "npc.grimlug",
   "sex": 0,

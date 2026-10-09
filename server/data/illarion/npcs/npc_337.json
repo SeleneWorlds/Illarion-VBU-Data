@@ -6,7 +6,7 @@
     "y": 641,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Alexis Dostas",
   "script": "npc.alexis_dostas",
   "sex": 0,

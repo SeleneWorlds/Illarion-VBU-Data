@@ -6,7 +6,7 @@
     "y": 849,
     "z": 0
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Decius Cerasus Industrius",
   "script": "npc.decius_cerasus_industrius",
   "sex": 0,

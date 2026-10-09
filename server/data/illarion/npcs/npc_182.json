@@ -6,7 +6,7 @@
     "y": 470,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Valandil Elensar",
   "script": "npc.valandil_elensar",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 842,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Thomas Weste",
   "script": "npc.thomas_weste",
   "sex": 0,

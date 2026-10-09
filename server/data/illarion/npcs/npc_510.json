@@ -6,7 +6,7 @@
     "y": 497,
     "z": -6
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Gorgophone",
   "script": "npc.gorgophone",
   "sex": 0,

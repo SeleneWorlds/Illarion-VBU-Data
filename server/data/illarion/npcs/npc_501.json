@@ -6,7 +6,7 @@
     "y": 283,
     "z": -6
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Lotte Silberstreif",
   "script": "npc.lotte_silberstreif",
   "sex": 1,

@@ -6,7 +6,7 @@
     "y": 266,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Galmair Respawn",
   "script": "npc.yellowcross",
   "sex": 0,

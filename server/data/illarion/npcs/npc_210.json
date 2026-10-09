@@ -6,7 +6,7 @@
     "y": 789,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Gregor Remethar",
   "script": "npc.gregor_remethar",
   "sex": 0,

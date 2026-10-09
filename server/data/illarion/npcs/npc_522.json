@@ -6,7 +6,7 @@
     "y": 795,
     "z": -9
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Defensor Diluo",
   "script": "npc.defensor_diluo",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 263,
     "z": -6
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Xiao Dongzou",
   "script": "npc.xiao_dongzou",
   "sex": 0,

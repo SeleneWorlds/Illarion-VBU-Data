@@ -6,7 +6,7 @@
     "y": 629,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Ruzusss",
   "script": "npc.ruzusss",
   "sex": 0,

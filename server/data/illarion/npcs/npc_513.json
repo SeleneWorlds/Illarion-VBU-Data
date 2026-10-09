@@ -6,7 +6,7 @@
     "y": 600,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Jeremiah Horanfeld",
   "script": "npc.jeremiah_horanfeld",
   "sex": 0,

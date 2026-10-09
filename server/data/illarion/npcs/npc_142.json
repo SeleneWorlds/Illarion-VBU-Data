@@ -6,7 +6,7 @@
     "y": -488,
     "z": -40
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Percy Dryless",
   "script": "npc.percy_dryless",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 783,
     "z": -9
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Defensor Profligo",
   "script": "npc.defensor_profligo",
   "sex": 0,

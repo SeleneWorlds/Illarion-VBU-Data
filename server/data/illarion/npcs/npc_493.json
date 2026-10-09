@@ -6,7 +6,7 @@
     "y": 268,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Truciolo Pialla",
   "script": "npc.truciolo_pialla",
   "sex": 0,

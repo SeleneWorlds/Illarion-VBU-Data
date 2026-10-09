@@ -6,7 +6,7 @@
     "y": 687,
     "z": 1
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Granor Bergenhieb",
   "script": "npc.granor_bergenhieb",
   "sex": 0,

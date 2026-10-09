@@ -6,7 +6,7 @@
     "y": 642,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Horatio Milenus",
   "script": "npc.horatio_milenus",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 770,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Vallaria Medrota",
   "script": "npc.vallaria_medrota",
   "sex": 1,

@@ -6,7 +6,7 @@
     "y": 187,
     "z": -7
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Angelo Rothman",
   "script": "npc.angelo_rothman",
   "sex": 0,

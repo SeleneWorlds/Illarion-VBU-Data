@@ -6,7 +6,7 @@
     "y": 311,
     "z": -6
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Hagar Wernson",
   "script": "npc.hagar_wernson",
   "sex": 0,

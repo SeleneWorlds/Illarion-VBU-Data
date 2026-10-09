@@ -6,7 +6,7 @@
     "y": 664,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Dale Daeon",
   "script": "npc.dale_daeon",
   "sex": 0,

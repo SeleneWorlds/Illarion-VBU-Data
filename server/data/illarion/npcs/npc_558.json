@@ -6,7 +6,7 @@
     "y": 293,
     "z": -3
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Curly",
   "script": "npc.curly",
   "sex": 0,

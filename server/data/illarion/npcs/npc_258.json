@@ -6,7 +6,7 @@
     "y": 562,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Cadomyr Respawn",
   "script": "npc.yellowcross",
   "sex": 0,

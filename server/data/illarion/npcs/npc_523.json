@@ -6,7 +6,7 @@
     "y": 807,
     "z": -9
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Defensor Extremus",
   "script": "npc.defensor_extremus",
   "sex": 0,

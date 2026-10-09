@@ -6,7 +6,7 @@
     "y": 558,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Ruggero Bloom",
   "script": "npc.ruggero_bloom",
   "sex": 0,

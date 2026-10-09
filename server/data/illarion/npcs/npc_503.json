@@ -6,7 +6,7 @@
     "y": 872,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "George Backstab",
   "script": "npc.george_backstab",
   "sex": 0,

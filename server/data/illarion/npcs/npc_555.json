@@ -6,7 +6,7 @@
     "y": 298,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Anthony Devries",
   "script": "npc.anthony_devries",
   "sex": 0,

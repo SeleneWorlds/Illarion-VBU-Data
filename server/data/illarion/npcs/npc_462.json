@@ -6,7 +6,7 @@
     "y": 269,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Tony Spirotelli",
   "script": "npc.tony_spirotelli",
   "sex": 0,

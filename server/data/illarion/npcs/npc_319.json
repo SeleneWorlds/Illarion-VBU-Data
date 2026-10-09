@@ -6,7 +6,7 @@
     "y": 576,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Linda Rabon",
   "script": "npc.linda_rabon",
   "sex": 1,

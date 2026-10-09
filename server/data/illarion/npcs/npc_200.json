@@ -6,7 +6,7 @@
     "y": 216,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Miggs",
   "script": "npc.miggs",
   "sex": 0,

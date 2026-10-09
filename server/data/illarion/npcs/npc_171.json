@@ -6,7 +6,7 @@
     "y": 599,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Frobenius",
   "script": "npc.frobenius",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 829,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Dion Rhoditis",
   "script": "npc.dion_rhoditis",
   "sex": 0,

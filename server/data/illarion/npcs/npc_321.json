@@ -6,7 +6,7 @@
     "y": 861,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Baldo Proudtoe",
   "script": "npc.baldo_proudtoe",
   "sex": 0,

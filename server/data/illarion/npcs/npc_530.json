@@ -6,7 +6,7 @@
     "y": 847,
     "z": -9
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Defensor Prohibeo",
   "script": "npc.defensor_prohibeo",
   "sex": 0,

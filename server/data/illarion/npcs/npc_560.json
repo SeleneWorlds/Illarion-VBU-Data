@@ -6,7 +6,7 @@
     "y": 311,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Blight Ronin",
   "script": "npc.blight_ronin",
   "sex": 0,

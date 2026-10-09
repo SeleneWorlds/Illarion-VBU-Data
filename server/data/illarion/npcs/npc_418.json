@@ -6,7 +6,7 @@
     "y": 621,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Mirarie Bragolin",
   "script": "npc.mirarie_bragolin",
   "sex": 1,

@@ -6,7 +6,7 @@
     "y": 617,
     "z": 0
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Fredericus",
   "script": "npc.fredericus",
   "sex": 0,

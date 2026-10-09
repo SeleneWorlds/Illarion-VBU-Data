@@ -6,7 +6,7 @@
     "y": 809,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Maelyrra Umrielyth",
   "script": "npc.maelyrra_umrielyth",
   "sex": 1,

@@ -6,7 +6,7 @@
     "y": 316,
     "z": 0
   },
-  "facing": 5,
+  "facing": "southwest",
   "name": "Terry Ogg",
   "script": "npc.terry_ogg",
   "sex": 0,

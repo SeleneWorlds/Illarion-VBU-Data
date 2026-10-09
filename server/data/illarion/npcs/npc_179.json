@@ -6,7 +6,7 @@
     "y": 798,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Nana Winterbutter",
   "script": "npc.nana_winterbutter",
   "sex": 1,

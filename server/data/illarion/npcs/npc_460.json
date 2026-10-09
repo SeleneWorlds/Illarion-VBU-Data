@@ -6,7 +6,7 @@
     "y": 278,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Seleseth",
   "script": "npc.seleseth",
   "sex": 0,

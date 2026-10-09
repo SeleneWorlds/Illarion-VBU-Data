@@ -6,7 +6,7 @@
     "y": 519,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Ioannes Faber",
   "script": "npc.ioannes_faber",
   "sex": 0,

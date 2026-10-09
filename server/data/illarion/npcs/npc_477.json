@@ -6,7 +6,7 @@
     "y": 825,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Daniel Brock",
   "script": "npc.daniel_brock",
   "sex": 0,

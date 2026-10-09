@@ -6,7 +6,7 @@
     "y": 281,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Charwis Irongate",
   "script": "npc.charwis_irongate",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 775,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Runewick Respawn",
   "script": "npc.yellowcross",
   "sex": 0,

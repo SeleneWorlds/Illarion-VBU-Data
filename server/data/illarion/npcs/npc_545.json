@@ -6,7 +6,7 @@
     "y": 840,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Alwin Sommerkorn",
   "script": "npc.alwin_sommerkorn",
   "sex": 0,

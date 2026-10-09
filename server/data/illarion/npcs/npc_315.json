@@ -6,7 +6,7 @@
     "y": 743,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Kaitza",
   "script": "npc.kaitza",
   "sex": 0,

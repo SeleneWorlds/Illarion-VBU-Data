@@ -6,7 +6,7 @@
     "y": 793,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Eleanor Fairbanks",
   "script": "npc.eleanor_fairbanks",
   "sex": 1,

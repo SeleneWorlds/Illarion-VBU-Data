@@ -6,7 +6,7 @@
     "y": 275,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Krudash",
   "script": "npc.krudash",
   "sex": 1,

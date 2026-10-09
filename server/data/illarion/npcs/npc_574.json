@@ -6,7 +6,7 @@
     "y": 549,
     "z": -6
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Andrei Kazakov",
   "script": "npc.andrei_kazakov",
   "sex": 0,

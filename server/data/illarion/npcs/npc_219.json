@@ -6,7 +6,7 @@
     "y": 822,
     "z": 0
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Francois Delacroix",
   "script": "npc.francois_delacroix",
   "sex": 0,

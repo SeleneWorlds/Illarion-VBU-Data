@@ -6,7 +6,7 @@
     "y": 856,
     "z": -9
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Defensor Sancio",
   "script": "npc.defensor_sancio",
   "sex": 0,

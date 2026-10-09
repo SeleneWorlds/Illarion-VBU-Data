@@ -6,7 +6,7 @@
     "y": 276,
     "z": -6
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Paula Bronzeblatt",
   "script": "npc.paula_bronzeblatt",
   "sex": 1,

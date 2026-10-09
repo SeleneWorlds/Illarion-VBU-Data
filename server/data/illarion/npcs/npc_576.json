@@ -6,7 +6,7 @@
     "y": 686,
     "z": 1
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Cato Lupis",
   "script": "npc.cato_lupis",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 297,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Nimbur Goldbrew",
   "script": "npc.nimbur_goldbrew",
   "sex": 0,

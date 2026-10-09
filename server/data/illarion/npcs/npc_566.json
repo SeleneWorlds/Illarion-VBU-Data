@@ -6,7 +6,7 @@
     "y": 532,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Aelfinn",
   "script": "npc.aelfinn",
   "sex": 0,

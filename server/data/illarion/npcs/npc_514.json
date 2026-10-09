@@ -6,7 +6,7 @@
     "y": 844,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Cilivren Itiireae",
   "script": "npc.cilivren_itiireae",
   "sex": 1,

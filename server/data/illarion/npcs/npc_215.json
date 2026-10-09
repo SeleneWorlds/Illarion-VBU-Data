@@ -6,7 +6,7 @@
     "y": 837,
     "z": 0
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Fronita Emery",
   "script": "npc.fronita_emery",
   "sex": 1,

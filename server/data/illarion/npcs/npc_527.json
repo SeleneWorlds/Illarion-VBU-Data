@@ -6,7 +6,7 @@
     "y": 850,
     "z": -9
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Defensor Iracundia",
   "script": "npc.defensor_iracundia",
   "sex": 0,

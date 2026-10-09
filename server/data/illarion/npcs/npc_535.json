@@ -6,7 +6,7 @@
     "y": 820,
     "z": -9
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Defensor Transmutatio",
   "script": "npc.defensor_transmutatio",
   "sex": 0,

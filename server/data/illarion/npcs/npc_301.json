@@ -6,7 +6,7 @@
     "y": 784,
     "z": 1
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Torina Scibrim",
   "script": "npc.torina_scibrim",
   "sex": 1,

@@ -6,7 +6,7 @@
     "y": 784,
     "z": 1
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Ada Golweneth",
   "script": "npc.ada_golweneth",
   "sex": 1,

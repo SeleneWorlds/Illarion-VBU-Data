@@ -6,7 +6,7 @@
     "y": 817,
     "z": 0
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Lilith Needlehand",
   "script": "npc.lilith_needlehand",
   "sex": 1,

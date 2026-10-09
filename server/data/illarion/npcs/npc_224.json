@@ -6,7 +6,7 @@
     "y": 279,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Nik Nilo",
   "script": "npc.nik_nilo",
   "sex": 0,

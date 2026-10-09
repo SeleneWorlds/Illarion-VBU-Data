@@ -6,7 +6,7 @@
     "y": 779,
     "z": -3
   },
-  "facing": 5,
+  "facing": "southwest",
   "name": "Manuel Salan",
   "script": "npc.manuel_salan",
   "sex": 0,

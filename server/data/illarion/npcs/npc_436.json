@@ -6,7 +6,7 @@
     "y": 817,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Elesil Daelwon",
   "script": "npc.elesil_daelwon",
   "sex": 1,

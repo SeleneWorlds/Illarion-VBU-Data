@@ -6,7 +6,7 @@
     "y": 659,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Henry Darter",
   "script": "npc.henry_darter",
   "sex": 0,

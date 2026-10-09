@@ -6,7 +6,7 @@
     "y": 449,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Graznok",
   "script": "npc.graznok",
   "sex": 0,

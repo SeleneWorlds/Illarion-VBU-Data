@@ -6,7 +6,7 @@
     "y": 315,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Wulfgorda",
   "script": "npc.wulfgorda",
   "sex": 1,

@@ -6,7 +6,7 @@
     "y": 611,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Thomas Dalenus",
   "script": "npc.thomas_dalenus",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 128,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Bathelor",
   "script": "npc.bathelor",
   "sex": 0,

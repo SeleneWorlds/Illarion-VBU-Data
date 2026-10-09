@@ -6,7 +6,7 @@
     "y": 787,
     "z": 1
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Numila Irunnleh",
   "script": "npc.numila_irunnleh",
   "sex": 1,

@@ -6,7 +6,7 @@
     "y": 678,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Rutrus",
   "script": "npc.rutrus",
   "sex": 0,

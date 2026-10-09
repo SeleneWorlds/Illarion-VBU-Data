@@ -6,7 +6,7 @@
     "y": 493,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Eugene Burton",
   "script": "npc.eugene_burton",
   "sex": 0,

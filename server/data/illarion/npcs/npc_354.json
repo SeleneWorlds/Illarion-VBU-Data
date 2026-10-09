@@ -6,7 +6,7 @@
     "y": 315,
     "z": 0
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Hook Gowan",
   "script": "npc.hook_gowan",
   "sex": 0,

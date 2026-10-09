@@ -6,7 +6,7 @@
     "y": 766,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Uriel Urch",
   "script": "npc.uriel_urch",
   "sex": 0,

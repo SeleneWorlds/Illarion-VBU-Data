@@ -6,7 +6,7 @@
     "y": 843,
     "z": -9
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Defensor Mando",
   "script": "npc.defensor_mando",
   "sex": 0,

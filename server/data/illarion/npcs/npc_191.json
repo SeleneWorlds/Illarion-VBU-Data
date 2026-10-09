@@ -6,7 +6,7 @@
     "y": 288,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Ehrom Goldhammer",
   "script": "npc.ehrom_goldhammer",
   "sex": 0,

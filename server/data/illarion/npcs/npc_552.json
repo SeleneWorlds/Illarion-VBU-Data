@@ -6,7 +6,7 @@
     "y": 676,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Obsidimine",
   "script": "npc.obsidimine",
   "sex": 0,

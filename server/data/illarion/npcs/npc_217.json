@@ -6,7 +6,7 @@
     "y": 829,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "William Daloire",
   "script": "npc.william_daloire",
   "sex": 0,

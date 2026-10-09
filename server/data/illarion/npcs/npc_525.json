@@ -6,7 +6,7 @@
     "y": 856,
     "z": -9
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Defensor Impetus",
   "script": "npc.defensor_impetus",
   "sex": 0,

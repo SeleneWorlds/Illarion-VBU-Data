@@ -6,7 +6,7 @@
     "y": 574,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Severus Rabon",
   "script": "npc.severus_rabon",
   "sex": 0,

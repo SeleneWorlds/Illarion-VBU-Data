@@ -6,7 +6,7 @@
     "y": 253,
     "z": 1
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Dreal Coalbreaker",
   "script": "npc.dreal_coalbreaker",
   "sex": 0,

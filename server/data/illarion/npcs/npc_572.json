@@ -6,7 +6,7 @@
     "y": 271,
     "z": -5
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Imos Dutin",
   "script": "npc.imos_dutin",
   "sex": 0,

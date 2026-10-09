@@ -6,7 +6,7 @@
     "y": 268,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Laramir Silverwood",
   "script": "npc.laramir_silverwood",
   "sex": 0,

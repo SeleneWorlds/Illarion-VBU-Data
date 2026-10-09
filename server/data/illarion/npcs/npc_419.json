@@ -6,7 +6,7 @@
     "y": 757,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Madeline Clarbelis",
   "script": "npc.madeline_clarbelis",
   "sex": 1,

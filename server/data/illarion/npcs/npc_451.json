@@ -6,7 +6,7 @@
     "y": 593,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Zlatxhol",
   "script": "npc.zlatxhol",
   "sex": 0,

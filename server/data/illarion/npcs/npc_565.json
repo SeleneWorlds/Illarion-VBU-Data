@@ -6,7 +6,7 @@
     "y": 308,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Erza",
   "script": "npc.hairdresser",
   "sex": 1,

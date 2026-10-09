@@ -6,7 +6,7 @@
     "y": 248,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Boumaug Firesmash",
   "script": "npc.boumaug_firesmash",
   "sex": 0,

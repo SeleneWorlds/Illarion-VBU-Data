@@ -6,7 +6,7 @@
     "y": 845,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Nizar",
   "script": "npc.nizar",
   "sex": 0,

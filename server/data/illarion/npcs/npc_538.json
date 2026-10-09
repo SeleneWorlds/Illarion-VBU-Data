@@ -6,7 +6,7 @@
     "y": 682,
     "z": 1
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Egon",
   "script": "npc.egon",
   "sex": 0,

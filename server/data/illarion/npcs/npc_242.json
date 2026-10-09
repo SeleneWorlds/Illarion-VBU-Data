@@ -6,7 +6,7 @@
     "y": 788,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Sir Fludnar Yednos",
   "script": "npc.sir_fludnar_yednos",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 263,
     "z": 1
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Frederik Silvereye",
   "script": "npc.frederik_silvereye",
   "sex": 0,

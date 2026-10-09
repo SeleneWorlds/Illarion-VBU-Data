@@ -6,7 +6,7 @@
     "y": 273,
     "z": 0
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Fokous Onyxbrow",
   "script": "npc.fokous_onyxbrow",
   "sex": 0,

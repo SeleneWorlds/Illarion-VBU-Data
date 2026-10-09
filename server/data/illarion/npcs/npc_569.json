@@ -6,7 +6,7 @@
     "y": 396,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Bainien Grythil",
   "script": "npc.bainien_grythil",
   "sex": 1,

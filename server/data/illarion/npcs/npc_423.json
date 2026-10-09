@@ -6,7 +6,7 @@
     "y": 218,
     "z": 0
   },
-  "facing": 5,
+  "facing": "southwest",
   "name": "Gretel Goldhair",
   "script": "npc.gretel_goldhair",
   "sex": 1,

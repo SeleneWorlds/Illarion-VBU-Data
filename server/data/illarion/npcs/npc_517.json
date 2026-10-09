@@ -6,7 +6,7 @@
     "y": 835,
     "z": -9
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Defensor Animositas",
   "script": "npc.defensor_animositas",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 616,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Brigette Russ",
   "script": "npc.brigette_russ",
   "sex": 1,

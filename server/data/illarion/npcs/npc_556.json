@@ -6,7 +6,7 @@
     "y": 856,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Pesnar Rolemnes",
   "script": "npc.pesnar_rolemnes",
   "sex": 0,

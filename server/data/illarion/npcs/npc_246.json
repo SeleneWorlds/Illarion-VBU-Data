@@ -6,7 +6,7 @@
     "y": 317,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Half-hung Bryan",
   "script": "npc.half-hung_bryan",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 236,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Gurzad Gutri",
   "script": "npc.gurzad_gutri",
   "sex": 0,

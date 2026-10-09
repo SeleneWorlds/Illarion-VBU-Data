@@ -6,7 +6,7 @@
     "y": 644,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Grakamesh",
   "script": "npc.grakamesh",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 160,
     "z": -3
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Daerbur Wimbert",
   "script": "npc.daerbur_wimbert",
   "sex": 0,

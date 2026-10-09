@@ -6,7 +6,7 @@
     "y": 574,
     "z": 0
   },
-  "facing": 2,
+  "facing": "east",
   "name": "Hassan",
   "script": "npc.hassan",
   "sex": 0,

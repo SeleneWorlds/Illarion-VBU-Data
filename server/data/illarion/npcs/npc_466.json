@@ -6,7 +6,7 @@
     "y": 274,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Thorgrem Silverbeard",
   "script": "npc.thorgrem_silverbeard",
   "sex": 0,

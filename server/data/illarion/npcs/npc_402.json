@@ -6,7 +6,7 @@
     "y": 249,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Marianne Forgeron",
   "script": "npc.marianne_forgeron",
   "sex": 1,

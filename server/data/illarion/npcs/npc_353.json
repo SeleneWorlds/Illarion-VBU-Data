@@ -6,7 +6,7 @@
     "y": 324,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Henning Broomshrub",
   "script": "npc.henning_broomshrub",
   "sex": 0,

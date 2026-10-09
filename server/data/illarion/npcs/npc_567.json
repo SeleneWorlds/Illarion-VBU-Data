@@ -6,7 +6,7 @@
     "y": 330,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Sepp Leaf",
   "script": "npc.sepp_leaf",
   "sex": 0,

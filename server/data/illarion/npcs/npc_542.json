@@ -6,7 +6,7 @@
     "y": 230,
     "z": 0
   },
-  "facing": 5,
+  "facing": "southwest",
   "name": "Ssalva",
   "script": "npc.ssalva",
   "sex": 1,
