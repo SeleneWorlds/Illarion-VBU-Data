@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 387,
-    "y": 274,
-    "z": 0
-  },
   "facing": "west",
   "name": "Thorgrem Silverbeard",
   "script": "npc.thorgrem_silverbeard",
   "sex": 0,
   "hair": 1,
   "beard": 4,
+  "enabled": true,
+  "coordinates": {
+    "x": 387,
+    "y": 274,
+    "z": 0
+  },
   "hairColor": {
     "red": 216,
     "green": 216,

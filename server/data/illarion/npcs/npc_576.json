@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 150,
-    "y": 686,
-    "z": 1
-  },
   "facing": "west",
   "name": "Cato Lupis",
   "script": "npc.cato_lupis",
   "sex": 0,
   "hair": 3,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 150,
+    "y": 686,
+    "z": 1
+  },
   "hairColor": {
     "red": 3,
     "green": 5,

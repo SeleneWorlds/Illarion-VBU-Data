@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 378,
-    "y": 311,
-    "z": -6
-  },
   "facing": "west",
   "name": "Hagar Wernson",
   "script": "npc.hagar_wernson",
   "sex": 0,
   "hair": 1,
   "beard": 1,
+  "enabled": true,
+  "coordinates": {
+    "x": 378,
+    "y": 311,
+    "z": -6
+  },
   "hairColor": {
     "red": 112,
     "green": 74,

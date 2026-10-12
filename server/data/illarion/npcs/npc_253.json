@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 4,
-  "coordinate": {
-    "x": 362,
-    "y": 183,
-    "z": -6
-  },
   "facing": "southwest",
   "name": "Grimlug",
   "script": "npc.grimlug",
   "sex": 0,
   "hair": 3,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 362,
+    "y": 183,
+    "z": -6
+  },
   "hairColor": {
     "red": 23,
     "green": 6,

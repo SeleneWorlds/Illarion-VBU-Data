@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 947,
-    "y": 784,
-    "z": 1
-  },
   "facing": "south",
   "name": "Torina Scibrim",
   "script": "npc.torina_scibrim",
   "sex": 1,
   "hair": 1,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 947,
+    "y": 784,
+    "z": 1
+  },
   "hairColor": {
     "red": 255,
     "green": 250,

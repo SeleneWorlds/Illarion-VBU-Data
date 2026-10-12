@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 5,
-  "coordinate": {
-    "x": 841,
-    "y": 743,
-    "z": 0
-  },
   "facing": "north",
   "name": "Kaitza",
   "script": "npc.kaitza",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 841,
+    "y": 743,
+    "z": 0
+  },
   "hairColor": {
     "red": 154,
     "green": 205,

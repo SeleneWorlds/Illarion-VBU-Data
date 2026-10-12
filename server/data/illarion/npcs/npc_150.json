@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 404,
-    "y": 263,
-    "z": 1
-  },
   "facing": "south",
   "name": "Frederik Silvereye",
   "script": "npc.frederik_silvereye",
   "sex": 0,
   "hair": 3,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 404,
+    "y": 263,
+    "z": 1
+  },
   "hairColor": {
     "red": 204,
     "green": 144,

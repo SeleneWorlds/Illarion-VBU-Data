@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 2,
-  "coordinate": {
-    "x": 824,
-    "y": 840,
-    "z": 0
-  },
   "facing": "west",
   "name": "Alwin Sommerkorn",
   "script": "npc.alwin_sommerkorn",
   "sex": 0,
   "hair": 1,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 824,
+    "y": 840,
+    "z": 0
+  },
   "hairColor": {
     "red": 205,
     "green": 51,

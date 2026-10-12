@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 7,
-  "coordinate": {
-    "x": 918,
-    "y": 775,
-    "z": 0
-  },
   "facing": "north",
   "name": "Runewick Respawn",
   "script": "npc.yellowcross",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 918,
+    "y": 775,
+    "z": 0
+  },
   "hairColor": {
     "red": 255,
     "green": 255,

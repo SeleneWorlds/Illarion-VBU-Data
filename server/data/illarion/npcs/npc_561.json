@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 249,
-    "y": 809,
-    "z": 1
-  },
   "facing": "south",
   "name": "Metylda Lockleigh",
   "script": "npc.metylda_lockleigh",
   "sex": 1,
   "hair": 1,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 249,
+    "y": 809,
+    "z": 1
+  },
   "hairColor": {
     "red": 115,
     "green": 80,

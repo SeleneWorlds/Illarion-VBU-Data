@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 1002,
-    "y": 813,
-    "z": 0
-  },
   "facing": "east",
   "name": "Elvaine Morgan",
   "script": "npc.elvaine_morgan",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 1002,
+    "y": 813,
+    "z": 0
+  },
   "hairColor": {
     "red": 168,
     "green": 165,

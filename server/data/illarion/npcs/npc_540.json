@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 16,
-    "y": 687,
-    "z": 1
-  },
   "facing": "west",
   "name": "Granor Bergenhieb",
   "script": "npc.granor_bergenhieb",
   "sex": 0,
   "hair": 2,
   "beard": 2,
+  "enabled": true,
+  "coordinates": {
+    "x": 16,
+    "y": 687,
+    "z": 1
+  },
   "hairColor": {
     "red": 190,
     "green": 190,

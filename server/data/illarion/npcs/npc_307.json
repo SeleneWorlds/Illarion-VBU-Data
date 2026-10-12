@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 452,
-    "y": 111,
-    "z": 0
-  },
   "facing": "south",
   "name": "Madoquar",
   "script": "npc.madoquar",
   "sex": 1,
   "hair": 1,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 452,
+    "y": 111,
+    "z": 0
+  },
   "hairColor": {
     "red": 205,
     "green": 155,

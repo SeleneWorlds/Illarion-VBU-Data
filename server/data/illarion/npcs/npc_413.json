@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 373,
-    "y": 268,
-    "z": 0
-  },
   "facing": "west",
   "name": "Laramir Silverwood",
   "script": "npc.laramir_silverwood",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 373,
+    "y": 268,
+    "z": 0
+  },
   "hairColor": {
     "red": 200,
     "green": 221,

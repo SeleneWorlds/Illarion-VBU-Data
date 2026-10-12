@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 116,
-    "y": 519,
-    "z": 0
-  },
   "facing": "south",
   "name": "Ioannes Faber",
   "script": "npc.ioannes_faber",
   "sex": 0,
   "hair": 1,
   "beard": 1,
+  "enabled": true,
+  "coordinates": {
+    "x": 116,
+    "y": 519,
+    "z": 0
+  },
   "hairColor": {
     "red": 139,
     "green": 71,

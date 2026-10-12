@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 353,
-    "y": 532,
-    "z": 0
-  },
   "facing": "south",
   "name": "Aelfinn",
   "script": "npc.aelfinn",
   "sex": 0,
   "hair": 2,
   "beard": 5,
+  "enabled": true,
+  "coordinates": {
+    "x": 353,
+    "y": 532,
+    "z": 0
+  },
   "hairColor": {
     "red": 123,
     "green": 62,

@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 944,
-    "y": 784,
-    "z": 1
-  },
   "facing": "south",
   "name": "Neiran el Nyarale",
   "script": "npc.neiran_el_nyarale",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 944,
+    "y": 784,
+    "z": 1
+  },
   "hairColor": {
     "red": 128,
     "green": 255,

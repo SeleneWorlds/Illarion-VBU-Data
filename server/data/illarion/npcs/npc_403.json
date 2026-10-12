@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 111,
-    "y": 599,
-    "z": 0
-  },
   "facing": "south",
   "name": "Pheritaleth",
   "script": "npc.pheritaleth",
   "sex": 1,
   "hair": 8,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 111,
+    "y": 599,
+    "z": 0
+  },
   "hairColor": {
     "red": 255,
     "green": 236,

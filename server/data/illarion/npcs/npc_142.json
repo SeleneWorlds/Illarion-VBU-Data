@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": -489,
-    "y": -488,
-    "z": -40
-  },
   "facing": "south",
   "name": "Percy Dryless",
   "script": "npc.percy_dryless",
   "sex": 0,
   "hair": 3,
   "beard": 4,
+  "enabled": true,
+  "coordinates": {
+    "x": -489,
+    "y": -488,
+    "z": -40
+  },
   "hairColor": {
     "red": 204,
     "green": 144,

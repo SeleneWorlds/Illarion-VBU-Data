@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 816,
-    "y": 440,
-    "z": 0
-  },
   "facing": "south",
   "name": "Melanie Meadowlark",
   "script": "npc.melanie_meadowlark",
   "sex": 1,
   "hair": 7,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 816,
+    "y": 440,
+    "z": 0
+  },
   "hairColor": {
     "red": 22,
     "green": 22,

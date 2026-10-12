@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 113,
-    "y": 611,
-    "z": 0
-  },
   "facing": "north",
   "name": "Thomas Dalenus",
   "script": "npc.thomas_dalenus",
   "sex": 0,
   "hair": 3,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 113,
+    "y": 611,
+    "z": 0
+  },
   "hairColor": {
     "red": 242,
     "green": 182,

@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 11,
-  "coordinate": {
-    "x": 440,
-    "y": 760,
-    "z": -9
-  },
   "facing": "southwest",
   "name": "Defensor Venenatus",
   "script": "npc.defensor_venenatus",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 440,
+    "y": 760,
+    "z": -9
+  },
   "hairColor": {
     "red": 255,
     "green": 217,

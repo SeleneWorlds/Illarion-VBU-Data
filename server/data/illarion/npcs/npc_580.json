@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 656,
-    "y": 316,
-    "z": 0
-  },
   "facing": "southwest",
   "name": "Terry Ogg",
   "script": "npc.terry_ogg",
   "sex": 0,
   "hair": 1,
   "beard": 1,
+  "enabled": true,
+  "coordinates": {
+    "x": 656,
+    "y": 316,
+    "z": 0
+  },
   "hairColor": {
     "red": 155,
     "green": 25,

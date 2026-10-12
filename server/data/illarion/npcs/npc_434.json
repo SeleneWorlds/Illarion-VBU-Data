@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 360,
-    "y": 281,
-    "z": 0
-  },
   "facing": "west",
   "name": "Charwis Irongate",
   "script": "npc.charwis_irongate",
   "sex": 0,
   "hair": 3,
   "beard": 2,
+  "enabled": true,
+  "coordinates": {
+    "x": 360,
+    "y": 281,
+    "z": 0
+  },
   "hairColor": {
     "red": 54,
     "green": 54,

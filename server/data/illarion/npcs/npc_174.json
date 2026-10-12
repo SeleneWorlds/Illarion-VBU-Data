@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 125,
-    "y": 603,
-    "z": 0
-  },
   "facing": "west",
   "name": "Jonathan Cyrus",
   "script": "npc.jonathan_cyrus",
   "sex": 0,
   "hair": 2,
   "beard": 6,
+  "enabled": true,
+  "coordinates": {
+    "x": 125,
+    "y": 603,
+    "z": 0
+  },
   "hairColor": {
     "red": 192,
     "green": 107,

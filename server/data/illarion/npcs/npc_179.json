@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 2,
-  "coordinate": {
-    "x": 791,
-    "y": 798,
-    "z": 0
-  },
   "facing": "south",
   "name": "Nana Winterbutter",
   "script": "npc.nana_winterbutter",
   "sex": 1,
   "hair": 1,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 791,
+    "y": 798,
+    "z": 0
+  },
   "hairColor": {
     "red": 192,
     "green": 107,

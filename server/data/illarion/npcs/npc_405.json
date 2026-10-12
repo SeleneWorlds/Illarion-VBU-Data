@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 399,
-    "y": 259,
-    "z": 0
-  },
   "facing": "west",
   "name": "Grator Bottlebreak",
   "script": "npc.grator_bottlebreak",
   "sex": 0,
   "hair": 1,
   "beard": 4,
+  "enabled": true,
+  "coordinates": {
+    "x": 399,
+    "y": 259,
+    "z": 0
+  },
   "hairColor": {
     "red": 123,
     "green": 62,

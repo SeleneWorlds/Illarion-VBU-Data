@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 703,
-    "y": 290,
-    "z": 0
-  },
   "facing": "west",
   "name": "Henry Cunnigan",
   "script": "npc.henry_cunnigan",
   "sex": 0,
   "hair": 2,
   "beard": 5,
+  "enabled": true,
+  "coordinates": {
+    "x": 703,
+    "y": 290,
+    "z": 0
+  },
   "hairColor": {
     "red": 123,
     "green": 62,

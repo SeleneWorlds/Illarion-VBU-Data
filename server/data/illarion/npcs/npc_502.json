@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 334,
-    "y": 260,
-    "z": 0
-  },
   "facing": "west",
   "name": "Grijas Kokotte",
   "script": "npc.grijas_kokotte",
   "sex": 0,
   "hair": 2,
   "beard": 6,
+  "enabled": true,
+  "coordinates": {
+    "x": 334,
+    "y": 260,
+    "z": 0
+  },
   "hairColor": {
     "red": 100,
     "green": 113,

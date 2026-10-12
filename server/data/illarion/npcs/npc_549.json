@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 523,
-    "y": 205,
-    "z": 0
-  },
   "facing": "south",
   "name": "Pasinn",
   "script": "npc.pasinn",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 523,
+    "y": 205,
+    "z": 0
+  },
   "hairColor": {
     "red": 130,
     "green": 130,

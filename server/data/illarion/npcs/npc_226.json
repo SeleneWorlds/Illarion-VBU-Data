@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 4,
-  "coordinate": {
-    "x": 140,
-    "y": 644,
-    "z": 0
-  },
   "facing": "south",
   "name": "Grakamesh",
   "script": "npc.grakamesh",
   "sex": 0,
   "hair": 3,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 140,
+    "y": 644,
+    "z": 0
+  },
   "hairColor": {
     "red": 20,
     "green": 80,

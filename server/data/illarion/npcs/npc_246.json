@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 696,
-    "y": 317,
-    "z": 0
-  },
   "facing": "west",
   "name": "Half-hung Bryan",
   "script": "npc.half-hung_bryan",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 696,
+    "y": 317,
+    "z": 0
+  },
   "hairColor": {
     "red": 185,
     "green": 73,

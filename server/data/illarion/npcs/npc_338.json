@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 98,
-    "y": 567,
-    "z": 0
-  },
   "facing": "south",
   "name": "Cassandra Hestan",
   "script": "npc.cassandra_hestan",
   "sex": 1,
   "hair": 7,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 98,
+    "y": 567,
+    "z": 0
+  },
   "hairColor": {
     "red": 238,
     "green": 118,

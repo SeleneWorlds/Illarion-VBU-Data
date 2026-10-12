@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 133,
-    "y": 589,
-    "z": 0
-  },
   "facing": "west",
   "name": "Jacobus",
   "script": "npc.jacobus",
   "sex": 0,
   "hair": 1,
   "beard": 5,
+  "enabled": true,
+  "coordinates": {
+    "x": 133,
+    "y": 589,
+    "z": 0
+  },
   "hairColor": {
     "red": 158,
     "green": 66,

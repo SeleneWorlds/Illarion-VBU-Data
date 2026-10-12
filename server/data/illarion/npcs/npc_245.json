@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 700,
-    "y": 325,
-    "z": 0
-  },
   "facing": "north",
   "name": "Sam",
   "script": "npc.sam",
   "sex": 0,
   "hair": 1,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 700,
+    "y": 325,
+    "z": 0
+  },
   "hairColor": {
     "red": 40,
     "green": 23,

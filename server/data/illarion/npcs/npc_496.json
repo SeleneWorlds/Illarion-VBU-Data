@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 300,
-    "y": 276,
-    "z": -6
-  },
   "facing": "west",
   "name": "Paula Bronzeblatt",
   "script": "npc.paula_bronzeblatt",
   "sex": 1,
   "hair": 4,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 300,
+    "y": 276,
+    "z": -6
+  },
   "hairColor": {
     "red": 123,
     "green": 62,

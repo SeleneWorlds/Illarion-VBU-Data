@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 290,
-    "y": 271,
-    "z": -5
-  },
   "facing": "south",
   "name": "Imos Dutin",
   "script": "npc.imos_dutin",
   "sex": 0,
   "hair": 2,
   "beard": 6,
+  "enabled": true,
+  "coordinates": {
+    "x": 290,
+    "y": 271,
+    "z": -5
+  },
   "hairColor": {
     "red": 216,
     "green": 0,

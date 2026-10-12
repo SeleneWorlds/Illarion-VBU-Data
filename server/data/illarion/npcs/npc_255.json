@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 388,
-    "y": 238,
-    "z": 0
-  },
   "facing": "south",
   "name": "Groktan Flintsplit",
   "script": "npc.groktan_flintsplit",
   "sex": 0,
   "hair": 4,
   "beard": 1,
+  "enabled": true,
+  "coordinates": {
+    "x": 388,
+    "y": 238,
+    "z": 0
+  },
   "hairColor": {
     "red": 139,
     "green": 69,

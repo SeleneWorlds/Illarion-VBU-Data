@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 11,
-  "coordinate": {
-    "x": 482,
-    "y": 835,
-    "z": -9
-  },
   "facing": "west",
   "name": "Defensor Animositas",
   "script": "npc.defensor_animositas",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 482,
+    "y": 835,
+    "z": -9
+  },
   "hairColor": {
     "red": 255,
     "green": 217,

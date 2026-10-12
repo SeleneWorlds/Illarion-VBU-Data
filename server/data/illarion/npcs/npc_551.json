@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 5,
-  "coordinate": {
-    "x": 564,
-    "y": 233,
-    "z": 0
-  },
   "facing": "north",
   "name": "Ssiguss",
   "script": "npc.ssiguss",
   "sex": 0,
   "hair": 4,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 564,
+    "y": 233,
+    "z": 0
+  },
   "hairColor": {
     "red": 181,
     "green": 230,

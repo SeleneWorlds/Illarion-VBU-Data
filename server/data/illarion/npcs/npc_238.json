@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 120,
-    "y": 642,
-    "z": 0
-  },
   "facing": "south",
   "name": "Horatio Milenus",
   "script": "npc.horatio_milenus",
   "sex": 0,
   "hair": 0,
   "beard": 5,
+  "enabled": true,
+  "coordinates": {
+    "x": 120,
+    "y": 642,
+    "z": 0
+  },
   "hairColor": {
     "red": 0,
     "green": 0,

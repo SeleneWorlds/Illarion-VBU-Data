@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 104,
-    "y": 600,
-    "z": 0
-  },
   "facing": "south",
   "name": "Jeremiah Horanfeld",
   "script": "npc.jeremiah_horanfeld",
   "sex": 0,
   "hair": 1,
   "beard": 3,
+  "enabled": true,
+  "coordinates": {
+    "x": 104,
+    "y": 600,
+    "z": 0
+  },
   "hairColor": {
     "red": 238,
     "green": 218,

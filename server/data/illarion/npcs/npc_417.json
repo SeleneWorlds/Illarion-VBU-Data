@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 374,
-    "y": 229,
-    "z": 0
-  },
   "facing": "south",
   "name": "Laura Pepperbags",
   "script": "npc.laura_pepperbags",
   "sex": 1,
   "hair": 8,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 374,
+    "y": 229,
+    "z": 0
+  },
   "hairColor": {
     "red": 225,
     "green": 162,

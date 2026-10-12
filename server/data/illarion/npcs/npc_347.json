@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 5,
-  "coordinate": {
-    "x": 134,
-    "y": 629,
-    "z": 0
-  },
   "facing": "west",
   "name": "Ruzusss",
   "script": "npc.ruzusss",
   "sex": 0,
   "hair": 3,
   "beard": 5,
+  "enabled": true,
+  "coordinates": {
+    "x": 134,
+    "y": 629,
+    "z": 0
+  },
   "hairColor": {
     "red": 34,
     "green": 139,

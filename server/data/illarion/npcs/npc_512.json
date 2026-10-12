@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 861,
-    "y": 809,
-    "z": 0
-  },
   "facing": "west",
   "name": "Maelyrra Umrielyth",
   "script": "npc.maelyrra_umrielyth",
   "sex": 1,
   "hair": 7,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 861,
+    "y": 809,
+    "z": 0
+  },
   "hairColor": {
     "red": 53,
     "green": 46,

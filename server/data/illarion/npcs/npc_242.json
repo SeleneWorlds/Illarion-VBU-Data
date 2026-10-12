@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 959,
-    "y": 788,
-    "z": 0
-  },
   "facing": "south",
   "name": "Sir Fludnar Yednos",
   "script": "npc.sir_fludnar_yednos",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 959,
+    "y": 788,
+    "z": 0
+  },
   "hairColor": {
     "red": 33,
     "green": 28,

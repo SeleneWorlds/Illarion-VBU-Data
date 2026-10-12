@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 2,
-  "coordinate": {
-    "x": 784,
-    "y": 772,
-    "z": 0
-  },
   "facing": "south",
   "name": "Myrthe Mildthorn",
   "script": "npc.myrthe_mildthorn",
   "sex": 1,
   "hair": 1,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 784,
+    "y": 772,
+    "z": 0
+  },
   "hairColor": {
     "red": 205,
     "green": 133,

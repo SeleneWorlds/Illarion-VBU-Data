@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 11,
-  "coordinate": {
-    "x": 433,
-    "y": 856,
-    "z": -9
-  },
   "facing": "south",
   "name": "Defensor Impetus",
   "script": "npc.defensor_impetus",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 433,
+    "y": 856,
+    "z": -9
+  },
   "hairColor": {
     "red": 255,
     "green": 217,

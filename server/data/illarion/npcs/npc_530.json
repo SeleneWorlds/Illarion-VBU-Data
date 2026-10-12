@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 11,
-  "coordinate": {
-    "x": 462,
-    "y": 847,
-    "z": -9
-  },
   "facing": "west",
   "name": "Defensor Prohibeo",
   "script": "npc.defensor_prohibeo",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 462,
+    "y": 847,
+    "z": -9
+  },
   "hairColor": {
     "red": 255,
     "green": 217,

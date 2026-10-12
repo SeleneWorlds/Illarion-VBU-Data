@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 11,
-  "coordinate": {
-    "x": 491,
-    "y": 825,
-    "z": -9
-  },
   "facing": "west",
   "name": "Defensor Fervor",
   "script": "npc.defensor_fervor",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 491,
+    "y": 825,
+    "z": -9
+  },
   "hairColor": {
     "red": 255,
     "green": 217,

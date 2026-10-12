@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 891,
-    "y": 396,
-    "z": 0
-  },
   "facing": "south",
   "name": "Bainien Grythil",
   "script": "npc.bainien_grythil",
   "sex": 1,
   "hair": 7,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 891,
+    "y": 396,
+    "z": 0
+  },
   "hairColor": {
     "red": 180,
     "green": 180,

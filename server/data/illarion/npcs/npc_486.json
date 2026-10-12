@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 1000,
-    "y": 779,
-    "z": -3
-  },
   "facing": "southwest",
   "name": "Manuel Salan",
   "script": "npc.manuel_salan",
   "sex": 0,
   "hair": 1,
   "beard": 2,
+  "enabled": true,
+  "coordinates": {
+    "x": 1000,
+    "y": 779,
+    "z": -3
+  },
   "hairColor": {
     "red": 180,
     "green": 114,

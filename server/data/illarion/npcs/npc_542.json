@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 5,
-  "coordinate": {
-    "x": 567,
-    "y": 230,
-    "z": 0
-  },
   "facing": "southwest",
   "name": "Ssalva",
   "script": "npc.ssalva",
   "sex": 1,
   "hair": 6,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 567,
+    "y": 230,
+    "z": 0
+  },
   "hairColor": {
     "red": 120,
     "green": 50,

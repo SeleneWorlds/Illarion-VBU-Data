@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 113,
-  "coordinate": {
-    "x": 787,
-    "y": 303,
-    "z": -3
-  },
   "facing": "south",
   "name": "Willow",
   "script": "npc.willow",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 787,
+    "y": 303,
+    "z": -3
+  },
   "hairColor": {
     "red": 255,
     "green": 255,

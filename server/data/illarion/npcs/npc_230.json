@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 4,
-  "coordinate": {
-    "x": 362,
-    "y": 279,
-    "z": 0
-  },
   "facing": "north",
   "name": "Sogg Beermug",
   "script": "npc.sogg_beermug",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 362,
+    "y": 279,
+    "z": 0
+  },
   "hairColor": {
     "red": 119,
     "green": 56,

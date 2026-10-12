@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 11,
-  "coordinate": {
-    "x": 427,
-    "y": 783,
-    "z": -9
-  },
   "facing": "south",
   "name": "Defensor Profligo",
   "script": "npc.defensor_profligo",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 427,
+    "y": 783,
+    "z": -9
+  },
   "hairColor": {
     "red": 255,
     "green": 217,

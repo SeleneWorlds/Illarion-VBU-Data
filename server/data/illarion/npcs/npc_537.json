@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 11,
-  "coordinate": {
-    "x": 461,
-    "y": 807,
-    "z": -9
-  },
   "facing": "south",
   "name": "Defensor Volnus",
   "script": "npc.defensor_volnus",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 461,
+    "y": 807,
+    "z": -9
+  },
   "hairColor": {
     "red": 255,
     "green": 217,

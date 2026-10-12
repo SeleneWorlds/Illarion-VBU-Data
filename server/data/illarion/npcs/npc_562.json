@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 2,
-  "coordinate": {
-    "x": 798,
-    "y": 793,
-    "z": 0
-  },
   "facing": "west",
   "name": "Eleanor Fairbanks",
   "script": "npc.eleanor_fairbanks",
   "sex": 1,
   "hair": 7,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 798,
+    "y": 793,
+    "z": 0
+  },
   "hairColor": {
     "red": 160,
     "green": 100,

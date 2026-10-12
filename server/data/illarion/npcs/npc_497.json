@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 296,
-    "y": 270,
-    "z": -6
-  },
   "facing": "south",
   "name": "Arno Unterland",
   "script": "npc.arno_unterland",
   "sex": 1,
   "hair": 6,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 296,
+    "y": 270,
+    "z": -6
+  },
   "hairColor": {
     "red": 0,
     "green": 0,

@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 115,
-    "y": 549,
-    "z": 0
-  },
   "facing": "south",
   "name": "Palis Nestros",
   "script": "npc.palis_nestros",
   "sex": 0,
   "hair": 3,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 115,
+    "y": 549,
+    "z": 0
+  },
   "hairColor": {
     "red": 140,
     "green": 70,

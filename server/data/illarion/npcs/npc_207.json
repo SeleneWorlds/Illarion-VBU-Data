@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 4,
-  "coordinate": {
-    "x": 672,
-    "y": 449,
-    "z": 0
-  },
   "facing": "south",
   "name": "Graznok",
   "script": "npc.graznok",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 672,
+    "y": 449,
+    "z": 0
+  },
   "hairColor": {
     "red": 240,
     "green": 50,

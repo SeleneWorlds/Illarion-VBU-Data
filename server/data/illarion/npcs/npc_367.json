@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 710,
-    "y": 297,
-    "z": 0
-  },
   "facing": "west",
   "name": "Nimbur Goldbrew",
   "script": "npc.nimbur_goldbrew",
   "sex": 0,
   "hair": 3,
   "beard": 1,
+  "enabled": true,
+  "coordinates": {
+    "x": 710,
+    "y": 297,
+    "z": 0
+  },
   "hairColor": {
     "red": 105,
     "green": 105,

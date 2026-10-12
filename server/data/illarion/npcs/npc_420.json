@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 384,
-    "y": 328,
-    "z": 0
-  },
   "facing": "south",
   "name": "Gava Northstar",
   "script": "npc.gava_northstar",
   "sex": 1,
   "hair": 1,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 384,
+    "y": 328,
+    "z": 0
+  },
   "hairColor": {
     "red": 0,
     "green": 0,

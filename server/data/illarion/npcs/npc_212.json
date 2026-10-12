@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 337,
-    "y": 215,
-    "z": 0
-  },
   "facing": "south",
   "name": "Valerio Guilianni",
   "script": "npc.valerio_guilianni",
   "sex": 0,
   "hair": 1,
   "beard": 1,
+  "enabled": true,
+  "coordinates": {
+    "x": 337,
+    "y": 215,
+    "z": 0
+  },
   "hairColor": {
     "red": 180,
     "green": 180,

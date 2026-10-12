@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 963,
-    "y": 784,
-    "z": 1
-  },
   "facing": "west",
   "name": "Ada Golweneth",
   "script": "npc.ada_golweneth",
   "sex": 1,
   "hair": 4,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 963,
+    "y": 784,
+    "z": 1
+  },
   "hairColor": {
     "red": 139,
     "green": 71,

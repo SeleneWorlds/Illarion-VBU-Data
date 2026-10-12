@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 338,
-    "y": 268,
-    "z": 0
-  },
   "facing": "west",
   "name": "Truciolo Pialla",
   "script": "npc.truciolo_pialla",
   "sex": 0,
   "hair": 7,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 338,
+    "y": 268,
+    "z": 0
+  },
   "hairColor": {
     "red": 66,
     "green": 55,

@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 7,
-  "coordinate": {
-    "x": 690,
-    "y": 324,
-    "z": 0
-  },
   "facing": "north",
   "name": "Wilderland Respawn",
   "script": "npc.yellowcross",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 690,
+    "y": 324,
+    "z": 0
+  },
   "hairColor": {
     "red": 255,
     "green": 255,

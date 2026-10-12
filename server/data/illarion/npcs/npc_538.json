@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 57,
-  "coordinate": {
-    "x": 17,
-    "y": 682,
-    "z": 1
-  },
   "facing": "south",
   "name": "Egon",
   "script": "npc.egon",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 17,
+    "y": 682,
+    "z": 1
+  },
   "hairColor": {
     "red": 46,
     "green": 139,

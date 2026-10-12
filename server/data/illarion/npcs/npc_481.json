@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 263,
-    "y": 664,
-    "z": 0
-  },
   "facing": "south",
   "name": "Dale Daeon",
   "script": "npc.dale_daeon",
   "sex": 0,
   "hair": 2,
   "beard": 3,
+  "enabled": true,
+  "coordinates": {
+    "x": 263,
+    "y": 664,
+    "z": 0
+  },
   "hairColor": {
     "red": 192,
     "green": 107,

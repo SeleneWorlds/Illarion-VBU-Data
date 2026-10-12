@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 373,
-    "y": 263,
-    "z": 0
-  },
   "facing": "west",
   "name": "Antonius Copperhand",
   "script": "npc.antonius_copperhand",
   "sex": 0,
   "hair": 2,
   "beard": 1,
+  "enabled": true,
+  "coordinates": {
+    "x": 373,
+    "y": 263,
+    "z": 0
+  },
   "hairColor": {
     "red": 140,
     "green": 50,

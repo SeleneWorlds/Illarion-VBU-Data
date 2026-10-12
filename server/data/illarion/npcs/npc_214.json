@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 2,
-  "coordinate": {
-    "x": 883,
-    "y": 634,
-    "z": 0
-  },
   "facing": "south",
   "name": "Milo Deepdelver",
   "script": "npc.milo_deepdelver",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 883,
+    "y": 634,
+    "z": 0
+  },
   "hairColor": {
     "red": 205,
     "green": 170,

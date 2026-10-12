@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 19,
-  "coordinate": {
-    "x": 852,
-    "y": 497,
-    "z": -6
-  },
   "facing": "east",
   "name": "Gorgophone",
   "script": "npc.gorgophone",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 852,
+    "y": 497,
+    "z": -6
+  },
   "hairColor": {
     "red": 255,
     "green": 255,

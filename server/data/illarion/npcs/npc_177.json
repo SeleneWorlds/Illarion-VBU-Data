@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 392,
-    "y": 160,
-    "z": -3
-  },
   "facing": "west",
   "name": "Daerbur Wimbert",
   "script": "npc.daerbur_wimbert",
   "sex": 0,
   "hair": 2,
   "beard": 2,
+  "enabled": true,
+  "coordinates": {
+    "x": 392,
+    "y": 160,
+    "z": -3
+  },
   "hairColor": {
     "red": 192,
     "green": 107,

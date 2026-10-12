@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 11,
-  "coordinate": {
-    "x": 491,
-    "y": 820,
-    "z": -9
-  },
   "facing": "west",
   "name": "Defensor Transmutatio",
   "script": "npc.defensor_transmutatio",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 491,
+    "y": 820,
+    "z": -9
+  },
   "hairColor": {
     "red": 255,
     "green": 217,

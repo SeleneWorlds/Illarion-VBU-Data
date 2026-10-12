@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 970,
-    "y": 787,
-    "z": 1
-  },
   "facing": "south",
   "name": "Numila Irunnleh",
   "script": "npc.numila_irunnleh",
   "sex": 1,
   "hair": 7,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 970,
+    "y": 787,
+    "z": 1
+  },
   "hairColor": {
     "red": 139,
     "green": 137,

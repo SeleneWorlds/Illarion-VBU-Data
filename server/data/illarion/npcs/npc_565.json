@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 715,
-    "y": 308,
-    "z": 0
-  },
   "facing": "south",
   "name": "Erza",
   "script": "npc.hairdresser",
   "sex": 1,
   "hair": 7,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 715,
+    "y": 308,
+    "z": 0
+  },
   "hairColor": {
     "red": 238,
     "green": 118,

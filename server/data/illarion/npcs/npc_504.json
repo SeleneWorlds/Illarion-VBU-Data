@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 51,
-  "coordinate": {
-    "x": 275,
-    "y": 260,
-    "z": 0
-  },
   "facing": "south",
   "name": "Eklob",
   "script": "npc.eklob",
   "sex": 0,
   "hair": 3,
   "beard": 4,
+  "enabled": true,
+  "coordinates": {
+    "x": 275,
+    "y": 260,
+    "z": 0
+  },
   "hairColor": {
     "red": 255,
     "green": 113,

@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 362,
-    "y": 264,
-    "z": 0
-  },
   "facing": "south",
   "name": "Advari Stonebog",
   "script": "npc.advari_stonebog",
   "sex": 0,
   "hair": 1,
   "beard": 1,
+  "enabled": true,
+  "coordinates": {
+    "x": 362,
+    "y": 264,
+    "z": 0
+  },
   "hairColor": {
     "red": 189,
     "green": 182,

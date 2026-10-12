@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 11,
-  "coordinate": {
-    "x": 481,
-    "y": 850,
-    "z": -9
-  },
   "facing": "west",
   "name": "Defensor Iracundia",
   "script": "npc.defensor_iracundia",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 481,
+    "y": 850,
+    "z": -9
+  },
   "hairColor": {
     "red": 255,
     "green": 217,

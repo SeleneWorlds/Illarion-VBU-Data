@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 11,
-  "coordinate": {
-    "x": 464,
-    "y": 807,
-    "z": -9
-  },
   "facing": "south",
   "name": "Defensor Extremus",
   "script": "npc.defensor_extremus",
   "sex": 0,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 464,
+    "y": 807,
+    "z": -9
+  },
   "hairColor": {
     "red": 255,
     "green": 217,

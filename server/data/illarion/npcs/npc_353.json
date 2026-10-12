@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 2,
-  "coordinate": {
-    "x": 710,
-    "y": 324,
-    "z": 0
-  },
   "facing": "north",
   "name": "Henning Broomshrub",
   "script": "npc.henning_broomshrub",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 710,
+    "y": 324,
+    "z": 0
+  },
   "hairColor": {
     "red": 242,
     "green": 182,

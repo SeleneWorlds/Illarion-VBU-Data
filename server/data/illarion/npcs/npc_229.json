@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 4,
-  "coordinate": {
-    "x": 373,
-    "y": 275,
-    "z": 0
-  },
   "facing": "west",
   "name": "Krudash",
   "script": "npc.krudash",
   "sex": 1,
   "hair": 0,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 373,
+    "y": 275,
+    "z": 0
+  },
   "hairColor": {
     "red": 6,
     "green": 18,

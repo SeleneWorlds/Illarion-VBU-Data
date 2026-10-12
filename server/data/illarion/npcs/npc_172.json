@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 110,
-    "y": 574,
-    "z": 0
-  },
   "facing": "east",
   "name": "Hassan",
   "script": "npc.hassan",
   "sex": 0,
   "hair": 3,
   "beard": 4,
+  "enabled": true,
+  "coordinates": {
+    "x": 110,
+    "y": 574,
+    "z": 0
+  },
   "hairColor": {
     "red": 218,
     "green": 165,

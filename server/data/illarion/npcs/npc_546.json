@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 2,
-  "coordinate": {
-    "x": 141,
-    "y": 582,
-    "z": 0
-  },
   "facing": "south",
   "name": "Nadime",
   "script": "npc.nadime",
   "sex": 1,
   "hair": 1,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 141,
+    "y": 582,
+    "z": 0
+  },
   "hairColor": {
     "red": 200,
     "green": 200,

@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 0,
-  "coordinate": {
-    "x": 354,
-    "y": 872,
-    "z": 0
-  },
   "facing": "south",
   "name": "George Backstab",
   "script": "npc.george_backstab",
   "sex": 0,
   "hair": 0,
   "beard": 5,
+  "enabled": true,
+  "coordinates": {
+    "x": 354,
+    "y": 872,
+    "z": 0
+  },
   "hairColor": {
     "red": 28,
     "green": 28,

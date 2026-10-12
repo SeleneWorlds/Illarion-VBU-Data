@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 3,
-  "coordinate": {
-    "x": 902,
-    "y": 856,
-    "z": 0
-  },
   "facing": "west",
   "name": "Pesnar Rolemnes",
   "script": "npc.pesnar_rolemnes",
   "sex": 0,
   "hair": 2,
   "beard": 0,
+  "enabled": true,
+  "coordinates": {
+    "x": 902,
+    "y": 856,
+    "z": 0
+  },
   "hairColor": {
     "red": 0,
     "green": 0,

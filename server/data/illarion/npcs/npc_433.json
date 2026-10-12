@@ -1,17 +1,17 @@
 {
-  "enabled": true,
   "type": 1,
-  "coordinate": {
-    "x": 376,
-    "y": 284,
-    "z": 0
-  },
   "facing": "west",
   "name": "Saren Eisenfaust",
   "script": "npc.saren_eisenfaust",
   "sex": 0,
   "hair": 3,
   "beard": 2,
+  "enabled": true,
+  "coordinates": {
+    "x": 376,
+    "y": 284,
+    "z": 0
+  },
   "hairColor": {
     "red": 255,
     "green": 113,
