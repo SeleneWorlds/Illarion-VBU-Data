@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_3780",
+  "objectAfterRot": null,
   "script": "item.id_2937_skeleton",
   "rotsInInventory": false,
   "brightness": 0,

@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 50000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_5232",
+  "objectAfterRot": null,
   "script": "item.id_399_candlestick",
   "rotsInInventory": false,
   "brightness": 0,

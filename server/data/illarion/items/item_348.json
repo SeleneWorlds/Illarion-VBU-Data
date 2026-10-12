@@ -2,7 +2,7 @@
   "volume": 5000,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_348",
+  "objectAfterRot": null,
   "script": "item.id_348_wallcorner",
   "rotsInInventory": false,
   "brightness": 0,

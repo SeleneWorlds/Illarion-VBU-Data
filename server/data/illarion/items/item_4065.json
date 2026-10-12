@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 100,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_4065",
+  "objectAfterRot": null,
   "script": "craft.repairs",
   "rotsInInventory": false,
   "brightness": 0,

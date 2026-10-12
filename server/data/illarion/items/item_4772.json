@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 25,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_4772",
+  "objectAfterRot": null,
   "script": "item.teasets",
   "rotsInInventory": false,
   "brightness": 0,

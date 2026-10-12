@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 25,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_1164",
+  "objectAfterRot": null,
   "script": "alchemy.base.customPotion",
   "rotsInInventory": false,
   "brightness": 0,

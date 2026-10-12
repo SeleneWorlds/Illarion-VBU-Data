@@ -2,7 +2,7 @@
   "volume": 5000,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_1386",
+  "objectAfterRot": null,
   "script": "item.id_3581_kettlewithfire",
   "rotsInInventory": false,
   "brightness": 0,

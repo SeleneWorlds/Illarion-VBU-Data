@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 25,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_3109",
+  "objectAfterRot": null,
   "script": "item.id_3109_open_pell",
   "rotsInInventory": false,
   "brightness": 0,

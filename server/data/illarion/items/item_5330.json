@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 100,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_5330",
+  "objectAfterRot": null,
   "script": "magic.nature.weavers_pouch",
   "rotsInInventory": false,
   "brightness": 0,

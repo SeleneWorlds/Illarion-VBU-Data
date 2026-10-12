@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_1083",
+  "objectAfterRot": null,
   "script": "item.walldecoration",
   "rotsInInventory": false,
   "brightness": 0,

@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_5416",
+  "objectAfterRot": null,
   "script": "item.curtains",
   "rotsInInventory": false,
   "brightness": 0,
