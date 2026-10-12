@@ -6,12 +6,12 @@
   "script": "alchemy.base.brewing",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 10000,
+  "worth": 0,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "lifeRoot",
-  "level": 0,
+  "level": 55,
   "visual": "illarion:items/item_152",
   "metadata": {
     "id": 152

@@ -6,12 +6,12 @@
   "script": "alchemy.base.brewing",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 40,
+  "worth": 100,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "marshFlower",
-  "level": 0,
+  "level": 10,
   "visual": "illarion:items/item_763",
   "metadata": {
     "id": 763

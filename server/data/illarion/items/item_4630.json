@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 0,
+  "worth": 3200,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "peachJuice",
-  "level": 0,
+  "level": 50,
   "visual": "illarion:items/item_4630",
   "metadata": {
     "id": 4630

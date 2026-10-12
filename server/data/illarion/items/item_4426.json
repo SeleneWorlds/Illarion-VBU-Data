@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 970,
+  "worth": 950,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayShotGlassWithBerryBooze",
-  "level": 70,
+  "level": 40,
   "visual": "illarion:items/item_4426",
   "metadata": {
     "id": 4426

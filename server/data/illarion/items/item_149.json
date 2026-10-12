@@ -6,7 +6,7 @@
   "script": "alchemy.base.brewing",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 40,
+  "worth": 100,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,

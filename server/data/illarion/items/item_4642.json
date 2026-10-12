@@ -6,12 +6,12 @@
   "script": "item.bottles",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1950,
+  "worth": 0,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfDruidsTeaHalf",
-  "level": 0,
+  "level": 100,
   "visual": "illarion:items/item_4642",
   "metadata": {
     "id": 4642

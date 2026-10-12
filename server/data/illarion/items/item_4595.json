@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 3270,
+  "worth": 3550,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ironTeaCupVirginWeed",
-  "level": 25,
+  "level": 60,
   "visual": "illarion:items/item_4595",
   "metadata": {
     "id": 4595

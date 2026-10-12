@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 8060,
+  "worth": 8050,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "glassTeaCupFirNeedle",
-  "level": 23,
+  "level": 0,
   "visual": "illarion:items/item_4598",
   "metadata": {
     "id": 4598

@@ -82,6 +82,10 @@
     "illarion:skill_37": {
       "min": 80,
       "max": 90
+    },
+    "illarion:skill_52": {
+      "min": 80,
+      "max": 90
     }
   },
   "items": {

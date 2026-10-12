@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2270,
+  "worth": 2250,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "shotGlassWithBerryBooze",
-  "level": 70,
+  "level": 40,
   "visual": "illarion:items/item_4444",
   "metadata": {
     "id": 4444

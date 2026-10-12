@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_5322",
+  "script": "magic.nature.sigil",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "basicDeepweaveSigil",
+  "level": 0,
+  "visual": "illarion:items/item_5322",
+  "metadata": {
+    "id": 5322
+  }
+}

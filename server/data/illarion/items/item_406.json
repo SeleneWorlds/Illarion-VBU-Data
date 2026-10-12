@@ -3,15 +3,15 @@
   "weight": 2,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_406",
-  "script": "",
+  "script": "alchemy.base.brewing",
   "rotsInInventory": false,
   "brightness": 4,
-  "worth": 40,
+  "worth": 400,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "stinkhorn",
-  "level": 0,
+  "level": 90,
   "visual": "illarion:items/item_406",
   "metadata": {
     "id": 406

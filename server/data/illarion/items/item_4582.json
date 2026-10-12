@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 5450,
+  "worth": 5850,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "silverTeaCupDruid",
-  "level": 63,
+  "level": 100,
   "visual": "illarion:items/item_4582",
   "metadata": {
     "id": 4582

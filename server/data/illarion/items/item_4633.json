@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 0,
+  "worth": 4000,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "plumJuice",
-  "level": 0,
+  "level": 70,
   "visual": "illarion:items/item_4633",
   "metadata": {
     "id": 4633

@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 3090,
+  "worth": 3300,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ceramicShotGlassWithAbsinthe",
-  "level": 80,
+  "level": 90,
   "visual": "illarion:items/item_4415",
   "metadata": {
     "id": 4415

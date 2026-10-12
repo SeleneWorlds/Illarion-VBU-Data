@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 4160,
+  "worth": 4150,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "copperTeaCupFirNeedle",
-  "level": 23,
+  "level": 0,
   "visual": "illarion:items/item_4578",
   "metadata": {
     "id": 4578

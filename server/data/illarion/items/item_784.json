@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2300,
+  "worth": 1200,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfTangerineJuice",
-  "level": 55,
+  "level": 0,
   "visual": "illarion:items/item_784",
   "metadata": {
     "id": 784

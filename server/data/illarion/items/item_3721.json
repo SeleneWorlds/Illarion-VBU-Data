@@ -6,12 +6,12 @@
   "script": "item.bottles",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2700,
+  "worth": 2800,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfGreenTea",
-  "level": 53,
+  "level": 30,
   "visual": "illarion:items/item_3721",
   "metadata": {
     "id": 3721

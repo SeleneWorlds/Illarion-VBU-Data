@@ -6,12 +6,12 @@
   "script": "alchemy.base.brewing",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 40,
+  "worth": 200,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "angerBerry",
-  "level": 0,
+  "level": 45,
   "visual": "illarion:items/item_136",
   "metadata": {
     "id": 136

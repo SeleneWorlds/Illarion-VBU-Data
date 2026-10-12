@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1660,
+  "worth": 1650,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayTeaCupFirNeedle",
-  "level": 23,
+  "level": 0,
   "visual": "illarion:items/item_4573",
   "metadata": {
     "id": 4573

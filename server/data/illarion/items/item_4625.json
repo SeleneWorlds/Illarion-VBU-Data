@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 0,
+  "worth": 2400,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "elderberryJuice",
-  "level": 0,
+  "level": 30,
   "visual": "illarion:items/item_4625",
   "metadata": {
     "id": 4625

@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1020,
+  "worth": 1050,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayShotGlassWithMulledWine",
-  "level": 95,
+  "level": 60,
   "visual": "illarion:items/item_4429",
   "metadata": {
     "id": 4429

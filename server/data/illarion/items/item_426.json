@@ -1,8 +1,8 @@
 {
   "volume": 1,
   "weight": 30000,
-  "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_426",
+  "agingSpeed": 4,
+  "objectAfterRot": "illarion:item_5153",
   "script": "",
   "rotsInInventory": false,
   "brightness": 0,
@@ -10,8 +10,8 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
-  "name": "",
-  "level": 0,
+  "name": "fairyRingMushroomClusterEmpty",
+  "level": 75,
   "visual": "illarion:items/item_426",
   "metadata": {
     "id": 426

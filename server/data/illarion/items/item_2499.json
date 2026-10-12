@@ -6,7 +6,7 @@
   "script": "item.bottles",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 900,
+  "worth": 1000,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,

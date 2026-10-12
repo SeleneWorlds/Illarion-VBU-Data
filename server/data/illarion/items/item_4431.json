@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 980,
+  "worth": 900,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayShotGlassWithStoneFace",
-  "level": 75,
+  "level": 30,
   "visual": "illarion:items/item_4431",
   "metadata": {
     "id": 4431

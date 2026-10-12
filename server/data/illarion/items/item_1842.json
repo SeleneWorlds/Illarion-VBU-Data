@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 650,
+  "worth": 950,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "copperGobletWithWine",
-  "level": 5,
+  "level": 60,
   "visual": "illarion:items/item_1842",
   "metadata": {
     "id": 1842

@@ -11,7 +11,7 @@
   "maxStack": 1000,
   "rareness": 1,
   "name": "goldShotGlassWithOrangeSchnapps",
-  "level": 85,
+  "level": 50,
   "visual": "illarion:items/item_4457",
   "metadata": {
     "id": 4457

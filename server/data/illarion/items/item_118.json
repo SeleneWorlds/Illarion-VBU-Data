@@ -3,7 +3,7 @@
   "weight": 50,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_118",
-  "script": "item.general.wood",
+  "script": "item.rolling_pin",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 2000,

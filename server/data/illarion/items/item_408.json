@@ -10,8 +10,8 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
-  "name": "",
-  "level": 0,
+  "name": "elfCapClusterWest",
+  "level": 100,
   "visual": "illarion:items/item_408",
   "metadata": {
     "id": 408

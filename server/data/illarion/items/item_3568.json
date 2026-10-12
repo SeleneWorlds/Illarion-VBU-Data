@@ -6,12 +6,12 @@
   "script": "item.food",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1300,
+  "worth": 350,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bakedPotato",
-  "level": 10,
+  "level": 0,
   "visual": "illarion:items/item_3568",
   "metadata": {
     "id": 3568

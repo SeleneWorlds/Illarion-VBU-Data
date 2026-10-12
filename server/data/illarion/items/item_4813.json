@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 810,
+  "worth": 1250,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayShotGlassWithRum",
-  "level": 45,
+  "level": 80,
   "visual": "illarion:items/item_4813",
   "metadata": {
     "id": 4813

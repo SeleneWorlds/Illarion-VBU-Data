@@ -1,0 +1,8 @@
+{
+  "name": "poison",
+  "script": "magic.nature.poison",
+  "metadata": {
+    "id": 39,
+    "name": "poison"
+  }
+}

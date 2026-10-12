@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 5,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4251",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 50,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "pear",
+  "level": 0,
+  "visual": "illarion:items/item_4251",
+  "metadata": {
+    "id": 4251
+  }
+}

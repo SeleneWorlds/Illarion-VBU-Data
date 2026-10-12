@@ -6,12 +6,12 @@
   "script": "item.food",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 40,
+  "worth": 100,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "strawberry",
-  "level": 0,
+  "level": 10,
   "visual": "illarion:items/item_151",
   "metadata": {
     "id": 151

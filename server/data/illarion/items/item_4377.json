@@ -11,7 +11,7 @@
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfBerryBoozeQuarter",
-  "level": 0,
+  "level": 40,
   "visual": "illarion:items/item_4377",
   "metadata": {
     "id": 4377

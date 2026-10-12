@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1800,
+  "worth": 4000,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfCabbageJuice",
-  "level": 35,
+  "level": 70,
   "visual": "illarion:items/item_786",
   "metadata": {
     "id": 786

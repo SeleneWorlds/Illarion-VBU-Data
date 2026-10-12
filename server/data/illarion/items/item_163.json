@@ -6,12 +6,12 @@
   "script": "item.food",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 40,
+  "worth": 200,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "champignon",
-  "level": 0,
+  "level": 40,
   "visual": "illarion:items/item_163",
   "metadata": {
     "id": 163

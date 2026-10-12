@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 0,
+  "worth": 5200,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "pineappleJuice",
-  "level": 0,
+  "level": 100,
   "visual": "illarion:items/item_4632",
   "metadata": {
     "id": 4632

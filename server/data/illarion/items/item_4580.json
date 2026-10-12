@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 4170,
+  "worth": 4450,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "copperTeaCupVirginWeed",
-  "level": 25,
+  "level": 60,
   "visual": "illarion:items/item_4580",
   "metadata": {
     "id": 4580

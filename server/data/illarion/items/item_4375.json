@@ -11,7 +11,7 @@
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfCherrySchnappsQuarter",
-  "level": 0,
+  "level": 20,
   "visual": "illarion:items/item_4375",
   "metadata": {
     "id": 4375

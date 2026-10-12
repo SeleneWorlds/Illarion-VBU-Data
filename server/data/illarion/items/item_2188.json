@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 260,
+  "worth": 350,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "cupWithMead",
-  "level": 10,
+  "level": 20,
   "visual": "illarion:items/item_2188",
   "metadata": {
     "id": 2188

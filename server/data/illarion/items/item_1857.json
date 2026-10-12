@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1650,
+  "worth": 1950,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "goldenGobletWithWine",
-  "level": 5,
+  "level": 60,
   "visual": "illarion:items/item_1857",
   "metadata": {
     "id": 1857

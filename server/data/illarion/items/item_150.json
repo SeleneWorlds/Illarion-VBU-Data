@@ -10,7 +10,7 @@
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
-  "name": "",
+  "name": "firTreeSapling",
   "level": 0,
   "visual": "illarion:items/item_150",
   "metadata": {

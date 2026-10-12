@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 4050,
+  "worth": 4350,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "glassWithWine",
-  "level": 5,
+  "level": 60,
   "visual": "illarion:items/item_2057",
   "metadata": {
     "id": 2057

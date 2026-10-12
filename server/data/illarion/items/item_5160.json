@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_5160",
+  "script": "item.herb",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "marshFlowerPlant",
+  "level": 10,
+  "visual": "illarion:items/item_5160",
+  "metadata": {
+    "id": 5160
+  }
+}

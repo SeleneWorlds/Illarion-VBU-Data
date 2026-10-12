@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2290,
+  "worth": 2500,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "shotGlassWithAbsinthe",
-  "level": 80,
+  "level": 90,
   "visual": "illarion:items/item_4442",
   "metadata": {
     "id": 4442

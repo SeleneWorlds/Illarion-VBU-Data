@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 510,
+  "worth": 850,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ironShotGlassWithRum",
-  "level": 45,
+  "level": 80,
   "visual": "illarion:items/item_4808",
   "metadata": {
     "id": 4808

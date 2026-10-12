@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2600,
+  "worth": 4400,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfOrangeJuice",
-  "level": 65,
+  "level": 80,
   "visual": "illarion:items/item_3611",
   "metadata": {
     "id": 3611

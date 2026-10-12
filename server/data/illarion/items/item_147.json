@@ -6,12 +6,12 @@
   "script": "item.food",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 40,
+  "worth": 100,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "blackberry",
-  "level": 0,
+  "level": 20,
   "visual": "illarion:items/item_147",
   "metadata": {
     "id": 147

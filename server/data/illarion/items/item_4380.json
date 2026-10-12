@@ -11,7 +11,7 @@
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfStoneFaceHalf",
-  "level": 0,
+  "level": 30,
   "visual": "illarion:items/item_4380",
   "metadata": {
     "id": 4380

@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 660,
+  "worth": 750,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "copperGobletWithMead",
-  "level": 10,
+  "level": 20,
   "visual": "illarion:items/item_1843",
   "metadata": {
     "id": 1843

@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 6950,
+  "worth": 7000,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "goldTeaCupGreen",
-  "level": 53,
+  "level": 30,
   "visual": "illarion:items/item_4589",
   "metadata": {
     "id": 4589

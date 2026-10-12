@@ -11,7 +11,7 @@
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfRumHalf",
-  "level": 0,
+  "level": 80,
   "visual": "illarion:items/item_4806",
   "metadata": {
     "id": 4806

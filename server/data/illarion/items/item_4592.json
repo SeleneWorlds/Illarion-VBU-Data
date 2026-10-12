@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 3350,
+  "worth": 3750,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ironTeaCupDruid",
-  "level": 63,
+  "level": 100,
   "visual": "illarion:items/item_4592",
   "metadata": {
     "id": 4592

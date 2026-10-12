@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2320,
+  "worth": 2350,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "shotGlassWithMulledWine",
-  "level": 95,
+  "level": 60,
   "visual": "illarion:items/item_4447",
   "metadata": {
     "id": 4447

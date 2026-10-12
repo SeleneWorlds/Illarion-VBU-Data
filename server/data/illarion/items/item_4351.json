@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1070,
+  "worth": 1250,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayBeerMugFull",
-  "level": 15,
+  "level": 40,
   "visual": "illarion:items/item_4351",
   "metadata": {
     "id": 4351

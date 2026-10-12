@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 250,
+  "worth": 550,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "cupWithWine",
-  "level": 5,
+  "level": 60,
   "visual": "illarion:items/item_2187",
   "metadata": {
     "id": 2187

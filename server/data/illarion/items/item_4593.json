@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 3260,
+  "worth": 3250,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ironTeaCupFirNeedle",
-  "level": 23,
+  "level": 0,
   "visual": "illarion:items/item_4593",
   "metadata": {
     "id": 4593

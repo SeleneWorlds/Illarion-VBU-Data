@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 860,
+  "worth": 950,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayCupWithMead",
-  "level": 10,
+  "level": 20,
   "visual": "illarion:items/item_4344",
   "metadata": {
     "id": 4344

@@ -1,8 +1,8 @@
 {
   "volume": 1,
   "weight": 30000,
-  "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_427",
+  "agingSpeed": 4,
+  "objectAfterRot": "illarion:item_408",
   "script": "",
   "rotsInInventory": false,
   "brightness": 0,
@@ -10,8 +10,8 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
-  "name": "",
-  "level": 0,
+  "name": "elfCapClusterWestEmpty",
+  "level": 100,
   "visual": "illarion:items/item_427",
   "metadata": {
     "id": 427

@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 3020,
+  "worth": 3000,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ceramicShotGlassWithBerryBooze",
-  "level": 70,
+  "level": 40,
   "visual": "illarion:items/item_4417",
   "metadata": {
     "id": 4417

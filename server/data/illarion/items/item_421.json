@@ -10,8 +10,8 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
-  "name": "",
-  "level": 0,
+  "name": "bulbspongeMushroomCluster",
+  "level": 25,
   "visual": "illarion:items/item_421",
   "metadata": {
     "id": 421

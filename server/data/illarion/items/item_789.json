@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2400,
+  "worth": 1600,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfStrawberryJuice",
-  "level": 60,
+  "level": 10,
   "visual": "illarion:items/item_789",
   "metadata": {
     "id": 789

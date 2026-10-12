@@ -11,7 +11,7 @@
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfOrangeSchnappsQuarter",
-  "level": 0,
+  "level": 50,
   "visual": "illarion:items/item_4385",
   "metadata": {
     "id": 4385

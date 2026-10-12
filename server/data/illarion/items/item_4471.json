@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1870,
+  "worth": 1850,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "silverShotGlassWithBerryBooze",
-  "level": 70,
+  "level": 40,
   "visual": "illarion:items/item_4471",
   "metadata": {
     "id": 4471

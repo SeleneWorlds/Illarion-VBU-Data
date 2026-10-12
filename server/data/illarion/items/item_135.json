@@ -6,12 +6,12 @@
   "script": "alchemy.base.brewing",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 40,
+  "worth": 200,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "yellowWeed",
-  "level": 0,
+  "level": 30,
   "visual": "illarion:items/item_135",
   "metadata": {
     "id": 135

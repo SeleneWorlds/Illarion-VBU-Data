@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 460,
+  "worth": 550,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ironGobletWithMead",
-  "level": 10,
+  "level": 20,
   "visual": "illarion:items/item_4353",
   "metadata": {
     "id": 4353

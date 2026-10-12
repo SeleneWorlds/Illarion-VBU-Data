@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1750,
+  "worth": 1800,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayTeaCupGreen",
-  "level": 53,
+  "level": 30,
   "visual": "illarion:items/item_4574",
   "metadata": {
     "id": 4574

@@ -1,8 +1,8 @@
 {
   "volume": 5000,
   "weight": 30000,
-  "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_1809",
+  "agingSpeed": 2,
+  "objectAfterRot": "illarion:item_4246",
   "script": "item.tree",
   "rotsInInventory": false,
   "brightness": 0,

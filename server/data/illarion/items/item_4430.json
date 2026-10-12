@@ -11,7 +11,7 @@
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayShotGlassWithOrangeSchnapps",
-  "level": 85,
+  "level": 50,
   "visual": "illarion:items/item_4430",
   "metadata": {
     "id": 4430

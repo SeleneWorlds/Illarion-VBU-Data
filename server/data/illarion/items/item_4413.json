@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 3050,
+  "worth": 3350,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ceramicCupWithWine",
-  "level": 5,
+  "level": 60,
   "visual": "illarion:items/item_4413",
   "metadata": {
     "id": 4413

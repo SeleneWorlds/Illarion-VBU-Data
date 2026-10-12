@@ -1,15 +1,15 @@
 {
-  "range": 20,
+  "range": 10,
   "spawnAll": true,
-  "spawnRange": 20,
+  "spawnRange": 10,
   "monsters": {
     "illarion:monster_181": 4,
     "illarion:monster_182": 4
   },
   "enabled": true,
   "coordinate": {
-    "x": 75,
-    "y": 675,
+    "x": 64,
+    "y": 669,
     "z": 0
   },
   "spawnTime": {

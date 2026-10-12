@@ -6,7 +6,7 @@
   "script": "item.food",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 20,
+  "worth": 200,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,

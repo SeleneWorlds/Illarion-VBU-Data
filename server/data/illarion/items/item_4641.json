@@ -6,12 +6,12 @@
   "script": "item.bottles",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1375,
+  "worth": 0,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfVirginsWeedTeaQuarter",
-  "level": 0,
+  "level": 60,
   "visual": "illarion:items/item_4641",
   "metadata": {
     "id": 4641

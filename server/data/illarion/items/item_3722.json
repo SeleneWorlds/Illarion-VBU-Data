@@ -6,12 +6,12 @@
   "script": "item.bottles",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2700,
+  "worth": 5600,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfDruidsTea",
-  "level": 63,
+  "level": 100,
   "visual": "illarion:items/item_3722",
   "metadata": {
     "id": 3722

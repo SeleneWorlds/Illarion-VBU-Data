@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2280,
+  "worth": 2200,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "shotGlassWithStoneFace",
-  "level": 75,
+  "level": 30,
   "visual": "illarion:items/item_4449",
   "metadata": {
     "id": 4449

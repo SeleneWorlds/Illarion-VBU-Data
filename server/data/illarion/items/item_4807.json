@@ -11,7 +11,7 @@
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfRumQuarter",
-  "level": 0,
+  "level": 80,
   "visual": "illarion:items/item_4807",
   "metadata": {
     "id": 4807

@@ -10,8 +10,8 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
-  "name": "",
-  "level": 0,
+  "name": "sunflowers",
+  "level": 20,
   "visual": "illarion:items/item_1791",
   "metadata": {
     "id": 1791

@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1860,
+  "worth": 2000,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "silverShotGlassWithBearSlayer",
-  "level": 68,
+  "level": 70,
   "visual": "illarion:items/item_4470",
   "metadata": {
     "id": 4470

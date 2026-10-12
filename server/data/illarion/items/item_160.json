@@ -6,12 +6,12 @@
   "script": "item.food",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 40,
+  "worth": 400,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "redHead",
-  "level": 0,
+  "level": 80,
   "visual": "illarion:items/item_160",
   "metadata": {
     "id": 160

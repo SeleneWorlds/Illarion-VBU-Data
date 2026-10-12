@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 4060,
+  "worth": 4150,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "glassWithMead",
-  "level": 10,
+  "level": 20,
   "visual": "illarion:items/item_2056",
   "metadata": {
     "id": 2056

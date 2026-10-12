@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1710,
+  "worth": 2050,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "silverShotGlassWithRum",
-  "level": 45,
+  "level": 80,
   "visual": "illarion:items/item_4810",
   "metadata": {
     "id": 4810

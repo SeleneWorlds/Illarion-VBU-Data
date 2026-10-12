@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 15150,
+  "worth": 15550,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ceramicTeaCupDruid",
-  "level": 63,
+  "level": 100,
   "visual": "illarion:items/item_4567",
   "metadata": {
     "id": 4567

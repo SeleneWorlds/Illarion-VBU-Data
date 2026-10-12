@@ -50,6 +50,10 @@
     "illarion:skill_24": {
       "min": 10,
       "max": 20
+    },
+    "illarion:skill_52": {
+      "min": 10,
+      "max": 20
     }
   },
   "items": {},

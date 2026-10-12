@@ -1,8 +1,8 @@
 {
   "volume": 1,
   "weight": 30000,
-  "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_425",
+  "agingSpeed": 4,
+  "objectAfterRot": "illarion:item_417",
   "script": "",
   "rotsInInventory": false,
   "brightness": 0,
@@ -10,8 +10,8 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
-  "name": "",
-  "level": 0,
+  "name": "stinkhornClusterSouthEmpty",
+  "level": 90,
   "visual": "illarion:items/item_425",
   "metadata": {
     "id": 425

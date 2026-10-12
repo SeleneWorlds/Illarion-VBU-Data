@@ -6,12 +6,12 @@
   "script": "item.food",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 20,
+  "worth": 400,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "berries",
-  "level": 0,
+  "level": 90,
   "visual": "illarion:items/item_81",
   "metadata": {
     "id": 81

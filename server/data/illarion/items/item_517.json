@@ -6,12 +6,12 @@
   "script": "item.bottles",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2500,
+  "worth": 5000,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfRum",
-  "level": 45,
+  "level": 80,
   "visual": "illarion:items/item_517",
   "metadata": {
     "id": 517

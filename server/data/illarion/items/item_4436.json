@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1110,
+  "worth": 950,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "copperShotGlassWithCherrySchnapps",
-  "level": 90,
+  "level": 20,
   "visual": "illarion:items/item_4436",
   "metadata": {
     "id": 4436

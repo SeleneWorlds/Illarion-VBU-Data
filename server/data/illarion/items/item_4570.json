@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 15070,
+  "worth": 15350,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ceramicTeaCupVirginWeed",
-  "level": 25,
+  "level": 60,
   "visual": "illarion:items/item_4570",
   "metadata": {
     "id": 4570

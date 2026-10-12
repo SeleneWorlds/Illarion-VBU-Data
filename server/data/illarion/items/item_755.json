@@ -6,12 +6,12 @@
   "script": "alchemy.base.brewing",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 10000,
+  "worth": 0,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "fireRoot",
-  "level": 0,
+  "level": 55,
   "visual": "illarion:items/item_755",
   "metadata": {
     "id": 755

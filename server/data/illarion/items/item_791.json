@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1700,
+  "worth": 4800,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfGrapeJuice",
-  "level": 30,
+  "level": 90,
   "visual": "illarion:items/item_791",
   "metadata": {
     "id": 791

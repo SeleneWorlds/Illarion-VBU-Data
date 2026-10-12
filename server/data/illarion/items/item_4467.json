@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 680,
+  "worth": 600,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ironShotGlassWithStoneFace",
-  "level": 75,
+  "level": 30,
   "visual": "illarion:items/item_4467",
   "metadata": {
     "id": 4467

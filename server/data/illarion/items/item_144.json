@@ -6,12 +6,12 @@
   "script": "alchemy.base.brewing",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 40,
+  "worth": 300,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "virginsWeed",
-  "level": 0,
+  "level": 55,
   "visual": "illarion:items/item_144",
   "metadata": {
     "id": 144

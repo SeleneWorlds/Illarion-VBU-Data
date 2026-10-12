@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_5419",
+  "script": "item.curtains",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "beigeCurtainLeftOpenNorth",
+  "level": 0,
+  "visual": "illarion:items/item_5419",
+  "metadata": {
+    "id": 5419
+  }
+}

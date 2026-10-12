@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 0,
+  "worth": 4800,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "deerberryJuice",
-  "level": 0,
+  "level": 90,
   "visual": "illarion:items/item_4624",
   "metadata": {
     "id": 4624

@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1010,
+  "worth": 850,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayShotGlassWithCherrySchnapps",
-  "level": 90,
+  "level": 20,
   "visual": "illarion:items/item_4427",
   "metadata": {
     "id": 4427

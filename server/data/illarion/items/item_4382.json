@@ -11,7 +11,7 @@
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfAbsinthHalf",
-  "level": 0,
+  "level": 90,
   "visual": "illarion:items/item_4382",
   "metadata": {
     "id": 4382

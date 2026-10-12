@@ -3,15 +3,15 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_1790",
-  "script": "",
+  "script": "item.herb",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
-  "name": "",
-  "level": 0,
+  "name": "champignonCircle",
+  "level": 40,
   "visual": "illarion:items/item_1790",
   "metadata": {
     "id": 1790

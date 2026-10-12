@@ -1,10 +1,10 @@
 {
   "type": 0,
   "facing": "south",
-  "name": "Fijanna Squall",
-  "script": "npc.fijanna_squall",
+  "name": "Fianna Squall",
+  "script": "npc.fianna_squall",
   "sex": 1,
-  "hair": 1,
+  "hair": 7,
   "beard": 0,
   "enabled": true,
   "coordinates": {
@@ -13,21 +13,21 @@
     "z": 0
   },
   "hairColor": {
-    "red": 188,
-    "green": 91,
-    "blue": 13,
+    "red": 180,
+    "green": 180,
+    "blue": 180,
     "alpha": 255
   },
   "skinColor": {
-    "red": 253,
-    "green": 227,
-    "blue": 205,
+    "red": 210,
+    "green": 180,
+    "blue": 140,
     "alpha": 255
   },
   "race": "illarion:race_0",
   "entity": "illarion:races/race_0_1",
   "metadata": {
     "id": 389,
-    "name": "Fijanna Squall"
+    "name": "Fianna Squall"
   }
 }

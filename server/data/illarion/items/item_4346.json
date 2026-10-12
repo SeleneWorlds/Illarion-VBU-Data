@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 850,
+  "worth": 1150,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "clayCupWithWine",
-  "level": 5,
+  "level": 60,
   "visual": "illarion:items/item_4346",
   "metadata": {
     "id": 4346

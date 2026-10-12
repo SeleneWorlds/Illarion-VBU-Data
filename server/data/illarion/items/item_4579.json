@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 4250,
+  "worth": 4300,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "copperTeaCupGreen",
-  "level": 53,
+  "level": 30,
   "visual": "illarion:items/item_4579",
   "metadata": {
     "id": 4579

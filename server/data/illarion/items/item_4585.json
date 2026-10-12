@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 5370,
+  "worth": 5650,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "silverTeaCupVirginWeed",
-  "level": 25,
+  "level": 60,
   "visual": "illarion:items/item_4585",
   "metadata": {
     "id": 4585

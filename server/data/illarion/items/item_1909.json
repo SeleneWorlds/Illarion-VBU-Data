@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 10070,
+  "worth": 10250,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "beerMug",
-  "level": 15,
+  "level": 40,
   "visual": "illarion:items/item_1909",
   "metadata": {
     "id": 1909

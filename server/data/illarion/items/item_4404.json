@@ -6,12 +6,12 @@
   "script": "item.bottles",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 0,
+  "worth": 5000,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfFairyWine",
-  "level": 0,
+  "level": 100,
   "visual": "illarion:items/item_4404",
   "metadata": {
     "id": 4404

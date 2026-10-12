@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 3350,
+  "worth": 3400,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ironTeaCupGreen",
-  "level": 53,
+  "level": 30,
   "visual": "illarion:items/item_4594",
   "metadata": {
     "id": 4594

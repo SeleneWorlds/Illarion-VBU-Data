@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 450,
+  "worth": 750,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "ironGobletWithWine",
-  "level": 5,
+  "level": 60,
   "visual": "illarion:items/item_4354",
   "metadata": {
     "id": 4354

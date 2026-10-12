@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1060,
+  "worth": 1200,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "copperShotGlassWithBearSlayer",
-  "level": 68,
+  "level": 70,
   "visual": "illarion:items/item_4434",
   "metadata": {
     "id": 4434

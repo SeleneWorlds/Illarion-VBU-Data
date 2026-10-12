@@ -6,12 +6,12 @@
   "script": "item.bottles",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 4400,
+  "worth": 3800,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfOrangeSchnapps",
-  "level": 85,
+  "level": 50,
   "visual": "illarion:items/item_1322",
   "metadata": {
     "id": 1322

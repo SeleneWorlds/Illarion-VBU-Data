@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 1900,
+  "worth": 3200,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfCarrotJuice",
-  "level": 40,
+  "level": 50,
   "visual": "illarion:items/item_788",
   "metadata": {
     "id": 788

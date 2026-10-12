@@ -6,12 +6,12 @@
   "script": "item.food",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 40,
+  "worth": 300,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "birthMushroom",
-  "level": 0,
+  "level": 60,
   "visual": "illarion:items/item_162",
   "metadata": {
     "id": 162

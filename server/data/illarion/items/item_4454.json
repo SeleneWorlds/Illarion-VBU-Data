@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 2310,
+  "worth": 2150,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "goldShotGlassWithCherrySchnapps",
-  "level": 90,
+  "level": 20,
   "visual": "illarion:items/item_4454",
   "metadata": {
     "id": 4454

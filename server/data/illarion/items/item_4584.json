@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 5450,
+  "worth": 5500,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "silverTeaCupGreen",
-  "level": 53,
+  "level": 30,
   "visual": "illarion:items/item_4584",
   "metadata": {
     "id": 4584

@@ -6,12 +6,12 @@
   "script": "item.bottles",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 4500,
+  "worth": 2600,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "bottleOfCherrySchnapps",
-  "level": 90,
+  "level": 20,
   "visual": "illarion:items/item_1319",
   "metadata": {
     "id": 1319

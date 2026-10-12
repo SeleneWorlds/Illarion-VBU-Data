@@ -1,0 +1,6 @@
+{
+  "script": "triggerfield.base.donation",
+  "function": "scheduledBagDonationCheck",
+  "minInterval": 10,
+  "maxInterval": 10
+}

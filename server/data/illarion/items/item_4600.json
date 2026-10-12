@@ -6,12 +6,12 @@
   "script": "item.drinks",
   "rotsInInventory": false,
   "brightness": 0,
-  "worth": 8070,
+  "worth": 8350,
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
   "name": "glassTeaCupVirginWeed",
-  "level": 25,
+  "level": 60,
   "visual": "illarion:items/item_4600",
   "metadata": {
     "id": 4600
