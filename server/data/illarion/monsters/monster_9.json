@@ -3,10 +3,11 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_0_human.default",
-  "minSize": 100,
-  "maxSize": 100,
+  "size": {
+    "min": 100,
+    "max": 100
+  },
   "attributes": {
     "agility": {
       "min": 41,
@@ -86,36 +87,49 @@
   "items": {
     "head": {
       "item": "illarion:item_648",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     },
     "left hand": {
       "item": "illarion:item_2626",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     },
     "breast": {
       "item": "illarion:item_2402",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     },
     "legs": {
       "item": "illarion:item_826",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     },
     "feet": {
       "item": "illarion:item_697",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     },
     "coat": {
       "item": "illarion:item_2418",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     }
   },
   "metadata": {
-    "id": 9
+    "id": 9,
+    "name": "Cursed Knight"
   }
 }

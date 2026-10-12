@@ -3,10 +3,11 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_61_slime.default",
-  "minSize": 100,
-  "maxSize": 110,
+  "size": {
+    "min": 100,
+    "max": 110
+  },
   "attributes": {
     "strength": {
       "min": 8,
@@ -86,186 +87,287 @@
   "items": {
     "breast": {
       "item": "illarion:item_182",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     },
     "legs": {
       "item": "illarion:item_34",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     }
   },
   "drops": {
     "1": {
       "1921": {
         "chance": 0.2,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_256"
+        "item": "illarion:item_256",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1922": {
         "chance": 0.1,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_252"
+        "item": "illarion:item_252",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1923": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_253"
+        "item": "illarion:item_253",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1924": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_257"
+        "item": "illarion:item_257",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1925": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_257"
+        "item": "illarion:item_257",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       }
     },
     "2": {
       "1926": {
         "chance": 0.2,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_256"
+        "item": "illarion:item_256",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1927": {
         "chance": 0.1,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_252"
+        "item": "illarion:item_252",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1928": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_284"
+        "item": "illarion:item_284",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1929": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_198"
+        "item": "illarion:item_198",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1930": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_285"
+        "item": "illarion:item_285",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       }
     },
     "3": {
       "1931": {
         "chance": 0.2,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_26"
+        "item": "illarion:item_26",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1932": {
         "chance": 0.1,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_252"
+        "item": "illarion:item_252",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1933": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_284"
+        "item": "illarion:item_284",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1934": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_198"
+        "item": "illarion:item_198",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       },
       "1935": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 4,
-        "minDurability": 33,
-        "maxDurability": 44,
-        "item": "illarion:item_285"
+        "item": "illarion:item_285",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 4
+        },
+        "durability": {
+          "min": 33,
+          "max": 44
+        }
       }
     },
     "4": {
       "1936": {
         "chance": 1,
-        "minCount": 30,
-        "maxCount": 90,
-        "minQuality": 7,
-        "maxQuality": 7,
-        "minDurability": 73,
-        "maxDurability": 73,
-        "item": "illarion:item_3076"
+        "item": "illarion:item_3076",
+        "count": {
+          "min": 30,
+          "max": 90
+        },
+        "quality": {
+          "min": 7,
+          "max": 7
+        },
+        "durability": {
+          "min": 73,
+          "max": 73
+        }
       }
     }
   },
   "metadata": {
-    "id": 613
+    "id": 613,
+    "name": "Mouldy Slime"
   }
 }

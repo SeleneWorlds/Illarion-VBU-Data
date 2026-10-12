@@ -3,10 +3,11 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_40_wolf.id_403_grey_tail",
-  "minSize": 80,
-  "maxSize": 100,
+  "size": {
+    "min": 80,
+    "max": 100
+  },
   "attributes": {
     "strength": {
       "min": 5,
@@ -86,47 +87,68 @@
   "items": {
     "breast": {
       "item": "illarion:item_101",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     }
   },
   "drops": {
     "1": {
       "1315": {
         "chance": 0.5,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
-        "item": "illarion:item_63"
+        "item": "illarion:item_63",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        }
       },
       "3389": {
         "chance": 1,
-        "minCount": 2,
-        "maxCount": 4,
-        "minQuality": 3,
-        "maxQuality": 3,
-        "minDurability": 33,
-        "maxDurability": 33,
-        "item": "illarion:item_4318"
+        "item": "illarion:item_4318",
+        "count": {
+          "min": 2,
+          "max": 4
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        }
       }
     },
     "2": {
       "1316": {
         "chance": 1,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 3,
-        "minDurability": 33,
-        "maxDurability": 33,
-        "item": "illarion:item_2586"
+        "item": "illarion:item_2586",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        }
       }
     }
   },
   "metadata": {
-    "id": 403
+    "id": 403,
+    "name": "Grey Tail"
   }
 }

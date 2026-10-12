@@ -3,10 +3,11 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_111_rat.default",
-  "minSize": 80,
-  "maxSize": 90,
+  "size": {
+    "min": 80,
+    "max": 90
+  },
   "attributes": {
     "willpower": {
       "min": 1,
@@ -51,43 +52,63 @@
       "max": 20
     }
   },
+  "items": {},
   "drops": {
     "1": {
       "305": {
         "chance": 0.5,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 3,
-        "minDurability": 33,
-        "maxDurability": 33,
-        "item": "illarion:item_63"
+        "item": "illarion:item_63",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        }
       },
       "3412": {
         "chance": 1,
-        "minCount": 2,
-        "maxCount": 4,
-        "minQuality": 3,
-        "maxQuality": 3,
-        "minDurability": 33,
-        "maxDurability": 33,
-        "item": "illarion:item_4818"
+        "item": "illarion:item_4818",
+        "count": {
+          "min": 2,
+          "max": 4
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        }
       }
     },
     "2": {
       "306": {
         "chance": 1,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 3,
-        "minDurability": 33,
-        "maxDurability": 33,
-        "item": "illarion:item_2586"
+        "item": "illarion:item_2586",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        }
       }
     }
   },
   "metadata": {
-    "id": 1112
+    "id": 1112,
+    "name": "Small Rat"
   }
 }

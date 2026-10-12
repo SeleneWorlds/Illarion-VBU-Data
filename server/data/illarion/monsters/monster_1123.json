@@ -3,10 +3,11 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_112_flesh_dragon.id_1123_deathdragon",
-  "minSize": 110,
-  "maxSize": 120,
+  "size": {
+    "min": 110,
+    "max": 120
+  },
   "attributes": {
     "strength": {
       "min": 32,
@@ -86,119 +87,180 @@
   "items": {
     "head": {
       "item": "illarion:item_2286",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     },
     "breast": {
       "item": "illarion:item_2400",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     },
     "right hand": {
       "item": "illarion:item_1051",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     }
   },
   "drops": {
     "1": {
       "3209": {
         "chance": 0.2,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 7,
-        "maxQuality": 8,
-        "minDurability": 77,
-        "maxDurability": 88,
-        "item": "illarion:item_447"
+        "item": "illarion:item_447",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 7,
+          "max": 8
+        },
+        "durability": {
+          "min": 77,
+          "max": 88
+        }
       },
       "3210": {
         "chance": 0.1,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 7,
-        "maxQuality": 8,
-        "minDurability": 77,
-        "maxDurability": 88,
-        "item": "illarion:item_449"
+        "item": "illarion:item_449",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 7,
+          "max": 8
+        },
+        "durability": {
+          "min": 77,
+          "max": 88
+        }
       },
       "3211": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 7,
-        "maxQuality": 8,
-        "minDurability": 77,
-        "maxDurability": 88,
-        "item": "illarion:item_738"
+        "item": "illarion:item_738",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 7,
+          "max": 8
+        },
+        "durability": {
+          "min": 77,
+          "max": 88
+        }
       },
       "3212": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 6,
-        "maxQuality": 7,
-        "minDurability": 99,
-        "maxDurability": 99,
-        "item": "illarion:item_505"
+        "item": "illarion:item_505",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 99,
+          "max": 99
+        }
       },
       "3410": {
         "chance": 1,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 3,
-        "minDurability": 33,
-        "maxDurability": 33,
-        "item": "illarion:item_4298"
+        "item": "illarion:item_4298",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        }
       }
     },
     "2": {
       "3213": {
         "chance": 0.5,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 7,
-        "maxQuality": 8,
-        "minDurability": 77,
-        "maxDurability": 88,
-        "item": "illarion:item_450"
+        "item": "illarion:item_450",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 7,
+          "max": 8
+        },
+        "durability": {
+          "min": 77,
+          "max": 88
+        }
       },
       "3214": {
         "chance": 0.02,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 7,
-        "maxQuality": 8,
-        "minDurability": 77,
-        "maxDurability": 88,
-        "item": "illarion:item_2534"
+        "item": "illarion:item_2534",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 7,
+          "max": 8
+        },
+        "durability": {
+          "min": 77,
+          "max": 88
+        }
       },
       "3215": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 7,
-        "maxQuality": 8,
-        "minDurability": 77,
-        "maxDurability": 88,
-        "item": "illarion:item_2553"
+        "item": "illarion:item_2553",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 7,
+          "max": 8
+        },
+        "durability": {
+          "min": 77,
+          "max": 88
+        }
       }
     },
     "3": {
       "3216": {
         "chance": 1,
-        "minCount": 30,
-        "maxCount": 90,
-        "minQuality": 7,
-        "maxQuality": 7,
-        "minDurability": 73,
-        "maxDurability": 73,
-        "item": "illarion:item_3077"
+        "item": "illarion:item_3077",
+        "count": {
+          "min": 30,
+          "max": 90
+        },
+        "quality": {
+          "min": 7,
+          "max": 7
+        },
+        "durability": {
+          "min": 73,
+          "max": 73
+        }
       }
     }
   },
   "metadata": {
-    "id": 1123
+    "id": 1123,
+    "name": "Dragon of Death"
   }
 }

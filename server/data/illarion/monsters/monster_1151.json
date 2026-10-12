@@ -3,10 +3,11 @@
   "hitpoints": 10000,
   "movementType": "fly",
   "canAttack": false,
-  "canHealSelf": false,
   "script": "monster.race_115_fairy.default",
-  "minSize": 80,
-  "maxSize": 120,
+  "size": {
+    "min": 80,
+    "max": 120
+  },
   "attributes": {
     "strength": {
       "min": 1,
@@ -83,7 +84,9 @@
       "max": 20
     }
   },
+  "items": {},
   "metadata": {
-    "id": 1151
+    "id": 1151,
+    "name": "Fairy"
   }
 }

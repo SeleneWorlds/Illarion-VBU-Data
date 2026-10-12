@@ -3,10 +3,11 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": false,
-  "canHealSelf": false,
   "script": "monster.race_113_rabbit.id_1135_desert",
-  "minSize": 100,
-  "maxSize": 120,
+  "size": {
+    "min": 100,
+    "max": 120
+  },
   "attributes": {
     "strength": {
       "min": 1,
@@ -41,33 +42,48 @@
       "max": 1
     }
   },
+  "skills": {},
+  "items": {},
   "drops": {
     "1": {
       "3228": {
         "chance": 1,
-        "minCount": 2,
-        "maxCount": 4,
-        "minQuality": 3,
-        "maxQuality": 3,
-        "minDurability": 33,
-        "maxDurability": 33,
-        "item": "illarion:item_553"
+        "item": "illarion:item_553",
+        "count": {
+          "min": 2,
+          "max": 4
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        }
       }
     },
     "2": {
       "3270": {
         "chance": 1,
-        "minCount": 1,
-        "maxCount": 2,
-        "minQuality": 5,
-        "maxQuality": 5,
-        "minDurability": 55,
-        "maxDurability": 55,
-        "item": "illarion:item_2586"
+        "item": "illarion:item_2586",
+        "count": {
+          "min": 1,
+          "max": 2
+        },
+        "quality": {
+          "min": 5,
+          "max": 5
+        },
+        "durability": {
+          "min": 55,
+          "max": 55
+        }
       }
     }
   },
   "metadata": {
-    "id": 1136
+    "id": 1136,
+    "name": "Desert Hare"
   }
 }

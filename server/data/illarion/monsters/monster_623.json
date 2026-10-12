@@ -3,10 +3,11 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_62_chicken.id_623_crazy",
-  "minSize": 100,
-  "maxSize": 120,
+  "size": {
+    "min": 100,
+    "max": 120
+  },
   "attributes": {
     "strength": {
       "min": 1,
@@ -86,37 +87,52 @@
   "items": {
     "breast": {
       "item": "illarion:item_34",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     }
   },
   "drops": {
     "1": {
       "1964": {
         "chance": 1,
-        "minCount": 2,
-        "maxCount": 4,
-        "minQuality": 3,
-        "maxQuality": 3,
-        "minDurability": 33,
-        "maxDurability": 33,
-        "item": "illarion:item_1151"
+        "item": "illarion:item_1151",
+        "count": {
+          "min": 2,
+          "max": 4
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        }
       }
     },
     "2": {
       "3248": {
         "chance": 0.3,
-        "minCount": 1,
-        "maxCount": 1,
-        "minQuality": 3,
-        "maxQuality": 3,
-        "minDurability": 33,
-        "maxDurability": 33,
-        "item": "illarion:item_2696"
+        "item": "illarion:item_2696",
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        }
       }
     }
   },
   "metadata": {
-    "id": 623
+    "id": 623,
+    "name": "Crazy Chicken"
   }
 }
