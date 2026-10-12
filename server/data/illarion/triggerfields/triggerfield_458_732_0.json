@@ -1,6 +1,8 @@
 {
-  "x": 458,
-  "y": 732,
-  "z": 0,
+  "coordinate": {
+    "x": 458,
+    "y": 732,
+    "z": 0
+  },
   "script": "triggerfield.raptor_hole"
 }

@@ -1,6 +1,8 @@
 {
-  "x": 900,
-  "y": 607,
-  "z": -9,
+  "coordinate": {
+    "x": 900,
+    "y": 607,
+    "z": -9
+  },
   "script": "triggerfield.ronagan_triggers"
 }

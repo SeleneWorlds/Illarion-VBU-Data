@@ -1,6 +1,8 @@
 {
-  "x": 901,
-  "y": 580,
-  "z": 0,
+  "coordinate": {
+    "x": 901,
+    "y": 580,
+    "z": 0
+  },
   "script": "triggerfield.wonderland_612"
 }

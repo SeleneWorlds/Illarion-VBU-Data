@@ -1,6 +1,8 @@
 {
-  "x": 363,
-  "y": 52,
-  "z": 0,
+  "coordinate": {
+    "x": 363,
+    "y": 52,
+    "z": 0
+  },
   "script": "triggerfield.northernislands_fire_661"
 }

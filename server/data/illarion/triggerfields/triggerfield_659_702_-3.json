@@ -1,6 +1,8 @@
 {
-  "x": 659,
-  "y": 702,
-  "z": -3,
+  "coordinate": {
+    "x": 659,
+    "y": 702,
+    "z": -3
+  },
   "script": "triggerfield.spelunker_1"
 }

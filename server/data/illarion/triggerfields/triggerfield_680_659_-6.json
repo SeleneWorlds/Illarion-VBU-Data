@@ -1,6 +1,8 @@
 {
-  "x": 680,
-  "y": 659,
-  "z": -6,
+  "coordinate": {
+    "x": 680,
+    "y": 659,
+    "z": -6
+  },
   "script": "triggerfield.volcano_chest"
 }

@@ -1,6 +1,8 @@
 {
-  "x": 726,
-  "y": 408,
-  "z": -3,
+  "coordinate": {
+    "x": 726,
+    "y": 408,
+    "z": -3
+  },
   "script": "triggerfield.ambient"
 }

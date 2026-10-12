@@ -1,6 +1,8 @@
 {
-  "x": 708,
-  "y": 294,
-  "z": 0,
+  "coordinate": {
+    "x": 708,
+    "y": 294,
+    "z": 0
+  },
   "script": "triggerfield.noobia_nimbur"
 }

@@ -1,6 +1,8 @@
 {
-  "x": 368,
-  "y": 255,
-  "z": 0,
+  "coordinate": {
+    "x": 368,
+    "y": 255,
+    "z": 0
+  },
   "script": "triggerfield.galmair_guard_rules"
 }

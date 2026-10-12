@@ -1,6 +1,8 @@
 {
-  "x": 808,
-  "y": 459,
-  "z": 0,
+  "coordinate": {
+    "x": 808,
+    "y": 459,
+    "z": 0
+  },
   "script": "triggerfield.elstree_water_661"
 }

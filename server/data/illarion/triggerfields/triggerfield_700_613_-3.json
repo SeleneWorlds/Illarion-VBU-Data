@@ -1,6 +1,8 @@
 {
-  "x": 700,
-  "y": 613,
-  "z": -3,
+  "coordinate": {
+    "x": 700,
+    "y": 613,
+    "z": -3
+  },
   "script": "triggerfield.dragon_cave_triggers"
 }

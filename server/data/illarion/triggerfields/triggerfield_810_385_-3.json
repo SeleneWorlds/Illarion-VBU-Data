@@ -1,6 +1,8 @@
 {
-  "x": 810,
-  "y": 385,
-  "z": -3,
+  "coordinate": {
+    "x": 810,
+    "y": 385,
+    "z": -3
+  },
   "script": "triggerfield.foxden_ambient"
 }

@@ -1,6 +1,8 @@
 {
-  "x": 565,
-  "y": 206,
-  "z": -3,
+  "coordinate": {
+    "x": 565,
+    "y": 206,
+    "z": -3
+  },
   "script": "triggerfield.viridian_needles_lair_triggers"
 }

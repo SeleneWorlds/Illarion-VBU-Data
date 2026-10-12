@@ -1,6 +1,8 @@
 {
-  "x": 786,
-  "y": 281,
-  "z": -3,
+  "coordinate": {
+    "x": 786,
+    "y": 281,
+    "z": -3
+  },
   "script": "triggerfield.druid_tutorial_meditation"
 }

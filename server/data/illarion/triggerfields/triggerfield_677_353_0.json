@@ -1,6 +1,8 @@
 {
-  "x": 677,
-  "y": 353,
-  "z": 0,
+  "coordinate": {
+    "x": 677,
+    "y": 353,
+    "z": 0
+  },
   "script": "triggerfield.noobia_wilderness"
 }

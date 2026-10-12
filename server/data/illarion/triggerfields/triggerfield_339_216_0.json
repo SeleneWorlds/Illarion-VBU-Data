@@ -1,6 +1,8 @@
 {
-  "x": 339,
-  "y": 216,
-  "z": 0,
+  "coordinate": {
+    "x": 339,
+    "y": 216,
+    "z": 0
+  },
   "script": "triggerfield.donation_galmair"
 }

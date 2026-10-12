@@ -1,6 +1,8 @@
 {
-  "x": 704,
-  "y": 300,
-  "z": 0,
+  "coordinate": {
+    "x": 704,
+    "y": 300,
+    "z": 0
+  },
   "script": "triggerfield.noobia_pathway"
 }

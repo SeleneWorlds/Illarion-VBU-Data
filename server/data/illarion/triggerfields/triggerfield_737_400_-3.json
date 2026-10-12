@@ -1,6 +1,8 @@
 {
-  "x": 737,
-  "y": 400,
-  "z": -3,
+  "coordinate": {
+    "x": 737,
+    "y": 400,
+    "z": -3
+  },
   "script": "triggerfield.salavesh_firetrap2"
 }

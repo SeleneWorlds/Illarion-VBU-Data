@@ -1,6 +1,8 @@
 {
-  "x": 427,
-  "y": 839,
-  "z": -9,
+  "coordinate": {
+    "x": 427,
+    "y": 839,
+    "z": -9
+  },
   "script": "triggerfield.akaltutschamber_ambient"
 }

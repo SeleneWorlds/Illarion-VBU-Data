@@ -1,6 +1,8 @@
 {
-  "x": 749,
-  "y": 442,
-  "z": -3,
+  "coordinate": {
+    "x": 749,
+    "y": 442,
+    "z": -3
+  },
   "script": "triggerfield.salavesh_triggered_events"
 }

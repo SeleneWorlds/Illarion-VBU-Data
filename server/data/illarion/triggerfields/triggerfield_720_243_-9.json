@@ -1,6 +1,8 @@
 {
-  "x": 720,
-  "y": 243,
-  "z": -9,
+  "coordinate": {
+    "x": 720,
+    "y": 243,
+    "z": -9
+  },
   "script": "triggerfield.lakeoflife_triggers"
 }

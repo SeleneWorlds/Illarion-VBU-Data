@@ -1,6 +1,8 @@
 {
-  "x": 697,
-  "y": 313,
-  "z": 0,
+  "coordinate": {
+    "x": 697,
+    "y": 313,
+    "z": 0
+  },
   "script": "triggerfield.common_patrol"
 }

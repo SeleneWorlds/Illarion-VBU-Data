@@ -1,6 +1,8 @@
 {
-  "x": 389,
-  "y": 35,
-  "z": 0,
+  "coordinate": {
+    "x": 389,
+    "y": 35,
+    "z": 0
+  },
   "script": "triggerfield.northernislands_spirit_661"
 }

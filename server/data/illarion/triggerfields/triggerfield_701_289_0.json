@@ -1,6 +1,8 @@
 {
-  "x": 701,
-  "y": 289,
-  "z": 0,
+  "coordinate": {
+    "x": 701,
+    "y": 289,
+    "z": 0
+  },
   "script": "triggerfield.noobia_henry"
 }

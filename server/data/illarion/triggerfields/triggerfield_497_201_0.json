@@ -1,6 +1,8 @@
 {
-  "x": 497,
-  "y": 201,
-  "z": 0,
+  "coordinate": {
+    "x": 497,
+    "y": 201,
+    "z": 0
+  },
   "script": "triggerfield.galmair_bridges2_660"
 }

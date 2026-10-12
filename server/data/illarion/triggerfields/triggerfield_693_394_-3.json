@@ -1,6 +1,8 @@
 {
-  "x": 693,
-  "y": 394,
-  "z": -3,
+  "coordinate": {
+    "x": 693,
+    "y": 394,
+    "z": -3
+  },
   "script": "content.salaveshDungeon"
 }

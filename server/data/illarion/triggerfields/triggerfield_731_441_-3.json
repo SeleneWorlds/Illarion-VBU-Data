@@ -1,6 +1,8 @@
 {
-  "x": 731,
-  "y": 441,
-  "z": -3,
+  "coordinate": {
+    "x": 731,
+    "y": 441,
+    "z": -3
+  },
   "script": "triggerfield.salavesh_teleport"
 }

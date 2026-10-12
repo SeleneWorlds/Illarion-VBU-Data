@@ -1,6 +1,8 @@
 {
-  "x": 894,
-  "y": 529,
-  "z": -6,
+  "coordinate": {
+    "x": 894,
+    "y": 529,
+    "z": -6
+  },
   "script": "triggerfield.spidernest_triggered_spawns"
 }

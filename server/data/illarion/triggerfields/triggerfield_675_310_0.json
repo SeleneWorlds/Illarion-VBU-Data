@@ -1,6 +1,8 @@
 {
-  "x": 675,
-  "y": 310,
-  "z": 0,
+  "coordinate": {
+    "x": 675,
+    "y": 310,
+    "z": 0
+  },
   "script": "triggerfield.noobia_market"
 }

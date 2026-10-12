@@ -1,6 +1,8 @@
 {
-  "x": 503,
-  "y": 780,
-  "z": -6,
+  "coordinate": {
+    "x": 503,
+    "y": 780,
+    "z": -6
+  },
   "script": "triggerfield.akaltut_teleport"
 }

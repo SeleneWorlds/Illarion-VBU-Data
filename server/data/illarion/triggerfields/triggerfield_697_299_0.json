@@ -1,6 +1,8 @@
 {
-  "x": 697,
-  "y": 299,
-  "z": 0,
+  "coordinate": {
+    "x": 697,
+    "y": 299,
+    "z": 0
+  },
   "script": "triggerfield.noobia_campfire"
 }

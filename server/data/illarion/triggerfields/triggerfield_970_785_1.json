@@ -1,6 +1,8 @@
 {
-  "x": 970,
-  "y": 785,
-  "z": 1,
+  "coordinate": {
+    "x": 970,
+    "y": 785,
+    "z": 1
+  },
   "script": "triggerfield.altars"
 }

@@ -1,6 +1,8 @@
 {
-  "x": 117,
-  "y": 623,
-  "z": 0,
+  "coordinate": {
+    "x": 117,
+    "y": 623,
+    "z": 0
+  },
   "script": "triggerfield.aquestionofhonour_1"
 }

@@ -1,6 +1,8 @@
 {
-  "x": 690,
-  "y": 298,
-  "z": 0,
+  "coordinate": {
+    "x": 690,
+    "y": 298,
+    "z": 0
+  },
   "script": "triggerfield.noobia_viola"
 }

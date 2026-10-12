@@ -1,6 +1,8 @@
 {
-  "x": 942,
-  "y": 784,
-  "z": 1,
+  "coordinate": {
+    "x": 942,
+    "y": 784,
+    "z": 1
+  },
   "script": "triggerfield.donation_runewick"
 }

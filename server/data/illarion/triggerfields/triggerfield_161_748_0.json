@@ -1,6 +1,8 @@
 {
-  "x": 161,
-  "y": 748,
-  "z": 0,
+  "coordinate": {
+    "x": 161,
+    "y": 748,
+    "z": 0
+  },
   "script": "triggerfield.homeland"
 }

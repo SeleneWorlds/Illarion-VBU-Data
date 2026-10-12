@@ -1,6 +1,8 @@
 {
-  "x": 636,
-  "y": 272,
-  "z": 0,
+  "coordinate": {
+    "x": 636,
+    "y": 272,
+    "z": 0
+  },
   "script": "triggerfield.zzarnkskaofzelphia"
 }

@@ -1,6 +1,8 @@
 {
-  "x": 994,
-  "y": 228,
-  "z": 0,
+  "coordinate": {
+    "x": 994,
+    "y": 228,
+    "z": 0
+  },
   "script": "triggerfield.evilrock"
 }

@@ -1,6 +1,8 @@
 {
-  "x": 448,
-  "y": 122,
-  "z": 0,
+  "coordinate": {
+    "x": 448,
+    "y": 122,
+    "z": 0
+  },
   "script": "triggerfield.galmair_guard_patrol_2"
 }

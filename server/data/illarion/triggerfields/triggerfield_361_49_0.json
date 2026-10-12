@@ -1,6 +1,8 @@
 {
-  "x": 361,
-  "y": 49,
-  "z": 0,
+  "coordinate": {
+    "x": 361,
+    "y": 49,
+    "z": 0
+  },
   "script": "triggerfield.ferry"
 }

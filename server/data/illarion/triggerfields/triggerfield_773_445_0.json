@@ -1,6 +1,8 @@
 {
-  "x": 773,
-  "y": 445,
-  "z": 0,
+  "coordinate": {
+    "x": 773,
+    "y": 445,
+    "z": 0
+  },
   "script": "triggerfield.elstree_altar"
 }

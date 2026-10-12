@@ -1,6 +1,8 @@
 {
-  "x": 714,
-  "y": 287,
-  "z": 0,
+  "coordinate": {
+    "x": 714,
+    "y": 287,
+    "z": 0
+  },
   "script": "triggerfield.noobia_orchard"
 }

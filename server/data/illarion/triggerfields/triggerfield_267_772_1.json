@@ -1,6 +1,8 @@
 {
-  "x": 267,
-  "y": 772,
-  "z": 1,
+  "coordinate": {
+    "x": 267,
+    "y": 772,
+    "z": 1
+  },
   "script": "triggerfield.mtletma_ambient"
 }

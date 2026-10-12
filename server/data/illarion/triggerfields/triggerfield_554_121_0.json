@@ -1,6 +1,8 @@
 {
-  "x": 554,
-  "y": 121,
-  "z": 0,
+  "coordinate": {
+    "x": 554,
+    "y": 121,
+    "z": 0
+  },
   "script": "triggerfield.altaroffive_triggered_events"
 }

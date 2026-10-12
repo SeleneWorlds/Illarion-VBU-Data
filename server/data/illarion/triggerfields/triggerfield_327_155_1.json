@@ -1,6 +1,8 @@
 {
-  "x": 327,
-  "y": 155,
-  "z": 1,
+  "coordinate": {
+    "x": 327,
+    "y": 155,
+    "z": 1
+  },
   "script": "triggerfield.wind_puzzle"
 }

@@ -1,6 +1,8 @@
 {
-  "x": 743,
-  "y": 404,
-  "z": -3,
+  "coordinate": {
+    "x": 743,
+    "y": 404,
+    "z": -3
+  },
   "script": "triggerfield.salavesh_firetrap"
 }

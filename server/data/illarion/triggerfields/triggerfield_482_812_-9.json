@@ -1,6 +1,8 @@
 {
-  "x": 482,
-  "y": 812,
-  "z": -9,
+  "coordinate": {
+    "x": 482,
+    "y": 812,
+    "z": -9
+  },
   "script": "triggerfield.akaltutschamber_mudwarp"
 }

@@ -1,6 +1,8 @@
 {
-  "x": 413,
-  "y": 345,
-  "z": 0,
+  "coordinate": {
+    "x": 413,
+    "y": 345,
+    "z": 0
+  },
   "script": "triggerfield.magic_of_malachite_teleport"
 }

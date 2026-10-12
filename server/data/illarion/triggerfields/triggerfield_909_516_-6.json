@@ -1,6 +1,8 @@
 {
-  "x": 909,
-  "y": 516,
-  "z": -6,
+  "coordinate": {
+    "x": 909,
+    "y": 516,
+    "z": -6
+  },
   "script": "triggerfield.spidernest_ambient"
 }

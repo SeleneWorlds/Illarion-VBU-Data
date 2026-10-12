@@ -1,6 +1,8 @@
 {
-  "x": 115,
-  "y": 560,
-  "z": -6,
+  "coordinate": {
+    "x": 115,
+    "y": 560,
+    "z": -6
+  },
   "script": "triggerfield.cistern_ambient"
 }

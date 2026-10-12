@@ -1,6 +1,8 @@
 {
-  "x": 724,
-  "y": 312,
-  "z": 0,
+  "coordinate": {
+    "x": 724,
+    "y": 312,
+    "z": 0
+  },
   "script": "triggerfield.noobia_temple"
 }

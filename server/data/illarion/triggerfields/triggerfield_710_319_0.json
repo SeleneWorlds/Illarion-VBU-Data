@@ -1,6 +1,8 @@
 {
-  "x": 710,
-  "y": 319,
-  "z": 0,
+  "coordinate": {
+    "x": 710,
+    "y": 319,
+    "z": 0
+  },
   "script": "triggerfield.noobia_depot"
 }
