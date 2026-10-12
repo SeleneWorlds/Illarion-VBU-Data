@@ -1,19 +1,19 @@
 {
+  "range": 15,
+  "spawnAll": false,
+  "spawnRange": 15,
+  "monsters": {
+    "illarion:monster_201": 1
+  },
   "enabled": true,
   "coordinate": {
     "x": 249,
     "y": 757,
     "z": -3
   },
-  "range": 15,
   "spawnTime": {
     "min": 60,
     "max": 180
-  },
-  "spawnAll": false,
-  "spawnRange": 15,
-  "monsters": {
-    "illarion:monster_201": 1
   },
   "metadata": {
     "id": 19

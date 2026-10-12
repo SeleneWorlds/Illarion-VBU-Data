@@ -1,17 +1,17 @@
 {
+  "range": 10,
+  "spawnAll": false,
+  "spawnRange": 10,
   "enabled": true,
   "coordinate": {
     "x": 679,
     "y": 441,
     "z": -3
   },
-  "range": 10,
   "spawnTime": {
     "min": 60,
     "max": 180
   },
-  "spawnAll": false,
-  "spawnRange": 10,
   "metadata": {
     "id": 103
   }

@@ -1,20 +1,20 @@
 {
+  "range": 10,
+  "spawnAll": false,
+  "spawnRange": 10,
+  "monsters": {
+    "illarion:monster_1031": 1,
+    "illarion:monster_1051": 1
+  },
   "enabled": true,
   "coordinate": {
     "x": 410,
     "y": 641,
     "z": -12
   },
-  "range": 10,
   "spawnTime": {
     "min": 10,
     "max": 30
-  },
-  "spawnAll": false,
-  "spawnRange": 10,
-  "monsters": {
-    "illarion:monster_1031": 1,
-    "illarion:monster_1051": 1
   },
   "metadata": {
     "id": 91

@@ -1,15 +1,5 @@
 {
-  "enabled": true,
-  "coordinate": {
-    "x": 284,
-    "y": 541,
-    "z": -3
-  },
   "range": 50,
-  "spawnTime": {
-    "min": 10,
-    "max": 30
-  },
   "spawnAll": false,
   "spawnRange": 50,
   "monsters": {
@@ -28,6 +18,16 @@
     "illarion:monster_984": 3,
     "illarion:monster_303": 3,
     "illarion:monster_982": 3
+  },
+  "enabled": true,
+  "coordinate": {
+    "x": 284,
+    "y": 541,
+    "z": -3
+  },
+  "spawnTime": {
+    "min": 10,
+    "max": 30
   },
   "metadata": {
     "id": 63

@@ -1,19 +1,19 @@
 {
+  "range": 20,
+  "spawnAll": false,
+  "spawnRange": 20,
+  "monsters": {
+    "illarion:monster_584": 8
+  },
   "enabled": true,
   "coordinate": {
     "x": 225,
     "y": 625,
     "z": 0
   },
-  "range": 20,
   "spawnTime": {
     "min": 10,
     "max": 30
-  },
-  "spawnAll": false,
-  "spawnRange": 20,
-  "monsters": {
-    "illarion:monster_584": 8
   },
   "metadata": {
     "id": 144
