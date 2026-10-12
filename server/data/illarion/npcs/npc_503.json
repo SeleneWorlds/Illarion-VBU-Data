@@ -7,7 +7,7 @@
   "hair": 0,
   "beard": 5,
   "enabled": true,
-  "coordinates": {
+  "coordinate": {
     "x": 354,
     "y": 872,
     "z": 0
