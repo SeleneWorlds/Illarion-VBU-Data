@@ -24,10 +24,6 @@
         }
       ]
     },
-    "hair": "integer",
-    "beard": "integer",
-    "hairColor": "color",
-    "skinColor": "color",
     "race": {
       "type": "registry",
       "registry": "illarion:races"
@@ -36,10 +32,14 @@
       "type": "registry",
       "registry": "selene:entities"
     },
-    "consequence": {
-      "type": "registry",
-      "registry": "consequence:interactions",
-      "optional": true
+    "skills": {
+      "type": "map",
+      "optional": true,
+      "keyType": {
+        "type": "registry",
+        "registry": "illarion:skills"
+      },
+      "valueType": { "type": "integer", "min": 0, "max": 100 }
     }
   }
 }
