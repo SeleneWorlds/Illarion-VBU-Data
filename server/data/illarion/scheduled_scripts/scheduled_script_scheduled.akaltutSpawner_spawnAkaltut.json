@@ -1,6 +1,8 @@
 {
   "script": "scheduled.akaltutSpawner",
   "function": "spawnAkaltut",
-  "minInterval": 6000,
-  "maxInterval": 18000
+  "interval": {
+    "min": 6000,
+    "max": 18000
+  }
 }

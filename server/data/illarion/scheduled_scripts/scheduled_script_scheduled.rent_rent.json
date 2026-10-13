@@ -1,6 +1,8 @@
 {
   "script": "scheduled.rent",
   "function": "rent",
-  "minInterval": 600,
-  "maxInterval": 600
+  "interval": {
+    "min": 600,
+    "max": 600
+  }
 }

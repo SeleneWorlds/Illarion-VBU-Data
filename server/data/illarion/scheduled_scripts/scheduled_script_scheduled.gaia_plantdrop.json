@@ -1,6 +1,8 @@
 {
   "script": "scheduled.gaia",
   "function": "plantdrop",
-  "minInterval": 100,
-  "maxInterval": 100
+  "interval": {
+    "min": 100,
+    "max": 100
+  }
 }
